@@ -1,0 +1,201 @@
+date_data_collect,name_of_rrh,re_admit,age,sex,res_district,res_subcounty,village,occupation,allergies,infect_site___1,infect_site___2,infect_site___3,infect_site___4,infect_site___5,infect_site___6,infect_site___7,infect_site___8,site_based_sample___1,site_based_sample___2,site_based_sample___3,site_based_sample___4,site_based_sample___5,site_based_sample___6,site_based_sample___7,site_based_sample___8,site_based_sample___9,sec_site_infection___1,sec_site_infection___2,sec_site_infection___3,sec_site_infection___4,sec_site_infection___5,sec_site_infection___6,sec_site_infection___7,sec_site_infection___8,sec_site_infection___9,referral,facility_category,admission_date,ward
+2025-07-25 15:17:23,Kabale,Yes,40.0,Female,Lira,Kakira,Wiagney,,Unknown,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Private health facilty,2021-01-23 20:28:11,Medical
+2025-06-11 21:06:11,Kabale,No,12.0,Male,Kaliro,Ruyita,Rukungure,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2021-04-10 09:35:44,Accident and emergency
+2025-08-02 04:47:23,Kabale,No,77.0,Female,Rukungiri,Lugeyo,Adwala,,Unknown,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,2023-03-10 16:37:02,Gynaecology
+2025-05-18 07:33:44,Lira,Yes,54.0,Female,Rubanda,,Akidi,,Unknown,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,2024-10-07 19:19:14,Surgical
+2025-07-03 21:39:16,Lira,No,53.0,Male,Alebtong,Kakumiro,Angwetiangwet,Farmer,Unknown,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2020-07-04 17:33:12,Accident and emergency
+2025-07-16 20:05:58,Lira,No,10.0,Male,Oyam,Adakokow,Obangadangaowaka,,Unknown,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Private health facilty,2020-05-03 04:31:20,Orthopaedic
+2025-07-27 23:54:55,Jinja,No,80.0,Female,Amuru,,Tiavu,,Unknown,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,,2025-06-26 21:33:34,Orthopaedic
+2025-06-24 10:17:13,Jinja,No,36.0,Male,Jinja,,Ndiwansi,,Unknown,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,,2024-11-19 19:16:34,Medical
+2025-07-01 04:05:05,Arua,No,88.0,Male,Arua,,Oruba,,Unknown,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,,2020-05-27 07:02:39,Surgical
+2025-07-01 16:15:24,Arua,No,7.0,Female,Arua,,,,Unknown,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Lower-level public health facility,2025-06-11 21:38:47,Medical
+2025-07-13 09:28:26,Jinja,No,4.0,Female,Jinja,Nansolo,,,Unknown,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Private health facilty,2025-07-14 23:59:59,Medical
+2025-07-26 06:24:32,Jinja,No,27.0,Female,Arua,,,,Unknown,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,,2025-07-14 23:58:36,Medical
+2025-08-04 01:05:45,Gulu,No,48.0,Male,Terego,,Anyafio,Housewife,Unknown,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,,2025-07-13 21:07:17,Surgical
+2025-08-04 18:55:34,Gulu,No,30.0,Male,Kabale,,,Farmer,Unknown,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2024-08-29 14:13:33,Orthopaedic
+2025-07-30 09:15:10,Lira,No,2.0,Male,Ntungamo,Moroto,Isegelo,Businessman,Unknown,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Lower-level public health facility,2020-04-25 22:49:45,Paediatric
+2025-07-10 14:45:10,Jinja,No,15.0,Female,Terego,,Gulugulu,,Unknown,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,,2025-07-14 20:20:03,Orthopaedic
+2025-07-18 20:37:54,Kabale,No,35.0,Female,Buikwe,,Bujowali,,Unknown,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,2024-12-19 20:13:41,Surgical
+2025-07-24 04:05:21,Arua,No,32.0,Male,Gulu,,,,Unknown,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,2024-11-06 18:57:57,Accident and emergency
+2025-07-06 18:45:29,Jinja,No,80.0,Male,Jinja,Luba,,,Unknown,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,,2025-07-01 17:39:47,Medical
+2025-07-27 15:44:21,Arua,No,3.0,Female,Arua,Ombaci,,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,,2025-05-07 10:32:29,Accident and emergency
+2025-07-14 13:36:59,Jinja,No,20.0,Female,Nwoya,,,,Unknown,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,,No,No,Yes,No,No,No,No,No,,2025-07-02 00:09:08,Gynaecology
+2025-08-02 06:07:49,Kabale,No,17.0,Male,Lira,Wakisi,Stmaurice,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Lower-level public health facility,2020-05-09 21:41:11,TB ward
+2025-07-02 18:47:11,Jinja,No,16.0,Male,Rukiga,Buganya,Butare,Peasant,Unknown,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,,2020-07-29 17:37:26,Surgical
+2025-06-15 23:11:44,Kabale,Yes,53.0,Male,Kabaale,Agweng,Adwala,Peasant,Unknown,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Lower-level public health facility,2020-04-24 00:00:00,Medical
+2025-07-28 20:53:22,Arua,No,10.0,Male,Amuru,Central,,,Unknown,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,,2025-06-08 09:44:43,Medical
+2025-06-27 14:07:26,Jinja,Yes,12.0,Female,,Mafumbira,,,Unknown,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,,2025-07-11 14:04:10,Paediatric
+2025-06-29 02:12:21,Jinja,No,65.0,Male,Jinja,Rubanda,Otaloyat,,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,,2020-12-28 16:48:52,Paediatric
+2025-08-07 00:12:28,Kabale,No,19.0,Female,Apac,Lira City,Uci,,Unknown,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2024-05-10 14:50:04,Maternity/Post-Natal ward
+2025-07-10 10:46:59,Jinja,No,37.0,Female,Busede,Kitumba,Gulu,,Unknown,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2020-05-22 13:57:04,Surgical
+2025-07-12 07:40:32,Arua,No,2.0,Male,Gulu,,,,Unknown,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,,2025-07-14 23:51:29,Orthopaedic
+2025-07-14 21:38:59,Gulu,No,58.0,Male,Jinja,Bugembe,Munsha,,Unknown,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,,2025-07-14 23:04:58,Gynaecology
+2025-05-08 20:43:58,Jinja,No,35.0,Female,Bugiri,Abeya,Mpungu,,Unknown,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,,2023-10-05 04:06:10,Surgical
+2025-06-21 02:34:09,Arua,No,34.0,Female,Jinja,,,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2024-11-07 13:21:21,Surgical
+2025-07-20 22:11:59,Kabale,No,15.0,Male,Kabaale,Atongtidi,Oju,,Unknown,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Private health facilty,2020-09-25 01:15:34,Surgical
+2025-07-23 15:11:56,Arua,No,4.0,Female,Maracha,,Pece,,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,,2025-04-11 23:41:30,Medical
+2025-06-25 01:54:40,Jinja,No,78.0,Female,Kabale,,,,Unknown,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,,2025-07-02 16:59:32,Surgical
+2025-07-12 21:37:00,Kabale,No,10.0,Male,Lira,Omito,Otuto,Peasant,Unknown,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,,2025-05-29 06:31:27,Surgical
+2025-08-05 00:52:52,Kabale,No,25.0,Male,Rubanda,,Forgod,,Unknown,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Private health facilty,2020-05-02 23:09:45,ICU/HDU
+2025-07-24 01:48:53,Jinja,Yes,24.0,Male,Kayunga,Kabimbiri,Angeva,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,2020-05-24 02:39:19,Medical
+2025-05-20 11:06:42,Arua,No,54.0,Female,Pady,,Alivu,,Unknown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,,2025-07-13 08:19:37,ICU/HDU
+2025-07-19 03:13:13,Arua,No,81.0,Male,Arua,,,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Private health facilty,2025-07-14 23:44:42,Paediatric
+2025-07-22 23:18:52,Jinja,No,2.0,Female,Jinja,Wakikoola A,Burambia,,Unknown,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,,2024-10-13 19:10:24,Surgical
+2025-07-25 13:42:16,Gulu,No,81.0,Female,Gulu,,Payame,,Unknown,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,,2025-05-30 13:26:12,Medical
+2025-07-20 23:12:04,Jinja,No,23.0,Male,Jinja,Luba,Kirombe,Farmer,Unknown,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2020-12-23 10:56:26,Orthopaedic
+2025-07-06 02:05:44,Arua,No,2.0,Male,Gulu,Northern Division,Ayivu,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2024-03-08 12:50:08,Gynaecology
+2025-05-05 19:16:06,Jinja,No,46.0,Male,Kabale,Ndego,,,Unknown,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,,2020-05-13 19:38:29,Medical
+2025-07-30 18:02:42,Jinja,No,22.0,Male,Wakiso,,Yapi,Farmer,Unknown,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,,2022-07-16 10:42:47,Surgical
+2025-06-19 02:15:41,Arua,No,1.0,Female,Kitgum,,,,Unknown,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,,2025-07-14 23:59:59,ICU/HDU
+2025-07-02 19:44:13,Jinja,Yes,19.0,Female,Jinja,Myene,Bulamage,,Unknown,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2025-01-09 14:00:48,NICU Unit
+2025-06-28 01:34:45,Gulu,No,67.0,Female,Gulu,Budondo,,,Unknown,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2020-05-23 12:14:34,Surgical
+2025-07-31 15:07:37,Arua,No,14.0,Male,Maracha,,Payame,,Unknown,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,,2025-07-06 04:26:58,Medical
+2025-05-09 17:15:30,Arua,No,13.0,Female,Maracha,,,,Unknown,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,,2023-06-09 12:49:22,Gynaecology
+2025-07-30 17:37:28,Jinja,No,65.0,Female,Kabale,Mite,Butare,,Unknown,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2025-07-14 03:16:55,Paediatric
+2025-07-16 14:54:50,Kabale,No,27.0,Female,Ntungamo,Agolowelo,Kinyafugwe,Tailor,Unknown,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,2023-11-08 08:51:46,Medical
+2025-07-26 06:04:07,Kabale,No,20.0,Female,Mpumudde,Agonga,Angeva,,Unknown,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,,2025-07-03 19:30:52,Paediatric
+2025-08-07 00:21:08,Arua,No,20.0,Male,Arua City,,,,Unknown,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Private health facilty,2025-07-12 19:19:40,Orthopaedic
+2025-07-19 10:15:32,Jinja,No,12.0,Male,Gulu,,Mbiko,,Unknown,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,,2024-11-04 03:19:54,Medical
+2025-08-01 13:08:16,Arua,No,69.0,Female,Arua,,Jacinto,,Unknown,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2025-02-06 20:25:04,Medical
+2025-07-20 01:07:44,Kabale,No,8.0,Male,Buikwe,,,,Unknown,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Lower-level public health facility,2022-03-08 16:32:55,Surgical
+2025-06-21 04:06:07,Kabale,No,60.0,Female,Kabaale,Atongtidi,Ader,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,,2020-05-12 21:57:15,Maternity/Post-Natal ward
+2025-07-31 01:13:57,Arua,No,14.0,Female,Terego,,,Peasant,Unknown,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2025-07-07 13:59:41,Medical
+2025-07-03 10:26:54,Arua,No,13.0,Female,Arua City,,,,Unknown,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2025-07-14 23:59:50,Orthopaedic
+2025-05-05 09:09:30,Jinja,No,39.0,Female,Jinja,,Lajuutek,,Unknown,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,2025-07-02 03:37:12,Surgical
+2025-07-25 15:33:59,Jinja,No,31.0,Female,Kabale,Namutumba,Ngobere,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,2025-07-13 20:45:42,Medical
+2025-07-12 15:33:08,Lira,No,6.0,Female,Alebtong,Kolesouth,Logiri,,Unknown,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,,2025-07-08 11:05:08,Medical
+2025-07-14 09:38:26,Arua,No,6.0,Male,Maracha,,,,Unknown,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,2025-07-07 04:16:53,Medical
+2025-07-25 02:38:16,Arua,No,70.0,Female,Arua,,Jacinto,,Unknown,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,2025-06-30 20:30:55,Medical
+2025-07-27 11:04:07,Gulu,No,61.0,Male,Omoro,Magada,Kasubi,,Unknown,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,,2025-07-14 14:54:05,Orthopaedic
+2025-07-14 14:58:00,Kabale,No,2.0,Female,Rukiga,Aremo,Pece,Peasant,Unknown,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2024-03-25 03:53:13,ICU/HDU
+2025-08-02 07:19:25,Gulu,Yes,61.0,Female,Kabale,,,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2025-07-14 01:46:28,Surgical
+2025-04-17 13:06:41,Jinja,No,89.0,Female,Nwoya,,Wairaka,,Unknown,No,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,2025-04-15 03:02:38,Maternity/Post-Natal ward
+2025-08-01 03:43:19,Kabale,No,27.0,Male,Busede,,Kakokea,,Unknown,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Private health facilty,2025-06-01 20:10:45,Maternity/Post-Natal ward
+2025-07-05 01:31:45,Arua,No,1.0,Male,Maracha,,Kenyagoya,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,,2025-07-14 11:58:02,Orthopaedic
+2025-06-20 19:56:21,Gulu,Yes,30.0,Female,Omoro,,,Peasant,Unknown,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,2025-07-14 23:59:59,Medical
+2025-06-06 01:21:52,Arua,Yes,27.0,Male,Arua,,Lacekocot,,Unknown,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Lower-level public health facility,2024-01-21 20:01:55,Gynaecology
+2025-07-12 04:50:22,Gulu,No,7.0,Male,Arua City,Walukuba,Busaku,Farmer,Unknown,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2024-10-03 14:28:39,Surgical
+2025-06-16 19:23:31,Jinja,No,22.0,Male,Adjumani,Bubaale,Kekubo,,Unknown,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2022-07-16 01:03:50,Surgical
+2025-06-28 03:01:42,Lira,No,30.0,Male,Oyam,Ngetta,Otuto,,Unknown,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Lower-level public health facility,2020-06-18 12:41:52,Medical
+2025-07-29 08:30:27,Gulu,No,15.0,Male,Jinja,,Oli,Peasant,Unknown,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,2025-07-11 15:13:59,ICU/HDU
+2025-08-05 03:02:42,Lira,No,25.0,Male,Kabaale,Arua City,,Peasant,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2020-04-24 00:00:00,Medical
+2025-05-28 17:39:07,Kabale,No,55.0,Female,Kabaale,Kigonzi,Murubaya,,Unknown,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Lower-level public health facility,2021-08-15 09:04:33,Surgical
+2025-06-20 02:34:24,Lira,No,47.0,Female,Rukiga,Southern Division,Makura,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,,2025-04-21 22:27:00,Surgical
+2025-07-06 18:27:17,Lira,No,69.0,Female,Lira,Lira City East,Aber,,Unknown,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Lower-level public health facility,2020-05-11 15:59:44,Surgical
+2025-05-28 04:00:19,Kabale,No,47.0,Male,Kanugu,Kakoge,Ntarabana,Student,Unknown,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,Private health facilty,2025-07-14 14:17:15,Paediatric
+2025-07-23 17:35:23,Kabale,No,35.0,Male,Lira,,Kagunga,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,,2025-05-01 19:31:51,Paediatric
+2025-08-04 08:37:09,Lira,No,73.0,Female,Lira,Hamurwa,Delleb,,Unknown,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2020-04-24 00:00:00,Medical
+2025-07-21 15:37:00,Kabale,No,11.0,Male,Oyam,Atongtidi,Okwalagabu,Farmer,Unknown,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,,2023-08-30 00:33:54,Accident and emergency
+2025-07-19 09:55:36,Kabale,No,2.0,Male,Luuka,Bugembe,Lukome,Student,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,2020-05-05 03:12:34,Orthopaedic
+2025-06-14 03:07:14,Jinja,Yes,84.0,Female,Bugiri,Ojwina,Obangarbor,,Unknown,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,,2025-05-21 03:27:35,Paediatric
+2025-07-22 06:42:54,Arua,No,15.0,Male,Arua,,,Peasant,Unknown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,2025-07-07 15:22:21,Paediatric
+2025-06-15 15:16:37,Lira,No,39.0,Male,Rukungiri,Lira City East,Arakicell,Farmer,Unknown,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,,2023-11-25 04:34:50,Surgical
+2025-07-02 17:03:21,Arua,No,2.0,Male,Arua,,,,Unknown,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,,2025-07-14 00:49:03,Accident and emergency
+2025-08-02 02:41:58,Arua,No,8.0,Male,Jinja,,,,Unknown,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,No,,2025-07-14 14:04:53,Surgical
+2025-08-02 00:15:08,Kabale,No,10.0,Male,Luuka,Lugeyo,Omuruhita,,Unknown,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2020-11-25 07:10:43,Paediatric
+2025-07-18 02:34:13,Jinja,No,60.0,Female,Bugiri,,Liria,,Unknown,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,,2022-07-14 00:13:55,Paediatric
+2025-06-19 20:42:59,Gulu,Yes,49.0,Male,Arua,Budondo,Makanga,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2025-04-02 03:45:16,Medical
+2025-05-19 10:24:13,Arua,No,40.0,Male,Arua,,Ajonoyivu,,Unknown,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Lower-level public health facility,2025-06-16 19:26:22,Gynaecology
+2025-07-24 14:03:58,Arua,No,76.0,Male,Gulu,,,Peasant,Unknown,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2025-05-22 09:25:49,NICU Unit
+2025-07-14 11:56:11,Jinja,No,15.0,Male,Kabale,,Kakimeto,,Unknown,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2024-06-10 16:58:01,Surgical
+2025-07-12 23:48:01,Jinja,No,23.0,Male,Rubanda,Kaharo,Ruhama,Farmer,Unknown,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,,2025-07-14 11:06:16,Accident and emergency
+2025-07-09 22:05:35,Kabale,No,9.0,Male,Buikwe,Muko,Nangulyagu,,Unknown,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,,2024-03-22 14:50:27,Medical
+2025-06-27 04:45:10,Lira,No,63.0,Male,Oyam,Arono,Ajuriya,Hawker,Unknown,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2024-07-04 17:00:08,Medical
+2025-05-25 07:29:00,Kabale,No,47.0,Female,Buikwe,Kikumbi,Akuriwoo,,Unknown,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,,2020-04-26 08:10:53,Surgical
+2025-06-29 13:17:16,Kabale,No,27.0,Female,Rukiga,Ogur,Agweng,,Unknown,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,2023-10-28 01:03:16,Paediatric
+2025-07-28 15:41:56,Kabale,No,7.0,Female,Kanungu,Hamurwa,Mwarashaniro,Teacher,Unknown,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Lower-level public health facility,2020-05-02 02:55:59,Maternity/Post-Natal ward
+2025-08-06 15:06:39,Kabale,No,34.0,Female,Lira,Buyendo,Andruvu,Peasant,Unknown,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2024-07-20 17:14:04,Surgical
+2025-06-09 09:38:19,Kabale,No,12.0,Male,Gulu,Bufundi,Obangarbor,,Unknown,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,,2025-07-02 16:29:56,Surgical
+2025-07-26 22:05:53,Lira,No,15.0,Male,Lira,Bufundi,Peya,Peasant,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2020-11-06 18:38:10,Surgical
+2025-07-29 08:52:13,Lira,No,10.0,Male,Ntungamo,Buhara,Otaloyat,Student,Unknown,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Private health facilty,2021-08-11 02:27:14,Orthopaedic
+2025-07-29 18:21:04,Arua,No,55.0,Female,Jinja,,,Farmer,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,,2021-06-13 21:49:09,Paediatric
+2025-07-02 04:06:49,Jinja,No,12.0,Male,Adjumani,Ikumba,Nyakabungo,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,,2021-08-30 02:03:55,Paediatric
+2025-08-04 10:31:47,Lira,No,10.0,Female,Alebtong,Boroboro,Omwibumba,Peasant,Unknown,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2022-11-23 09:23:03,Medical
+2025-06-29 08:25:23,Kabale,No,61.0,Female,Rubanda,Wanyama,,Peasant,Unknown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2020-05-21 09:01:17,Surgical
+2025-08-04 02:36:49,Kabale,No,69.0,Male,Rubanda,Njeru,Lalia,Peasant,Unknown,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Private health facilty,2023-05-16 00:11:55,Paediatric
+2025-07-11 00:50:28,Arua,Yes,31.0,Female,Gulu,,,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2025-07-14 23:50:43,Surgical
+2025-05-12 02:50:23,Jinja,No,26.0,Male,Nwoya,Kumba,Elegu,,Unknown,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,,No,No,Yes,No,No,Yes,No,No,,2025-04-13 20:52:52,Gynaecology
+2025-07-29 07:11:45,Arua,No,52.0,Male,Arua,,Namutumba,,Unknown,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2025-06-28 18:15:04,Orthopaedic
+2025-07-29 08:26:23,Kabale,No,33.0,Female,Alebtong,Hamurwa,Kasubi,Social worker,Unknown,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Lower-level public health facility,2020-10-12 00:53:20,Gynaecology
+2025-07-02 11:32:03,Gulu,No,14.0,Male,Arua City,,,,Unknown,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Lower-level public health facility,2025-06-25 14:31:50,Surgical
+2025-06-15 23:34:01,Jinja,No,23.0,Male,Rubanda,Kanzizi,Kigara,,Unknown,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Lower-level public health facility,2025-07-11 03:56:10,TB ward
+2025-06-25 05:13:22,Arua,No,3.0,Male,Arua City,,Alivu,,Unknown,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2025-07-14 23:33:01,Surgical
+2025-07-11 16:47:46,Arua,No,77.0,Female,Arua,,,,Unknown,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2025-07-14 23:30:30,Medical
+2025-07-24 12:26:44,Kabale,No,21.0,Female,Buikwe,Rushisya,Bugweri,,Unknown,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,,2021-10-27 12:31:46,Medical
+2025-07-26 11:07:42,Gulu,No,81.0,Male,Mayuge,Kichumbi,,,Unknown,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Lower-level public health facility,2024-09-03 23:06:46,Maternity/Post-Natal ward
+2025-07-27 01:03:05,Lira,No,6.0,Female,Alebtong,Apala,Manmedikit,,Unknown,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Lower-level public health facility,2023-10-16 00:34:22,Paediatric
+2025-07-03 14:46:09,Arua,No,25.0,Female,Arua,Gotgwang,Nyakambya,,Unknown,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,,2024-09-28 06:54:48,Surgical
+2025-07-29 02:53:16,Arua,No,15.0,Female,Arua,,,,Unknown,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2025-07-10 21:02:18,Accident and emergency
+2025-07-17 20:20:15,Jinja,No,41.0,Male,Jinja,Akwango,Kashenyi,Peasant,Unknown,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,,2024-09-19 06:44:38,Surgical
+2025-07-11 16:12:25,Lira,No,29.0,Male,Lira,Singo,Alokolum,,Unknown,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,,2025-07-01 23:18:52,Accident and emergency
+2025-08-02 02:33:46,Jinja,No,37.0,Female,Arua City,Mutunda,,,Unknown,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,,2021-12-24 20:30:47,Medical
+2025-07-23 19:24:37,Lira,No,4.0,Male,Kole,,Mwarashaniro,Peasant,Unknown,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Lower-level public health facility,2020-08-06 21:34:16,Medical
+2025-08-02 12:08:25,Arua,Yes,71.0,Male,Arua,,,,Unknown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,,2025-07-14 23:50:00,Surgical
+2025-06-17 11:11:37,Kabale,No,14.0,Female,Kabaale,Boroboro,Obangarbor,,Unknown,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,2022-03-03 01:47:38,Medical
+2025-06-25 22:07:52,Gulu,No,5.0,Female,Madi Okollo,Bulanpila,Abilonino,,Unknown,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,2025-07-05 05:19:42,Medical
+2025-06-10 03:57:16,Jinja,Yes,5.0,Male,Rubanda,Magada,Nyakayenje,,Unknown,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,,2024-11-06 18:44:24,Gynaecology
+2025-07-21 17:21:29,Arua,No,7.0,Female,Terego,Imanhiro,,,Unknown,No,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2025-02-20 11:32:47,Gynaecology
+2025-06-16 07:12:29,Arua,No,39.0,Male,Arua,,Ayilo,,Unknown,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,,2025-07-14 23:59:53,Maternity/Post-Natal ward
+2025-06-25 15:44:32,Kabale,No,33.0,Female,Kabale,Rwamucucu,Kabere,,Unknown,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,,No,No,No,,2025-07-09 04:36:20,Paediatric
+2025-07-16 04:27:39,Arua,No,10.0,Male,Arua,,Luba,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,,2025-07-14 21:31:46,Orthopaedic
+2025-07-29 01:32:37,Jinja,No,58.0,Female,Iganga,Maziba,Pajur,Farmer,Unknown,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2020-05-10 19:26:15,Surgical
+2025-07-12 15:18:21,Arua,No,5.0,Female,Gulu,,,,Unknown,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Lower-level public health facility,2025-07-14 23:57:11,TB ward
+2025-07-26 16:28:46,Gulu,No,2.0,Male,Rubanda,Kumba,Budoma,,Unknown,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,,2020-12-03 15:54:34,Surgical
+2025-07-29 08:01:09,Gulu,No,30.0,Female,Jinja,,,,Unknown,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,,2025-01-29 07:23:55,Gynaecology
+2025-07-01 22:04:52,Arua,No,16.0,Female,Gulu,,Agorovu,,Unknown,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,,2025-06-07 10:45:39,Orthopaedic
+2025-07-03 05:21:53,Kabale,No,3.0,Female,Alebtong,Ndego,Rugyendere,,Unknown,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2022-06-21 11:34:00,Accident and emergency
+2025-07-26 16:10:41,Arua,No,52.0,Female,Arua,,Kocgoma,,Unknown,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2025-06-16 16:48:53,Medical
+2025-06-14 00:25:22,Kabale,No,16.0,Female,Rubanda,Kabimbiri,Adyeda,Farmer,Unknown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2020-10-27 14:29:20,Medical
+2025-06-11 17:44:28,Jinja,No,10.0,Female,,Kooro,Pader,,Unknown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2021-05-19 14:34:49,Surgical
+2025-07-05 14:45:36,Arua,No,55.0,Male,Terego,,Aliwaki,,Unknown,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2021-09-03 20:44:21,Surgical
+2025-07-29 01:49:58,Arua,No,9.0,Male,Arua,,,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,,Yes,Yes,No,,2021-03-22 10:27:55,Surgical
+2025-07-05 03:16:44,Arua,No,10.0,Female,Arua City,,,,Unknown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,,2025-06-07 21:35:20,Surgical
+2025-07-31 00:03:28,Kabale,Yes,73.0,Female,Kabale,,Songolo,Boda boda rider,Unknown,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,,2022-05-13 13:36:09,Medical
+2025-06-11 22:07:01,Lira,No,26.0,Female,Lira,,Budoma,Peasant,Unknown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Lower-level public health facility,2020-06-04 18:49:08,Medical
+2025-07-10 03:12:44,Kabale,No,1.0,Female,Kamuli,Lamino,Eceko,,Unknown,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Lower-level public health facility,2024-06-14 06:39:03,Accident and emergency
+2025-07-15 03:48:24,Gulu,Yes,89.0,Female,Jinja,Kijunju,,Farmer,Unknown,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,,2022-12-13 17:26:45,Maternity/Post-Natal ward
+2025-05-12 04:11:13,Kabale,No,19.0,Male,Rubanda,Myene,Kakoge,Peasant,Unknown,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Lower-level public health facility,2020-12-27 04:43:42,Maternity/Post-Natal ward
+2025-07-01 10:10:21,Gulu,No,4.0,Male,Buikwe,,Kwube,,Unknown,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,,2022-06-01 17:07:46,Medical
+2025-07-26 14:03:50,Lira,Yes,56.0,Female,Lira,Kiyunga Town Council,Ntarabana,,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2024-05-06 12:35:47,Gynaecology
+2025-07-31 13:13:21,Kabale,No,9.0,Male,Rukiga,Kaharo,Awiny,,Unknown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,,2024-07-06 11:44:17,Medical
+2025-05-14 02:00:45,Kabale,No,5.0,Male,Kabale,Hamurwa,Enyau,,Unknown,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,2020-07-16 09:20:14,Gynaecology
+2025-07-13 20:11:37,Arua,No,17.0,Male,Arua,,Ombokoru,Housewife,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,,2025-07-14 23:59:52,Paediatric
+2025-08-05 02:47:28,Kabale,No,66.0,Female,Lira,Muko,Diicungi,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,,2025-07-07 05:31:16,Orthopaedic
+2025-07-05 06:12:32,Arua,No,65.0,Female,Terego,,Ayivuni,,Unknown,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,,2024-09-10 12:17:05,Medical
+2025-07-20 04:42:57,Kabale,No,17.0,Male,Ntungamo,Kyanamira,Mbiko,,Unknown,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,2025-06-04 15:35:34,Paediatric
+2025-08-04 22:47:37,Lira,No,23.0,Male,Kabale,Buganya,Otuto,,Unknown,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,,2024-03-28 10:12:35,Surgical
+2025-07-08 06:15:17,Jinja,No,2.0,Female,Jinja,Nyakabungo,Asuru,,Unknown,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,2022-05-27 11:14:37,Orthopaedic
+2025-05-12 15:57:20,Lira,No,32.0,Female,Otuke,Ogur,Delleb,,Unknown,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2022-10-13 09:21:32,Gynaecology
+2025-07-02 14:42:33,Kabale,No,2.0,Male,Kabale,Aboki,Agweng,,Unknown,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Lower-level public health facility,2025-04-19 02:58:58,Paediatric
+2025-06-08 04:11:05,Kabale,No,21.0,Female,Bugweri,Budondo,Amun,,Unknown,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,,2020-04-26 00:20:02,Maternity/Post-Natal ward
+2025-07-14 16:53:14,Jinja,No,47.0,Female,Jinja,,Ceford,,Unknown,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2025-07-11 11:57:14,NICU Unit
+2025-06-12 06:11:02,Jinja,No,1.0,Male,Amuru,Southern,Railwayquarter,,Unknown,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,,2025-06-09 17:37:38,Gynaecology
+2025-07-24 03:38:49,Lira,No,32.0,Female,Lira,Bujumbura Town Council,Agwengbcell,Businessman,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,,2020-06-01 04:10:39,Gynaecology
+2025-07-30 08:25:38,Arua,No,39.0,Female,Arua,,Vurra,,Unknown,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,,2025-07-14 23:59:56,Surgical
+2025-06-23 15:01:52,Jinja,No,66.0,Male,Biukwe,Awei,Logiri,Peasant,Unknown,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,,2025-07-14 23:11:55,Orthopaedic
+2025-07-31 01:56:28,Lira,No,63.0,Male,Lira,Agwang,Barogolo,,Unknown,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,,2025-05-21 15:06:37,Surgical
+2025-07-30 02:05:14,Arua,No,52.0,Female,Jinja,,Agorovu,,Unknown,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,,2024-02-12 06:00:34,Paediatric
+2025-07-14 00:53:35,Kabale,No,1.0,Male,Kabaale,Kigonzi,Okina,,Unknown,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2023-09-12 04:15:37,Surgical
+2025-07-19 15:07:58,Kabale,No,17.0,Female,Rubanda,Muko,Kwangura,,Unknown,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Lower-level public health facility,2025-07-14 11:23:05,Surgical
+2025-07-26 20:36:30,Kabale,No,57.0,Male,Jin,,,,Unknown,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,,2023-08-08 07:20:23,Paediatric
+2025-08-05 22:17:52,Lira,No,83.0,Male,Oyam,Ngetta,Kiriba,Electrician,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2020-04-26 11:18:55,Gynaecology
+2025-06-26 14:20:50,Kabale,No,22.0,Female,Kabaale,Ruyita,Kigara,,Unknown,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,,2022-10-11 11:38:44,TB ward
+2025-07-18 02:09:36,Jinja,No,14.0,Male,Mayuge,Bubaare,Aditawara,Student,Unknown,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,,2025-04-03 05:27:00,Medical
+2025-07-12 17:45:43,Kabale,No,30.0,Male,Mayuge,Nyenga,Paicho,,Unknown,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,,2025-07-14 20:07:44,Surgical
+2025-07-30 05:47:47,Lira,No,44.0,Male,Alebtong,Lira City East,Teobia,Businessman,Unknown,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Lower-level public health facility,2020-04-24 00:00:00,Maternity/Post-Natal ward
+2025-05-15 12:02:53,Jinja,No,44.0,Male,Gulu,,,,Unknown,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,2025-04-08 15:58:43,Medical
+2025-07-04 17:01:37,Arua,No,17.0,Male,Arua,Aremo,Adyel,Student,Unknown,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,,No,No,No,,2021-07-28 04:05:45,TB ward
+2025-07-24 05:30:12,Kabale,No,33.0,Female,Rukiga,Muko,Ajono,Peasant,Unknown,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,,2020-04-24 00:00:00,Medical
+2025-06-18 12:14:17,Lira,No,37.0,Male,Lira,Adyel,Obitalaroo,Peasant,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Private health facilty,2023-02-23 06:30:44,NICU Unit
+2025-07-23 06:50:14,Kabale,No,45.0,Female,Kabaale,Wakikoola A,Kekubo,,Unknown,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,,2025-07-14 16:06:14,NICU Unit
+2025-07-17 01:07:08,Lira,No,73.0,Female,Lira,Ayami,Aduku,,Unknown,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2021-09-06 04:14:17,Surgical
+2025-08-07 15:46:48,Jinja,No,85.0,Male,Rukiga,,Olib,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,,2022-03-08 11:20:17,Orthopaedic
+2025-07-01 14:02:46,Jinja,No,41.0,Female,Kyankwanzi,,,,Unknown,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2023-10-04 13:55:10,ICU/HDU
+2025-07-21 20:05:52,Kabale,No,13.0,Male,Namutumba,Nzinze,Isegelo,Farmer,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2025-01-18 12:15:43,Maternity/Post-Natal ward
+2025-07-19 14:13:24,Jinja,No,61.0,Male,Kayunga,Bufundi,Kabeere,,Unknown,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,,2025-06-22 17:47:20,Surgical
+2025-06-26 01:04:04,Gulu,No,31.0,Male,Gulu,,,,Unknown,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,2024-10-16 14:11:45,Surgical
+2025-08-05 02:10:09,Jinja,No,51.0,Female,Jinja,Aremo,Eceko,,Unknown,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,2025-06-20 05:29:06,Medical
+2025-07-26 14:17:59,Lira,No,20.0,Male,Lira,Kole,Marketsquare,,Unknown,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,,2020-12-18 22:05:32,Orthopaedic
+2025-07-22 11:28:59,Lira,No,88.0,Female,Kole,Wioadyet,Nyakabungo,Businesswoman,Unknown,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,2022-01-24 20:04:44,Surgical
+2025-07-13 07:59:23,Kabale,No,20.0,Male,Lira,Kayango,Nyamurindira,,Unknown,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,2025-06-20 00:48:00,Surgical
+2025-08-03 16:20:33,Lira,No,12.0,Female,Ntungamo,Kitunga,Kinyafugwe,,Unknown,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Lower-level public health facility,2020-05-13 10:44:33,Orthopaedic

@@ -1,0 +1,130 @@
+# Data Profile Summary
+
+- **Rows**: 1075
+- **Columns**: 853
+- **Memory (MB)**: 33.52
+
+## Multiselect Groups (prefix___N)
+- **infect_site**: 8 columns
+- **site_based_sample**: 9 columns
+- **sec_site_infection**: 9 columns
+- **prio_antib_name**: 40 columns
+- **other_antibiotic_antibiotics_prescribed**: 2 columns
+- **ref_other_antibiotics_prescribed**: 2 columns
+- **diag_system**: 8 columns
+- **indwel_inst**: 9 columns
+- **cormobidities**: 8 columns
+- **antibiotics_prescribed**: 41 columns
+- **clin_param**: 7 columns
+- **bp_type**: 2 columns
+- **ast_anti1**: 42 columns
+- **ast_anti2**: 42 columns
+- **ast_anti3**: 42 columns
+- **antib_presc_af_cul**: 41 columns
+- **ast_anti11**: 42 columns
+- **ast_anti22**: 42 columns
+- **ast_anti33**: 42 columns
+- **comp_system**: 8 columns
+- **diag_disch_syst**: 8 columns
+
+## Columns
+- **rec_id**: role=text, missing=0.0%, unique=1075
+- **date_data_collect**: role=datetime, missing=0.1%, unique=26
+- **name_of_rrh**: role=categorical, missing=0.0%, unique=9
+- **patient_id**: role=text, missing=0.1%, unique=1019
+- **re_admit**: role=boolean, missing=0.2%, unique=2
+- **age**: role=numeric, missing=0.1%, unique=94
+- **sex**: role=categorical, missing=0.0%, unique=2
+- **res_district**: role=text, missing=5.3%, unique=138
+- **res_subcounty**: role=text, missing=45.3%, unique=429
+- **village**: role=text, missing=28.8%, unique=675
+- **occupation**: role=categorical, missing=78.2%, unique=26
+- **allergies**: role=categorical, missing=0.0%, unique=2
+- **infect_site___1**: role=boolean, missing=0.0%, unique=2
+- **infect_site___2**: role=boolean, missing=0.0%, unique=2
+- **infect_site___3**: role=boolean, missing=0.0%, unique=2
+- **infect_site___4**: role=boolean, missing=0.0%, unique=2
+- **infect_site___5**: role=boolean, missing=0.0%, unique=2
+- **infect_site___6**: role=boolean, missing=0.0%, unique=2
+- **infect_site___7**: role=boolean, missing=0.0%, unique=2
+- **infect_site___8**: role=boolean, missing=0.0%, unique=2
+- **site_based_sample___1**: role=boolean, missing=0.0%, unique=2
+- **site_based_sample___2**: role=boolean, missing=0.0%, unique=2
+- **site_based_sample___3**: role=boolean, missing=0.0%, unique=2
+- **site_based_sample___4**: role=boolean, missing=0.0%, unique=2
+- **site_based_sample___5**: role=boolean, missing=0.0%, unique=2
+- **site_based_sample___6**: role=boolean, missing=0.0%, unique=2
+- **site_based_sample___7**: role=boolean, missing=0.0%, unique=2
+- **site_based_sample___8**: role=boolean, missing=0.0%, unique=2
+- **site_based_sample___9**: role=boolean, missing=0.0%, unique=2
+- **sec_site_infection___1**: role=boolean, missing=0.2%, unique=2
+- **sec_site_infection___2**: role=boolean, missing=0.2%, unique=2
+- **sec_site_infection___3**: role=boolean, missing=0.2%, unique=2
+- **sec_site_infection___4**: role=boolean, missing=0.2%, unique=2
+- **sec_site_infection___5**: role=boolean, missing=0.2%, unique=2
+- **sec_site_infection___6**: role=boolean, missing=0.2%, unique=2
+- **sec_site_infection___7**: role=boolean, missing=0.2%, unique=2
+- **sec_site_infection___8**: role=boolean, missing=0.2%, unique=2
+- **sec_site_infection___9**: role=boolean, missing=0.2%, unique=2
+- **referral**: role=boolean, missing=0.2%, unique=2
+- **facility_category**: role=categorical, missing=80.0%, unique=4
+- **admission_date**: role=datetime, missing=0.1%, unique=627
+- **ward**: role=categorical, missing=0.1%, unique=11
+- **antib_prior_admi**: role=categorical, missing=0.1%, unique=3
+- **prio_antib_name___1**: role=boolean, missing=0.0%, unique=2
+- **prio_antib_name___2**: role=boolean, missing=0.0%, unique=2
+- **prio_antib_name___3**: role=boolean, missing=0.0%, unique=2
+- **prio_antib_name___4**: role=boolean, missing=0.0%, unique=2
+- **prio_antib_name___5**: role=boolean, missing=0.0%, unique=1
+- **prio_antib_name___6**: role=boolean, missing=0.0%, unique=2
+- **prio_antib_name___7**: role=boolean, missing=0.0%, unique=1
+- **prio_antib_name___8**: role=boolean, missing=0.0%, unique=1
+- **prio_antib_name___9**: role=boolean, missing=0.0%, unique=2
+- **prio_antib_name___10**: role=boolean, missing=0.0%, unique=2
+- **prio_antib_name___11**: role=boolean, missing=0.0%, unique=1
+- **prio_antib_name___12**: role=boolean, missing=0.0%, unique=2
+- **prio_antib_name___13**: role=boolean, missing=0.0%, unique=2
+- **prio_antib_name___14**: role=boolean, missing=0.0%, unique=2
+- **prio_antib_name___15**: role=boolean, missing=0.0%, unique=2
+- **prio_antib_name___1617**: role=boolean, missing=0.0%, unique=2
+- **prio_antib_name___18**: role=boolean, missing=0.0%, unique=1
+- **prio_antib_name___19**: role=boolean, missing=0.0%, unique=1
+- **prio_antib_name___20**: role=boolean, missing=0.0%, unique=1
+- **prio_antib_name___21**: role=boolean, missing=0.0%, unique=2
+- **prio_antib_name___22**: role=boolean, missing=0.0%, unique=1
+- **prio_antib_name___23**: role=boolean, missing=0.0%, unique=1
+- **prio_antib_name___24**: role=boolean, missing=0.0%, unique=2
+- **prio_antib_name___25**: role=boolean, missing=0.0%, unique=2
+- **prio_antib_name___26**: role=boolean, missing=0.0%, unique=2
+- **prio_antib_name___27**: role=boolean, missing=0.0%, unique=1
+- **prio_antib_name___28**: role=boolean, missing=0.0%, unique=1
+- **prio_antib_name___29**: role=boolean, missing=0.0%, unique=1
+- **prio_antib_name___30**: role=boolean, missing=0.0%, unique=2
+- **prio_antib_name___31**: role=boolean, missing=0.0%, unique=1
+- **prio_antib_name___32**: role=boolean, missing=0.0%, unique=2
+- **prio_antib_name___33**: role=boolean, missing=0.0%, unique=1
+- **prio_antib_name___34**: role=boolean, missing=0.0%, unique=2
+- **prio_antib_name___35**: role=boolean, missing=0.0%, unique=1
+- **prio_antib_name___36**: role=boolean, missing=0.0%, unique=1
+- **prio_antib_name___37**: role=boolean, missing=0.0%, unique=1
+- **prio_antib_name___38**: role=boolean, missing=0.0%, unique=1
+- **prio_antib_name___39**: role=boolean, missing=0.0%, unique=2
+- **prio_antib_name___40**: role=boolean, missing=0.0%, unique=1
+- **prio_antib_name___41**: role=boolean, missing=0.0%, unique=2
+- **other_antibiotic_antibiotics_prescribed___42**: role=boolean, missing=0.0%, unique=2
+- **other_antibiotic_antibiotics_prescribed___43**: role=boolean, missing=0.0%, unique=2
+- **ref_other**: role=categorical, missing=95.4%, unique=22
+- **ref_other_antibiotics_prescribed___42**: role=boolean, missing=0.0%, unique=2
+- **ref_other_antibiotics_prescribed___43**: role=boolean, missing=0.0%, unique=2
+- **sympt_dura**: role=numeric, missing=27.2%, unique=29
+- **date_diagn**: role=datetime, missing=1.7%, unique=628
+- **diag_system___1**: role=boolean, missing=0.0%, unique=2
+- **diag_system___2**: role=boolean, missing=0.0%, unique=2
+- **diag_system___3**: role=boolean, missing=0.0%, unique=2
+- **diag_system___4**: role=boolean, missing=0.0%, unique=2
+- **diag_system___5**: role=boolean, missing=0.0%, unique=2
+- **diag_system___6**: role=boolean, missing=0.0%, unique=2
+- **diag_system___7**: role=boolean, missing=0.0%, unique=2
+- **diag_system___8**: role=boolean, missing=0.0%, unique=2
+- **diag_cns**: role=categorical, missing=85.8%, unique=26
+- **diag_git**: role=text, missing=85.9%, unique=68

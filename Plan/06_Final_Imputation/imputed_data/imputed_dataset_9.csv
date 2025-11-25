@@ -1,0 +1,1076 @@
+mortality,age,sex,ward,systolic_bp_baseline,hiv_status,cormobid_condition,pulse_baseline,temp_baseline,rr_baseline,spo2_baseline,gcs_baseline,first_organism,infect_site___1,referral,facility_category,name_of_rrh,complications,admission_date,res_district,occupation,allergies,antib_prior_admi,infect_site___2,infect_site___3,site_based_sample___1
+0,36.0,Female,Gynaecology,108.0,Negative,No,83.0,36.5,36.5,76.0,15.0,Aeromonas spp,No,No,Lower-level public health facility,Arua,No,20110.0,Arua,Builder,Unknown,Yes,No,No,No
+0,8.0,Female,Gynaecology,110.0,Negative,No,105.0,37.2,18.0,96.0,15.0,Escherichia coli,No,No,Not specified,Arua,No,20080.0,Arua,Hawker,Unknown,No,No,No,No
+0,21.0,Female,Gynaecology,100.0,Unknown,No,100.0,36.1,18.0,97.0,15.0,Providencia spp,No,Yes,Lower-level public health facility,Arua,No,19967.0,Maracha,Tailor,Unknown,No,No,No,No
+0,24.0,Female,Medical,186.0,Unknown,No,104.0,36.0,20.0,99.0,15.0,Streptococcus pneumoniae,Yes,Yes,Private health facilty,Arua,No,20032.0,Terego,Mechanic,Unknown,No,No,No,Yes
+0,1.0,Male,Paediatric,111.0,Unknown,No,155.0,42.2,55.0,93.0,6.0,Shigella Spp,No,Yes,Private health facilty,Arua,No,19720.0,Congo (Otwire),Unemployed,Unknown,Yes,No,Yes,No
+0,54.0,Female,Surgical,127.0,Unknown,No,69.0,36.3,20.0,98.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Arua,No,20149.0,Arua,Businessman,Unknown,Unknown,No,No,No
+0,80.0,Female,Surgical,162.0,Unknown,Yes,116.0,37.4,24.0,95.0,15.0,Enterococcus faecalis,No,No,Lower-level public health facility,Arua,No,20146.0,Madi Okollo,Housewife,Unknown,Unknown,No,No,No
+0,42.0,Male,Surgical,124.0,Unknown,No,89.0,36.6,26.0,96.0,15.0,Citrobacter spp,No,No,Lower-level public health facility,Arua,No,20158.0,Arua,Prisoner,Unknown,No,Yes,No,No
+0,33.0,Female,Maternity/Post-Natal ward,114.0,Unknown,No,133.0,36.7,28.0,97.0,15.0,Staphylococcus aureus,No,Yes,Lower-level public health facility,Arua,No,20164.0,Terego,Boda boda rider,Unknown,No,Yes,No,No
+0,4.0,Female,Surgical,119.0,Unknown,No,142.0,36.8,32.0,93.0,14.0,Pseudomonas aeruginosa,No,No,Lower-level public health facility,Arua,No,20164.0,Arua,Student,Unknown,Unknown,No,No,No
+0,54.0,Male,Surgical,87.0,Unknown,No,86.0,36.4,21.0,100.0,15.0,Providencia spp,No,No,Lower-level public health facility,Arua,No,19810.0,Terego,Farmer,Unknown,Unknown,No,No,No
+1,1.0,Male,Paediatric,124.0,Unknown,No,142.0,37.3,44.0,97.0,15.0,Enterococcus faecium,No,No,Private health facilty,Arua,Yes,20159.0,Maracha,Electrician,Unknown,Unknown,No,No,No
+0,26.0,Female,Gynaecology,155.0,Unknown,No,107.0,36.2,18.0,99.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Arua,Yes,20148.0,Arua,Boda boda rider,Unknown,Unknown,Yes,No,No
+0,20.0,Male,Surgical,122.0,Unknown,No,88.0,36.4,20.0,99.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Arua,No,20146.0,Arua,Prisoner,Unknown,Unknown,No,No,No
+0,25.0,Male,Surgical,132.0,Unknown,No,61.0,39.0,26.0,100.0,15.0,Klebsiella oxytoca,No,No,Lower-level public health facility,Arua,No,20146.0,Arua,Social worker,Unknown,Unknown,No,No,No
+0,33.0,Male,Surgical,155.0,Unknown,No,70.0,36.0,20.0,97.0,15.0,Colifom,No,No,Lower-level public health facility,Arua,No,20160.0,Madi Okollo,Carpenter,Unknown,Unknown,No,No,No
+0,18.0,Female,Maternity/Post-Natal ward,123.0,Unknown,No,117.0,36.7,20.0,97.0,15.0,Acinetobacter baumannii,No,Yes,Lower-level public health facility,Arua,Yes,20132.0,Arua,Student,Unknown,Unknown,No,No,No
+0,40.0,Female,Gynaecology,107.0,Unknown,No,74.0,36.4,20.0,100.0,15.0,Proteus mirabilis,No,No,Not specified,Arua,No,20111.0,Arua,Unemployed,Unknown,Unknown,Yes,No,No
+0,32.0,Female,Maternity/Post-Natal ward,96.0,Unknown,No,84.0,38.1,24.0,94.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Arua,Yes,20125.0,Terego,Unemployed,Unknown,No,No,No,No
+0,25.0,Female,Maternity/Post-Natal ward,143.0,Unknown,No,102.0,35.3,20.0,98.0,15.0,Enterococcus faecalis,No,No,Lower-level public health facility,Arua,No,20161.0,Arua,Nurse,Unknown,Unknown,No,No,No
+0,25.0,Male,Surgical,102.0,Unknown,No,94.0,36.5,20.0,96.0,15.0,Citrobacter spp,No,Yes,Lower-level public health facility,Arua,No,19271.0,Arua,Farmer,Unknown,Unknown,No,No,No
+0,5.0,Female,Surgical,135.0,Unknown,No,130.0,38.4,34.0,95.0,13.0,Staphylococcus aureus,No,No,Private health facilty,Arua,No,20060.0,Madi Okollo,Electrician,Unknown,No,No,No,No
+0,42.0,Male,Orthopaedic,147.0,Unknown,No,83.0,36.0,19.0,98.0,15.0,Streptococcus faecalis,No,No,Lower-level public health facility,Arua,Yes,20200.0,Arua,Nurse,Unknown,Unknown,No,No,No
+0,18.0,Female,Gynaecology,94.0,Negative,No,127.0,37.7,26.0,97.0,14.0,Staphylococcus spp,No,No,Lower-level public health facility,Arua,No,19938.0,Madi Okollo,Student,Unknown,Unknown,Yes,No,No
+0,58.0,Male,Medical,118.0,Unknown,No,99.0,37.0,18.0,99.0,15.0,Staphylococcus saprophyticus,No,Yes,Private health facilty,Arua,No,20249.0,Arua City,Businesswoman,Unknown,Unknown,Yes,No,No
+0,0.0,Male,Paediatric,120.0,Unknown,Yes,156.0,38.4,59.0,98.0,14.0,Shigella Spp,Yes,No,Private health facilty,Arua,No,20221.0,Arua City,Unemployed,Unknown,Unknown,No,No,Yes
+0,23.0,Female,Orthopaedic,134.0,Unknown,No,96.0,36.4,22.0,97.0,15.0,Citrobacter spp,No,No,Lower-level public health facility,Arua,No,20116.0,Terego,Student,Unknown,Unknown,No,No,No
+0,53.0,Female,Surgical,105.0,Unknown,No,68.0,35.8,20.0,100.0,15.0,Staphylococcus saprophyticus,No,No,Lower-level public health facility,Arua,No,20147.0,Terego,Turnboy,Unknown,Unknown,No,No,No
+0,19.0,Female,Maternity/Post-Natal ward,97.0,Unknown,No,101.0,37.1,30.0,92.0,15.0,Citrobacter spp,No,No,Private health facilty,Arua,No,20164.0,Arua City,Builder,Yes,Yes,No,No,No
+0,3.0,Female,ICU/HDU,125.0,Negative,No,129.0,36.9,36.0,97.0,14.0,Streptococcus pneumoniae,Yes,Yes,Private health facilty,Arua,Yes,20218.0,Arua City,Electrician,Unknown,Unknown,No,No,Yes
+0,20.0,Female,Gynaecology,135.0,Unknown,Yes,120.0,36.5,20.0,100.0,14.0,Neisseria spp,Yes,No,Private health facilty,Arua,No,20231.0,Arua City,Retired teacher,Unknown,Unknown,No,No,No
+0,12.0,Female,Orthopaedic,104.0,Unknown,No,44.0,37.8,42.0,50.0,14.0,Acinetobacter baumannii,No,No,Private health facilty,Arua,No,20110.0,Arua City,Electrician,Unknown,Unknown,No,No,No
+0,34.0,Female,Surgical,102.0,Negative,No,105.0,37.8,19.0,98.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Arua,No,20116.0,Arua City,Housewife,Unknown,Unknown,No,No,No
+0,16.0,Female,Gynaecology,109.0,Unknown,No,93.0,36.9,20.0,100.0,15.0,Enterobacter cloacae,No,No,Lower-level public health facility,Arua,No,20155.0,Arua City,Student,Unknown,Unknown,No,No,No
+0,17.0,Female,Maternity/Post-Natal ward,98.0,Unknown,No,115.0,38.1,21.0,99.0,14.0,Morganella morganii,No,No,Lower-level public health facility,Arua,No,20176.0,Arua,Student,Unknown,Yes,Yes,No,No
+0,34.0,Male,Medical,115.0,Unknown,No,70.0,37.0,20.0,97.0,15.0,Enterobacter cloacae,No,No,Lower-level public health facility,Arua,No,20198.0,Arua City,Businesswoman,Unknown,Unknown,Yes,No,No
+0,28.0,Female,Maternity/Post-Natal ward,109.0,Unknown,No,76.0,35.6,22.0,100.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Arua,No,20149.0,Arua,Carpenter,Unknown,Unknown,No,No,No
+0,34.0,Female,Surgical,118.0,Unknown,Yes,100.0,36.9,20.0,99.0,15.0,Staphylococcus aureus,No,No,Private health facilty,Arua,No,20125.0,Arua City,Peasant,Unknown,Unknown,No,No,No
+0,24.0,Male,Surgical,113.0,Unknown,No,107.0,35.8,18.0,98.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Arua,Yes,20145.0,Arua City,Welder,Unknown,Yes,Yes,No,No
+0,24.0,Female,Maternity/Post-Natal ward,114.0,Negative,No,104.0,36.6,28.0,98.0,15.0,Escherichia coli,No,Yes,Not specified,Arua,No,20155.0,Terego,Tailor,Unknown,No,No,No,No
+0,19.0,Female,Gynaecology,112.0,Negative,No,89.0,36.4,19.0,96.0,15.0,Serratia spp,No,No,Not specified,Arua,Yes,20171.0,Arua,Teacher,Unknown,Yes,No,No,No
+0,1.0,Male,Paediatric,105.0,Negative,No,144.0,36.2,44.0,96.0,15.0,Neisseria gonorrhoeae,No,No,Lower-level public health facility,Arua,No,20194.0,Arua City,Electrician,Unknown,No,Yes,No,No
+0,61.0,Female,Orthopaedic,140.0,Unknown,No,87.0,39.3,21.0,98.0,15.0,Proteus mirabilis,No,No,Lower-level public health facility,Arua,No,20121.0,Arua,Businessman,Unknown,Unknown,No,No,No
+0,27.0,Female,Gynaecology,155.0,Unknown,No,86.0,36.6,19.0,99.0,15.0,Escherichia coli,No,No,Regional referral hospital,Arua,Yes,20182.0,Arua City,Nurse,Unknown,No,No,No,No
+0,47.0,Male,Surgical,126.0,Unknown,No,68.0,35.7,25.0,97.0,15.0,Proteus mirabilis,No,No,Lower-level public health facility,Arua,No,20166.0,Arua,Turnboy,Unknown,Unknown,No,No,No
+0,31.0,Female,Gynaecology,111.0,Unknown,No,89.0,36.4,32.0,88.0,15.0,Staphylococcus aureus,No,No,Not specified,Arua,Yes,20192.0,Arua,Businesswoman,Unknown,Unknown,No,Yes,No
+0,19.0,Female,Gynaecology,127.0,Unknown,No,94.0,36.5,22.0,99.0,15.0,Staphylococcus saprophyticus,No,No,Private health facilty,Arua,No,20249.0,Arua City,Retired teacher,Unknown,Unknown,No,No,No
+0,36.0,Male,Surgical,98.0,Unknown,No,110.0,36.5,42.0,88.0,14.0,Escherichia coli,No,No,Lower-level public health facility,Arua,No,20212.0,Arua,Prisoner,Unknown,Unknown,No,Yes,No
+0,36.0,Male,Surgical,110.0,Unknown,No,84.0,36.4,30.0,79.0,15.0,Citrobacter spp,No,No,Private health facilty,Arua,No,20212.0,Arua,Builder,Unknown,Unknown,No,Yes,No
+1,63.0,Female,Maternity/Post-Natal ward,135.0,Unknown,Yes,96.0,36.8,20.0,98.0,15.0,Pseudomonas aeruginosa,No,No,Regional referral hospital,Arua,Yes,20207.0,Arua,Businesswoman,Unknown,Unknown,No,No,No
+0,23.0,Male,Accident and emergency,174.0,Unknown,No,125.0,35.8,28.0,99.0,15.0,Escherichia coli,No,No,Private health facilty,Arua,No,20201.0,Arua,Turnboy,Unknown,Unknown,Yes,No,No
+0,15.0,Female,Gynaecology,131.0,Unknown,No,85.0,36.3,20.0,99.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Arua,No,20213.0,Arua,Hawker,Unknown,Unknown,No,No,No
+0,1.0,Male,Paediatric,103.0,Unknown,No,133.0,37.4,32.0,96.0,15.0,Klebsiella oxytoca,No,Yes,Lower-level public health facility,Arua,No,20046.0,Arua,Student,Unknown,Unknown,No,Yes,No
+0,26.0,Female,Gynaecology,134.0,Unknown,No,86.0,36.4,18.0,98.0,15.0,Staphylococcus saprophyticus,No,No,Regional referral hospital,Arua,No,20153.0,Arua,Student,Unknown,Unknown,No,No,No
+0,27.0,Female,Gynaecology,137.0,Unknown,No,80.0,36.5,20.0,98.0,15.0,Klebsiella pneumoniae,No,No,Private health facilty,Arua,No,20154.0,Arua,Carpenter,Unknown,No,No,No,No
+0,16.0,Female,Gynaecology,123.0,Unknown,No,96.0,36.5,28.0,98.0,15.0,Klebsiella spp,No,No,Not specified,Arua,No,20155.0,Arua,Student,Unknown,Unknown,No,No,No
+0,2.0,Male,Paediatric,108.0,Unknown,No,125.0,38.0,40.0,98.0,13.0,Klebsiella aerogenes,No,No,Lower-level public health facility,Arua,No,20204.0,Arua,Unemployed,Unknown,No,No,Yes,No
+0,4.0,Female,Paediatric,109.0,Unknown,No,142.0,38.2,32.0,93.0,13.0,Coagulate Negative Staph,No,No,Lower-level public health facility,Arua,No,20208.0,Arua,Electrician,Unknown,No,Yes,No,No
+0,24.0,Female,Accident and emergency,117.0,Unknown,No,78.0,36.5,21.0,100.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Arua,No,20174.0,Arua,Casual labourer,Unknown,Unknown,No,No,No
+0,8.0,Male,Paediatric,135.0,Unknown,No,130.0,40.0,26.0,93.0,12.0,Coagulate Negative Staph,Yes,No,Not specified,Arua,No,20208.0,Arua,Boda boda rider,Unknown,No,Yes,No,No
+0,32.0,Male,Accident and emergency,107.0,Unknown,No,96.0,36.3,32.0,98.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Arua,No,20123.0,Arua,Businessman,Unknown,Unknown,No,Yes,No
+0,16.0,Male,Medical,107.0,Unknown,No,125.0,37.4,20.0,96.0,15.0,Proteus mirabilis,No,No,Private health facilty,Arua,No,20158.0,Terrego,Student,Unknown,Unknown,Yes,No,No
+0,14.0,Female,Medical,99.0,Unknown,No,104.0,37.3,22.0,98.0,15.0,Enterococcus faecium,Yes,No,Lower-level public health facility,Arua,Yes,20158.0,Arua,Hawker,Unknown,Unknown,Yes,No,No
+0,33.0,Male,Orthopaedic,120.0,Negative,Yes,80.0,36.6,25.0,97.0,15.0,Enterobacter spp,No,No,Private health facilty,Arua,No,20125.0,Arua,Peasant,Unknown,No,No,No,No
+0,0.0,Male,Paediatric,134.0,Unknown,No,188.0,36.3,50.0,93.0,15.0,Vibrio cholera,No,Yes,Lower-level public health facility,Arua,No,20276.0,Arua,Builder,Unknown,No,No,Yes,No
+0,20.0,Female,Maternity/Post-Natal ward,87.0,Unknown,No,101.0,36.4,36.0,99.0,15.0,Acinetobacter spp,No,No,Not specified,Arua,No,20195.0,Arua,Electrician,Unknown,Yes,No,No,No
+0,30.0,Female,Gynaecology,148.0,Unknown,No,76.0,36.3,20.0,99.0,15.0,Acinetobacter spp,No,No,Lower-level public health facility,Arua,No,20188.0,Arua,Businesswoman,Unknown,No,No,No,No
+0,18.0,Female,Accident and emergency,92.0,Unknown,No,86.0,38.2,16.0,100.0,15.0,Acinetobacter baumannii,No,No,Lower-level public health facility,Arua,No,20197.0,Arua,Businesswoman,Unknown,No,No,No,No
+0,27.0,Female,Gynaecology,130.0,Negative,No,86.0,36.7,20.0,99.0,15.0,Escherichia coli,No,No,Not specified,Arua,No,20182.0,Arua,Prisoner,Unknown,No,No,No,No
+0,12.0,Male,Paediatric,135.0,Unknown,No,80.0,35.8,17.0,98.0,15.0,Enterobacter spp,No,No,Lower-level public health facility,Arua,No,19993.0,Arua,Carpenter,Unknown,No,Yes,No,No
+0,19.0,Female,Maternity/Post-Natal ward,110.0,Unknown,No,104.0,36.5,21.0,98.0,15.0,Providencia spp,No,Yes,Lower-level public health facility,Arua,No,19922.0,Maracha,Housewife,Unknown,No,No,No,No
+1,5.0,Male,Paediatric,146.0,Unknown,Yes,162.0,39.4,42.0,98.0,12.0,Salmonella typhi,No,No,Regional referral hospital,Arua,No,19957.0,Arua,Midwife,Unknown,Yes,No,No,No
+0,19.0,Female,Gynaecology,70.0,Unknown,No,101.0,37.0,37.0,85.0,15.0,Citrobacter spp,No,No,Not specified,Arua,Yes,20239.0,Madi-Okollo,Electrician,Unknown,No,Yes,No,No
+0,22.0,Female,Surgical,158.0,Unknown,No,91.0,36.0,20.0,98.0,15.0,Klebsiella oxytoca,No,Yes,Lower-level public health facility,Arua,No,20133.0,Arua City,Nurse,Unknown,No,Yes,No,No
+0,28.0,Male,Orthopaedic,135.0,Unknown,No,68.0,39.0,19.0,98.0,14.0,Staphylococcus aureus,No,No,Lower-level public health facility,Arua,No,20126.0,Terego,Carpenter,Unknown,No,No,No,No
+0,48.0,Male,Orthopaedic,147.0,Unknown,No,87.0,36.2,20.0,97.0,15.0,Enterococcus ssp,No,No,Lower-level public health facility,Arua,No,20137.0,Arua District,Retired teacher,Unknown,No,No,No,No
+0,62.0,Female,Surgical,82.0,Unknown,No,102.0,36.3,18.0,97.0,15.0,Acinetobacter baumannii,No,No,Lower-level public health facility,Arua,No,20139.0,Arua City,Peasant,Unknown,No,No,No,No
+0,13.0,Male,Medical,114.0,Unknown,No,86.0,37.5,12.0,98.0,15.0,Enterobacter cloacae,No,No,Lower-level public health facility,Arua,No,20130.0,Terego,Casual labourer,Unknown,No,Yes,No,No
+0,42.0,Male,Accident and emergency,104.0,Unknown,No,101.0,36.0,20.0,97.0,15.0,Proteus vulgaris,No,Yes,Lower-level public health facility,Arua,No,20129.0,Zombo,Peasant,Unknown,No,Yes,No,No
+0,37.0,Male,Surgical,95.0,Unknown,No,105.0,37.5,20.0,99.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Arua,No,20142.0,Maracha,Peasant,Unknown,Unknown,No,No,No
+0,36.0,Male,Accident and emergency,114.0,Unknown,No,100.0,36.7,22.0,100.0,15.0,Pseudomonas aeruginosa,No,No,Lower-level public health facility,Arua,Yes,20125.0,Maracha,Casual labourer,Unknown,Unknown,No,No,No
+0,38.0,Male,Accident and emergency,119.0,Unknown,No,113.0,36.6,20.0,98.0,15.0,Morganella morganii,No,No,Lower-level public health facility,Arua,No,20144.0,Terego,Peasant,Unknown,Yes,No,No,No
+0,68.0,Female,Surgical,100.0,Unknown,No,107.0,35.8,32.0,82.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Arua,No,20110.0,Nebbi,Retired teacher,Unknown,Unknown,No,No,No
+0,26.0,Male,Accident and emergency,147.0,Unknown,No,102.0,36.0,26.0,99.0,15.0,Acinetobacter spp,No,No,Lower-level public health facility,Arua,Yes,20146.0,Arua City,Turnboy,Unknown,No,No,No,No
+0,4.0,Female,Paediatric,114.0,Unknown,No,140.0,37.6,40.0,96.0,15.0,Neisseria spp,No,Yes,Lower-level public health facility,Arua,No,20229.0,Terego,Electrician,Unknown,No,Yes,No,Yes
+0,18.0,Male,Orthopaedic,114.0,Unknown,No,127.0,36.4,20.0,99.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Arua,No,20115.0,Maracha,Student,Unknown,Unknown,No,No,No
+0,23.0,Female,Orthopaedic,118.0,Unknown,No,98.0,36.1,17.0,97.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Arua,No,20116.0,Terego,Carpenter,Unknown,Unknown,No,No,No
+0,17.0,Female,Gynaecology,100.0,Unknown,No,106.0,37.0,32.0,97.0,15.0,Serratia spp,No,No,Lower-level public health facility,Arua,No,20109.0,Arua City,Student,Unknown,Unknown,No,No,No
+0,51.0,Female,Medical,159.0,Unknown,Yes,116.0,36.4,26.0,100.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Arua,No,19961.0,Arua,Housewife,Unknown,Unknown,No,No,No
+0,55.0,Male,Surgical,129.0,Unknown,No,76.0,36.5,22.0,99.0,15.0,Proteus mirabilis,No,Yes,Private health facilty,Arua,No,20042.0,Arua,Farmer,Unknown,Yes,No,No,No
+0,42.0,Male,Accident and emergency,124.0,Unknown,No,89.0,36.6,26.0,96.0,15.0,Citrobacter spp,No,No,Lower-level public health facility,Arua,Yes,20158.0,Arua,Prisoner,Unknown,Unknown,Yes,No,No
+0,4.0,Female,Surgical,134.0,Unknown,No,104.0,36.3,40.0,96.0,15.0,Pseudomonas aeruginosa,No,No,Lower-level public health facility,Arua,No,20164.0,Arua,Electrician,Unknown,No,No,No,No
+0,65.0,Female,Surgical,178.0,Unknown,No,87.0,36.1,20.0,96.0,15.0,Providencia spp,No,No,Private health facilty,Arua,Yes,20153.0,Arua,Housewife,Unknown,Unknown,Yes,No,No
+0,38.0,Male,Orthopaedic,136.0,Unknown,No,87.0,36.7,20.0,97.0,15.0,Staphylococcus saprophyticus,No,No,Lower-level public health facility,Arua,No,20125.0,Arua,Peasant,Unknown,Unknown,No,No,No
+0,23.0,Female,Gynaecology,136.0,Unknown,No,90.0,36.5,17.0,99.0,15.0,Acinetobacter spp,No,No,Private health facilty,Arua,No,20187.0,Arua,Peasant,Unknown,Yes,No,No,No
+1,2.0,Male,Paediatric,85.0,Unknown,No,142.0,37.3,40.0,97.0,15.0,Enterococcus faecium,No,Yes,Lower-level public health facility,Arua,Yes,20159.0,Arua,Student,Unknown,Unknown,No,No,No
+0,5.0,Male,Paediatric,126.0,Unknown,No,136.0,36.8,37.0,96.0,15.0,Klebsiella pneumoniae,No,No,Not specified,Arua,No,20157.0,Arua City,Electrician,Unknown,No,No,No,No
+0,24.0,Male,Orthopaedic,109.0,Unknown,No,93.0,35.8,19.0,97.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Arua,No,20115.0,Arua,Carpenter,Unknown,No,No,No,No
+0,83.0,Male,Medical,151.0,Unknown,Yes,87.0,36.5,18.0,97.0,15.0,Staphylococcus aureus,No,No,Not specified,Arua,No,20120.0,Arua,Prisoner,Unknown,Unknown,No,No,No
+0,3.0,Male,Paediatric,90.0,Unknown,No,104.0,38.1,32.0,94.0,15.0,Acinetobacter spp,No,Yes,Private health facilty,Arua,No,20181.0,Arua,Hawker,Unknown,Unknown,Yes,Yes,No
+0,32.0,Female,Maternity/Post-Natal ward,132.0,Unknown,No,86.0,36.1,19.0,99.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Arua,No,20241.0,Arua,Nurse,Unknown,Unknown,No,No,No
+0,68.0,Female,Accident and emergency,189.0,Unknown,Yes,102.0,38.4,38.0,50.0,14.0,Colifom,No,No,Private health facilty,Arua,No,20124.0,Arua,Mechanic,Unknown,No,No,Yes,No
+0,37.0,Female,Gynaecology,111.0,Unknown,No,76.0,37.0,20.0,98.0,15.0,Citrobacter freundii,No,Yes,Lower-level public health facility,Arua,No,20110.0,Arua,Peasant,Unknown,Unknown,No,No,No
+0,26.0,Female,Maternity/Post-Natal ward,124.0,Unknown,No,88.0,36.4,16.0,100.0,15.0,Enterobacter cloacae,No,No,Lower-level public health facility,Arua,No,20143.0,Arua,Peasant,Unknown,Unknown,No,No,No
+0,1.0,Male,Paediatric,111.0,Negative,Yes,129.0,38.4,38.0,96.0,15.0,Klebsiella oxytoca,No,No,Private health facilty,Arua,No,20113.0,Arua,Electrician,Unknown,No,No,No,No
+0,33.0,Female,Gynaecology,91.0,Negative,No,101.0,36.8,21.0,95.0,15.0,Serratia spp,No,No,Lower-level public health facility,Arua,No,20095.0,Arua,Peasant,Unknown,Yes,No,No,No
+0,4.0,Male,Paediatric,105.0,Unknown,No,120.0,37.4,40.0,96.0,14.0,Pseudomonas aeruginosa,Yes,No,Lower-level public health facility,Arua,No,19996.0,Arua,Student,Unknown,Unknown,No,No,No
+0,78.0,Male,Surgical,100.0,Unknown,No,85.0,36.3,22.0,100.0,15.0,Escherichia coli,No,No,Regional referral hospital,Arua,No,19971.0,Arua,Peasant,Unknown,Unknown,No,No,No
+0,1.0,Female,Paediatric,120.0,Unknown,No,136.0,39.2,56.0,100.0,7.0,Staphylococcus spp,No,No,Private health facilty,Gulu,No,20251.0,Gulu,Unemployed,Unknown,Unknown,No,Yes,No
+1,28.0,Female,Medical,103.0,Positive,Yes,123.0,37.5,30.0,92.0,15.0,Citrobacter spp,No,No,Not specified,Gulu,No,20178.0,Gulu,Prisoner,Unknown,Unknown,No,Yes,No
+1,36.0,Male,Medical,109.0,Positive,Yes,127.0,36.8,30.0,84.0,15.0,Escherichia coli,No,No,Private health facilty,Gulu,No,20210.0,Kitgum,Builder,Unknown,Unknown,No,Yes,No
+0,83.0,Male,Surgical,125.0,Unknown,Yes,68.0,36.8,21.0,98.0,14.0,Pseudomonas spp,No,No,Not specified,Gulu,No,20126.0,Gulu,Carpenter,Unknown,Unknown,No,No,No
+0,14.0,Male,Medical,118.0,Unknown,No,122.0,38.3,20.0,53.0,14.0,Staphylococcus aureus,No,No,Private health facilty,Gulu,No,20150.0,Gulu,Electrician,Unknown,Yes,No,No,No
+0,62.0,Male,Surgical,123.0,Unknown,No,75.0,36.2,18.0,98.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Gulu,No,20128.0,Gulu,Carpenter,Unknown,Unknown,No,No,No
+0,34.0,Male,Surgical,135.0,Unknown,No,87.0,36.5,19.0,98.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Gulu,No,20132.0,Adjumani,Farmer,Unknown,Unknown,Yes,No,No
+0,18.0,Female,Surgical,129.0,Unknown,No,89.0,36.8,17.0,97.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Gulu,No,20144.0,Gulu,Carpenter,Unknown,Unknown,No,No,No
+0,23.0,Female,Gynaecology,110.0,Unknown,No,87.0,36.2,20.0,99.0,15.0,Enterococcus ssp,No,No,Private health facilty,Gulu,No,20251.0,Gulu,Retired teacher,Unknown,Unknown,Yes,No,No
+0,5.0,Male,Accident and emergency,134.0,Unknown,No,130.0,38.9,37.0,100.0,13.0,Neisseria spp,No,Yes,Lower-level public health facility,Gulu,No,20065.0,Amuru,Midwife,Unknown,Unknown,No,No,Yes
+0,40.0,Male,Surgical,137.0,Unknown,No,63.0,40.0,25.0,99.0,15.0,Staphylococcus saprophyticus,No,No,Lower-level public health facility,Gulu,No,19969.0,Gulu,Carpenter,Unknown,No,No,No,No
+0,32.0,Male,Medical,219.0,Unknown,Yes,106.0,38.4,19.0,96.0,15.0,Citrobacter koseri,No,No,Lower-level public health facility,Gulu,No,19979.0,Kitgum,Mechanic,Unknown,Unknown,No,No,No
+0,74.0,Female,Surgical,120.0,Unknown,No,95.0,37.8,21.0,99.0,12.0,Streptococcus faecalis,No,No,Lower-level public health facility,Gulu,No,19895.0,Nwoya,Farmer,Unknown,Unknown,No,No,No
+0,79.0,Male,Surgical,123.0,Unknown,Yes,95.0,36.6,19.0,97.0,14.0,Pseudomonas aeruginosa,No,No,Lower-level public health facility,Gulu,No,19935.0,Gulu,Carpenter,Unknown,Unknown,No,No,No
+0,27.0,Male,Medical,110.0,Positive,Yes,72.0,36.7,26.0,98.0,15.0,Pseudomonas spp,No,No,Not specified,Gulu,No,19165.0,Gulu,Prisoner,Unknown,Unknown,No,Yes,No
+0,31.0,Female,Gynaecology,102.0,Unknown,No,100.0,37.8,22.0,100.0,15.0,Staphylococcus saprophyticus,No,No,Lower-level public health facility,Gulu,No,20231.0,Gulu,Retired teacher,Unknown,Unknown,No,No,No
+0,26.0,Female,Maternity/Post-Natal ward,127.0,Unknown,No,88.0,36.6,18.0,100.0,15.0,Enterococcus ssp,No,No,Lower-level public health facility,Gulu,No,20256.0,Gulu,Tailor,Unknown,Unknown,No,No,No
+0,0.0,Female,NICU Unit,107.0,Negative,No,170.0,38.6,55.0,98.0,15.0,Staphylococcus aureus,No,No,Private health facilty,Gulu,No,20237.0,Gulu,Unemployed,Unknown,No,No,No,No
+0,6.0,Male,Surgical,127.0,Unknown,No,125.0,38.6,30.0,74.0,14.0,Staphylococcus aureus,No,No,Lower-level public health facility,Gulu,No,20213.0,Gulu,Hawker,Unknown,No,Yes,Yes,No
+1,27.0,Male,Medical,126.0,Unknown,No,131.0,37.7,26.0,95.0,15.0,Staphylococcus aureus,No,No,Private health facilty,Gulu,Yes,20209.0,Gulu,Businesswoman,Unknown,No,Yes,No,No
+0,0.0,Female,NICU Unit,114.0,Unknown,No,142.0,37.0,53.0,93.0,15.0,Enterobacter spp,No,No,Lower-level public health facility,Gulu,No,20227.0,Gulu,Unemployed,Unknown,Unknown,No,Yes,No
+0,4.0,Female,Surgical,105.0,Unknown,No,118.0,37.3,32.0,96.0,4.0,Staphylococcus aureus,No,Yes,Not specified,Gulu,No,20172.0,Gulu,Boda boda rider,Unknown,Unknown,No,No,No
+0,23.0,Female,Surgical,101.0,Unknown,No,107.0,37.8,28.0,99.0,15.0,Staphylococcus aureus,No,No,Private health facilty,Gulu,No,20151.0,Gulu,Unemployed,Unknown,Yes,Yes,No,No
+0,23.0,Female,Surgical,90.0,Unknown,No,112.0,38.0,18.0,98.0,15.0,Staphylococcus aureus,No,No,Private health facilty,Gulu,No,20151.0,Gulu,Housewife,Unknown,Yes,Yes,No,No
+0,40.0,Male,Surgical,119.0,Unknown,No,100.0,42.2,20.0,98.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Gulu,No,19951.0,Nwoya,Farmer,Unknown,Yes,No,No,No
+0,1.0,Male,Paediatric,125.0,Unknown,Not specified,130.0,36.5,40.0,95.0,15.0,Coliform,No,No,Lower-level public health facility,Gulu,No,19191.0,Kiryandongo,Student,Unknown,Unknown,Yes,No,No
+0,1.0,Female,Accident and emergency,112.0,Unknown,No,158.0,39.4,44.0,94.0,14.0,Staphylococcus aureus,No,No,Regional referral hospital,Gulu,No,20230.0,Gulu,Unemployed,Unknown,Yes,No,No,No
+0,38.0,Female,ICU/HDU,124.0,Unknown,No,89.0,36.6,19.0,96.0,15.0,Enterobacterales,No,No,Private health facilty,Gulu,No,20260.0,Gulu,Retired teacher,Unknown,Unknown,No,No,No
+0,18.0,Male,Surgical,129.0,Unknown,No,110.0,36.7,20.0,96.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Gulu,No,20107.0,Gulu,Peasant,Unknown,Yes,Yes,No,No
+0,20.0,Male,Surgical,119.0,Unknown,No,96.0,37.9,28.0,93.0,15.0,Klebsiella oxytoca,No,Yes,Lower-level public health facility,Gulu,No,20207.0,Adjumani,Builder,Unknown,No,Yes,No,No
+0,38.0,Female,Gynaecology,105.0,Positive,Yes,133.0,38.4,19.0,99.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Gulu,No,20208.0,Gulu,Peasant,Unknown,No,No,No,No
+0,24.0,Male,Surgical,118.0,Positive,No,94.0,35.6,24.0,98.0,15.0,Proteus mirabilis,No,No,Private health facilty,Gulu,No,20178.0,Gulu,Prisoner,Unknown,No,No,No,No
+1,43.0,Male,ICU/HDU,106.0,Negative,Yes,122.0,38.2,32.0,82.0,6.0,Citrobacter spp,No,No,Private health facilty,Gulu,No,20194.0,Gulu,Builder,Unknown,Unknown,No,No,No
+0,24.0,Male,Orthopaedic,156.0,Positive,Yes,101.0,36.5,25.0,99.0,15.0,Staphylococcus aureus,No,No,Not specified,Gulu,No,20197.0,Gulu,Tailor,Unknown,No,No,No,No
+0,2.0,Male,Paediatric,108.0,Unknown,Yes,130.0,37.3,34.0,98.0,15.0,Staphylococcus aureus,No,No,Private health facilty,Gulu,Yes,20217.0,Gulu,Electrician,Unknown,Unknown,No,Yes,No
+0,29.0,Male,Medical,124.0,Unknown,No,136.0,38.4,19.0,53.0,13.0,Neisseria spp,Yes,No,Lower-level public health facility,Gulu,Yes,20228.0,Adjumani,Electrician,Unknown,No,No,No,Yes
+0,2.0,Female,Paediatric,107.0,Unknown,No,165.0,37.8,45.0,95.0,14.0,Salmonella typhi,Yes,Yes,Private health facilty,Gulu,No,20220.0,Gulu,Unemployed,Unknown,Unknown,No,No,No
+1,21.0,Female,ICU/HDU,109.0,Unknown,Yes,114.0,36.7,18.0,100.0,15.0,Enterococcus faecium,No,No,Lower-level public health facility,Gulu,Yes,20219.0,Gulu,Boda boda rider,Unknown,Unknown,Yes,No,No
+0,70.0,Female,Surgical,130.0,Unknown,No,60.0,36.0,18.0,100.0,15.0,Citrobacter freundii,No,No,Lower-level public health facility,Gulu,No,19989.0,Gulu,Carpenter,Unknown,No,No,No,No
+0,48.0,Male,Surgical,150.0,Unknown,No,89.0,36.5,20.0,96.0,15.0,Klebsiella pneumoniae,No,No,Private health facilty,Gulu,Yes,20062.0,Gulu,Boda boda rider,Unknown,No,Yes,No,No
+0,2.0,Female,Paediatric,130.0,Unknown,No,100.0,36.6,34.0,99.0,15.0,Klebsiella aerogenes,No,No,Lower-level public health facility,Gulu,Yes,20066.0,Omoro,Electrician,Unknown,No,No,Yes,No
+0,70.0,Female,Medical,135.0,Unknown,No,86.0,36.0,20.0,97.0,15.0,Acinetobacter baumannii,No,Yes,Lower-level public health facility,Gulu,No,19923.0,Gulu,Housewife,Unknown,No,No,No,No
+0,39.0,Male,Surgical,143.0,Positive,Yes,93.0,36.3,24.0,98.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Gulu,No,19919.0,Gulu,Carpenter,Unknown,No,No,No,No
+0,78.0,Female,Medical,120.0,Unknown,No,63.0,43.0,42.0,82.0,14.0,Enterobacter spp,No,No,Not specified,Gulu,No,20266.0,Masindi,Retired teacher,Unknown,Yes,Yes,Yes,No
+0,63.0,Male,TB ward,101.0,Unknown,Yes,92.0,37.8,26.0,99.0,15.0,Vibrio cholera,No,No,Regional referral hospital,Gulu,No,20276.0,Gulu,Retired teacher,Unknown,No,Yes,No,No
+0,72.0,Female,Medical,125.0,Unknown,Yes,86.0,36.7,28.0,98.0,15.0,Vibrio cholera,Yes,No,Not specified,Gulu,Yes,20276.0,Gulu,Retired teacher,Unknown,No,Yes,No,No
+0,60.0,Male,TB ward,100.0,Unknown,No,105.0,38.4,26.0,96.0,15.0,Vibrio cholera,No,No,Regional referral hospital,Gulu,Yes,20271.0,Amuru,Businesswoman,Unknown,Yes,Yes,No,No
+0,0.0,Male,NICU Unit,108.0,Unknown,No,164.0,37.2,53.0,98.0,15.0,Citrobacter spp,No,No,Lower-level public health facility,Gulu,No,20255.0,Gulu,Unemployed,Unknown,Unknown,No,No,No
+0,0.0,Female,NICU Unit,130.0,Unknown,No,134.0,36.2,55.0,100.0,15.0,Staphylococcus spp,No,No,Private health facilty,Gulu,Yes,20256.0,Gulu,Unemployed,Unknown,Unknown,No,Yes,No
+0,15.0,Female,Orthopaedic,105.0,Unknown,No,117.0,36.4,22.0,100.0,15.0,Staphylococcus spp,No,No,Lower-level public health facility,Gulu,Yes,20255.0,Pady,Hawker,Unknown,Unknown,No,No,No
+1,28.0,Male,Surgical,95.0,Unknown,No,84.0,37.3,22.0,94.0,14.0,Morganella morganii,No,No,Lower-level public health facility,Gulu,No,20221.0,Gulu,Retired teacher,Unknown,Yes,No,No,No
+0,38.0,Female,Gynaecology,131.0,Positive,Yes,98.0,38.4,26.0,98.0,15.0,Enterobacterales,No,No,Not specified,Gulu,Yes,20263.0,Gulu,Mechanic,Unknown,Unknown,No,No,No
+0,29.0,Male,Surgical,127.0,Unknown,No,102.0,36.6,20.0,98.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Gulu,Yes,20153.0,Gulu,Peasant,Unknown,No,No,No,No
+1,0.0,Male,Accident and emergency,118.0,Unknown,No,162.0,37.1,44.0,100.0,14.0,Salmonella typhi,No,Yes,Lower-level public health facility,Gulu,Yes,20206.0,Omoro,Unemployed,Unknown,Unknown,Yes,Yes,No
+0,70.0,Female,Surgical,130.0,Unknown,No,87.0,36.3,18.0,99.0,15.0,Staphylococcus aureus,No,No,Regional referral hospital,Gulu,No,19928.0,Gulu City,Carpenter,Unknown,Unknown,No,No,No
+0,37.0,Male,Surgical,110.0,Negative,No,95.0,36.4,30.0,85.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Gulu,Yes,19671.0,Omoro,Builder,Unknown,Yes,No,No,No
+0,19.0,Female,Maternity/Post-Natal ward,110.0,Unknown,No,110.0,36.4,18.0,97.0,15.0,Staphylococcus aureus,No,Yes,Lower-level public health facility,Gulu,Yes,20068.0,Amuru,Student,Unknown,Unknown,No,No,No
+0,19.0,Female,Maternity/Post-Natal ward,119.0,Unknown,No,114.0,36.0,20.0,100.0,15.0,Escherichia coli,No,Yes,Lower-level public health facility,Gulu,No,20068.0,Amuru,Mechanic,Unknown,Unknown,No,No,No
+0,18.0,Female,Maternity/Post-Natal ward,116.0,Unknown,No,108.0,36.8,12.0,97.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Gulu,No,20064.0,Gulu City,Student,Unknown,Unknown,No,No,No
+0,3.0,Female,Paediatric,96.0,Unknown,No,126.0,36.8,42.0,94.0,15.0,Klebsiella pneumoniae,No,No,Private health facilty,Gulu,No,19959.0,Gulu,Student,Unknown,Unknown,No,No,No
+0,28.0,Female,Surgical,103.0,Unknown,No,79.0,36.7,16.0,96.0,15.0,Citrobacter freundii,No,No,Private health facilty,Gulu,No,19937.0,Gulu City,Peasant,Unknown,Unknown,No,No,No
+0,2.0,Male,Paediatric,80.0,Unknown,Yes,102.0,37.3,30.0,93.0,15.0,Staphylococcus aureus,No,No,Private health facilty,Gulu,Yes,20217.0,Gulu,Businesswoman,Unknown,Unknown,No,Yes,No
+0,19.0,Male,Surgical,157.0,Unknown,No,128.0,36.8,28.0,100.0,15.0,Citrobacter koseri,No,Yes,Lower-level public health facility,Gulu,No,20214.0,Omoro,Midwife,Unknown,Unknown,No,No,No
+0,2.0,Male,Paediatric,135.0,Unknown,Yes,133.0,38.0,42.0,95.0,13.0,Proteus mirabilis,No,No,Private health facilty,Gulu,No,20214.0,Gulu,Electrician,Unknown,Unknown,No,No,No
+0,0.0,Male,NICU Unit,111.0,Unknown,No,148.0,38.2,44.0,97.0,15.0,Klebsiella oxytoca,No,No,Lower-level public health facility,Gulu,No,20201.0,Gulu,Unemployed,Unknown,No,No,Yes,No
+1,34.0,Female,ICU/HDU,128.0,Unknown,No,98.0,36.2,17.0,98.0,15.0,Proteus mirabilis,No,No,Lower-level public health facility,Gulu,Yes,20122.0,Kiryandongo,Carpenter,Unknown,Unknown,Yes,No,No
+0,75.0,Male,Surgical,138.0,Unknown,No,67.0,38.8,18.0,97.0,14.0,Citrobacter freundii,No,No,Lower-level public health facility,Gulu,No,20152.0,Gulu,Prisoner,Unknown,No,No,No,No
+1,34.0,Female,ICU/HDU,147.0,Unknown,No,110.0,36.3,18.0,98.0,15.0,Acinetobacter spp,No,No,Lower-level public health facility,Gulu,Yes,20122.0,Kiryandongo,Carpenter,Unknown,Unknown,Yes,No,No
+0,71.0,Male,Surgical,112.0,Unknown,No,86.0,37.0,40.0,88.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Gulu,No,20185.0,Nwoya,Prisoner,Unknown,Unknown,No,Yes,No
+0,2.0,Male,Surgical,105.0,Unknown,No,130.0,36.3,40.0,100.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Gulu,No,19928.0,Omoro,Electrician,Unknown,Unknown,No,No,No
+0,12.0,Female,Paediatric,80.0,Unknown,No,111.0,36.8,32.0,96.0,15.0,Citrobacter spp,No,No,Lower-level public health facility,Gulu,No,19955.0,Amuru,Tailor,Unknown,Unknown,No,Yes,No
+0,26.0,Female,Surgical,130.0,Unknown,No,102.0,36.3,20.0,100.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Gulu,No,19859.0,Gulu,Nurse,Unknown,Unknown,No,No,No
+0,51.0,Female,Gynaecology,82.0,Negative,No,152.0,37.5,36.0,98.0,15.0,Escherichia coli,No,No,Private health facilty,Gulu,No,19857.0,Nwoya,Businesswoman,Unknown,Unknown,Yes,No,No
+0,66.0,Male,Surgical,135.0,Positive,Yes,72.0,36.2,22.0,97.0,15.0,Staphylococcus spp,No,No,Lower-level public health facility,Gulu,Yes,19922.0,Omoro,Mechanic,Unknown,Unknown,No,No,No
+0,22.0,Male,Medical,107.0,Unknown,No,107.0,36.6,19.0,95.0,15.0,Providencia spp,No,No,Lower-level public health facility,Gulu,No,19184.0,Gulu,Hawker,Unknown,Unknown,Yes,No,No
+0,0.0,Male,NICU Unit,125.0,Unknown,No,102.0,37.8,45.0,98.0,4.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Jinja,No,19282.0,Jinja,Electrician,Unknown,Yes,No,No,Yes
+0,27.0,Female,Medical,129.0,Unknown,Yes,75.0,36.5,20.0,96.0,15.0,Pseudomonas aeruginosa,No,No,Lower-level public health facility,Jinja,No,19898.0,Jinja,Unemployed,Unknown,No,Yes,No,No
+0,16.0,Male,Medical,124.0,Unknown,No,99.0,36.7,20.0,99.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Jinja,No,20260.0,Jinja,Retired teacher,Unknown,No,No,No,No
+0,25.0,Female,Medical,116.0,Unknown,No,114.0,36.7,28.0,98.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Jinja,No,19907.0,Jinja,Unemployed,Unknown,Unknown,No,Yes,No
+0,52.0,Female,Accident and emergency,101.0,Unknown,No,130.0,38.4,18.0,98.0,14.0,Citrobacter freundii,No,No,Regional referral hospital,Jinja,No,19254.0,Jinja,Farmer,Unknown,No,No,No,No
+1,0.0,Male,ICU/HDU,103.0,Unknown,No,167.0,37.7,38.0,89.0,13.0,Aeromonas spp,No,No,Lower-level public health facility,Jinja,No,18836.0,Jinja,Electrician,Unknown,No,Yes,No,No
+0,44.0,Male,Orthopaedic,102.0,Negative,Yes,250.0,42.2,40.0,96.0,15.0,Salmonella typhi,No,No,Private health facilty,Jinja,No,19252.0,Jinja,Boda boda rider,Unknown,Unknown,No,No,No
+0,25.0,Male,Orthopaedic,119.0,Positive,Yes,119.0,36.4,20.0,97.0,15.0,Citrobacter freundii,No,No,Not specified,Jinja,No,19312.0,Jinja,Tailor,Unknown,No,No,No,No
+0,24.0,Female,Orthopaedic,114.0,Unknown,No,121.0,38.4,33.0,96.0,15.0,Streptococcus faecalis,No,No,Private health facilty,Jinja,No,18723.0,Kamuli,Tailor,Unknown,No,No,No,No
+0,49.0,Male,Orthopaedic,145.0,Unknown,No,93.0,36.0,26.0,95.0,15.0,Proteus spp,No,No,Lower-level public health facility,Jinja,No,18383.0,Kamuli,Driver,Unknown,No,No,No,No
+0,21.0,Male,Orthopaedic,121.0,Unknown,No,114.0,36.8,28.0,98.0,15.0,Streptococcus faecalis,No,No,Lower-level public health facility,Jinja,No,18376.0,Kabale,Farmer,Unknown,No,No,No,No
+0,30.0,Female,Orthopaedic,130.0,Unknown,Yes,94.0,35.8,20.0,96.0,15.0,Streptococcus faecalis,No,No,Lower-level public health facility,Jinja,No,18416.0,Jinja,Businessman,Unknown,No,No,No,No
+0,52.0,Female,Orthopaedic,119.0,Unknown,No,88.0,37.8,40.0,95.0,15.0,Aeromonas spp,No,No,Lower-level public health facility,Jinja,No,18575.0,Bugiri,Electrician,Unknown,No,No,No,No
+0,23.0,Male,Orthopaedic,127.0,Unknown,No,120.0,36.5,25.0,99.0,15.0,Proteus mirabilis,No,No,Lower-level public health facility,Jinja,No,18925.0,Iganga,Driver,Unknown,No,No,No,No
+1,35.0,Female,Surgical,143.0,Unknown,No,88.0,36.2,19.0,98.0,15.0,Pseudomonas aeruginosa,No,Yes,Lower-level public health facility,Jinja,No,20069.0,Jinja,Peasant,Unknown,Unknown,No,No,No
+1,63.0,Male,Medical,100.0,Unknown,Yes,119.0,37.0,21.0,100.0,13.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Jinja,No,20116.0,Iganga,Peasant,Unknown,Unknown,No,No,Yes
+0,45.0,Male,Medical,124.0,Positive,Yes,102.0,38.4,28.0,92.0,15.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Jinja,No,20095.0,Jinja,Peasant,Unknown,No,No,No,Yes
+1,81.0,Male,Medical,195.0,Unknown,Yes,97.0,38.4,36.0,93.0,15.0,Citrobacter koseri,No,No,Private health facilty,Jinja,No,20115.0,Kaliro,Mechanic,Unknown,Unknown,No,Yes,Yes
+0,38.0,Male,Medical,155.0,Unknown,No,109.0,36.4,22.0,97.0,15.0,Streptococcus pneumoniae,Yes,No,Private health facilty,Jinja,No,20130.0,Jinja,Peasant,Unknown,Unknown,No,No,Yes
+0,60.0,Male,Medical,158.0,Unknown,Yes,116.0,38.4,40.0,76.0,13.0,Streptococcus pneumoniae,Yes,No,Private health facilty,Jinja,No,20138.0,Jinja,Builder,Unknown,Unknown,No,No,Yes
+0,62.0,Male,Medical,168.0,Unknown,No,110.0,37.0,42.0,85.0,15.0,Providencia spp,No,No,Lower-level public health facility,Jinja,No,20164.0,Kamuli,Peasant,Unknown,Unknown,No,Yes,No
+1,33.0,Male,Medical,122.0,Positive,Yes,140.0,37.3,26.0,98.0,13.0,Streptococcus pneumoniae,Yes,No,Private health facilty,Jinja,No,20123.0,Kayunga,Peasant,Unknown,Unknown,No,No,Yes
+0,45.0,Male,Medical,113.0,Positive,Yes,111.0,36.7,28.0,96.0,15.0,Klebsiella pneumoniae,No,No,Not specified,Jinja,No,20124.0,Buwenge,Peasant,Unknown,Unknown,No,Yes,No
+0,37.0,Male,Medical,95.0,Positive,Yes,104.0,37.8,24.0,96.0,6.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Jinja,No,20119.0,Bugweri,Businessman,Unknown,No,No,No,Yes
+0,30.0,Male,Medical,106.0,Unknown,Yes,98.0,36.3,30.0,90.0,15.0,Acinetobacter spp,No,No,Lower-level public health facility,Jinja,No,20193.0,Jinja,Peasant,Unknown,Unknown,No,No,No
+0,39.0,Male,Medical,128.0,Unknown,No,90.0,36.6,33.0,96.0,15.0,Klebsiella aerogenes,No,No,Not specified,Jinja,No,20203.0,Jinja,Prisoner,Unknown,Unknown,No,Yes,No
+0,38.0,Male,Medical,141.0,Unknown,No,136.0,38.3,27.0,95.0,13.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Jinja,No,20147.0,Namuyumba,Peasant,Unknown,Unknown,No,No,Yes
+1,75.0,Female,Surgical,93.0,Unknown,No,132.0,36.9,26.0,96.0,7.0,Acinetobacter baumannii,No,No,Lower-level public health facility,Jinja,No,20148.0,Jinja,Peasant,Unknown,Unknown,No,No,No
+0,50.0,Male,Surgical,146.0,Unknown,Yes,124.0,35.6,24.0,97.0,15.0,Neisseria spp,No,No,Lower-level public health facility,Jinja,No,20234.0,Bugembe,Peasant,Unknown,Unknown,No,No,No
+0,8.0,Male,Surgical,111.0,Unknown,No,113.0,39.7,24.0,97.0,14.0,Vibrio cholera,Yes,No,Regional referral hospital,Jinja,No,20275.0,Luuka,Peasant,Unknown,Unknown,No,No,Yes
+0,50.0,Female,Surgical,93.0,Unknown,No,74.0,36.7,42.0,82.0,15.0,Pseudomonas spp,No,No,Lower-level public health facility,Jinja,No,20196.0,Jinja,Peasant,Unknown,Unknown,No,No,No
+1,81.0,Female,Surgical,84.0,Unknown,Yes,58.0,38.8,40.0,53.0,15.0,Pseudomonas spp,No,Yes,Lower-level public health facility,Jinja,No,20226.0,Luuka,Builder,Unknown,Unknown,No,No,No
+0,63.0,Male,Surgical,146.0,Unknown,Yes,109.0,36.5,24.0,100.0,15.0,Enterobacterales,No,No,Private health facilty,Jinja,No,20261.0,Jinja,Peasant,Unknown,Unknown,No,No,No
+0,48.0,Male,Surgical,140.0,Unknown,Yes,83.0,37.4,42.0,89.0,15.0,Staphylococcus saprophyticus,No,Yes,Lower-level public health facility,Jinja,No,20253.0,Bunya,Retired teacher,Unknown,Unknown,No,No,No
+0,38.0,Male,Medical,115.0,Unknown,Yes,84.0,36.7,28.0,97.0,15.0,Enterobacter spp,No,No,Lower-level public health facility,Jinja,No,18684.0,Mayuge,Housewife,Unknown,Unknown,Yes,No,No
+0,46.0,Male,Medical,119.0,Unknown,Yes,93.0,35.7,26.0,99.0,15.0,Staphylococcus epidermidis,Yes,No,Lower-level public health facility,Jinja,No,18673.0,Arua District,Retired teacher,Unknown,Unknown,No,No,Yes
+1,52.0,Female,ICU/HDU,88.0,Positive,Yes,138.0,37.8,28.0,97.0,6.0,Klebsiella spp,No,No,Regional referral hospital,Jinja,No,18687.0,Buikwe,Peasant,Unknown,Unknown,No,No,No
+0,36.0,Male,Orthopaedic,117.0,Unknown,No,86.0,36.3,22.0,96.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Jinja,No,19350.0,Buikwe,Peasant,Unknown,Unknown,No,No,No
+0,8.0,Female,Orthopaedic,119.0,Unknown,No,123.0,37.8,18.0,92.0,15.0,Staphylococcus spp,No,No,Lower-level public health facility,Jinja,No,18834.0,Buikwe,Hawker,Unknown,Unknown,No,No,No
+0,59.0,Female,Orthopaedic,132.0,Unknown,Yes,86.0,36.4,26.0,97.0,15.0,Streptococcus faecalis,No,No,Lower-level public health facility,Jinja,No,18751.0,Mayuge,Peasant,Unknown,Unknown,No,No,No
+0,48.0,Male,Medical,113.0,Positive,Yes,62.0,38.8,25.0,97.0,15.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Jinja,No,19928.0,Bugiri,Farmer,Unknown,No,No,No,Yes
+0,38.0,Male,Accident and emergency,130.0,Unknown,No,175.0,37.8,36.0,90.0,13.0,Salmonella typhi,No,No,Lower-level public health facility,Jinja,No,19928.0,Jinja,Electrician,Unknown,No,No,Yes,No
+0,48.0,Male,Medical,112.0,Positive,Yes,84.0,37.8,36.0,92.0,15.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Jinja,No,19919.0,Jinja,Carpenter,Unknown,No,No,No,Yes
+0,70.0,Male,Medical,143.0,Negative,No,103.0,38.4,45.0,50.0,13.0,Streptococcus pneumoniae,Yes,No,Private health facilty,Jinja,No,19810.0,Jinja,Farmer,Unknown,No,No,No,Yes
+0,36.0,Male,Accident and emergency,133.0,Unknown,No,99.0,38.3,33.0,88.0,15.0,Klebsiella aerogenes,No,No,Lower-level public health facility,Jinja,No,19885.0,Bugiri,Teacher,Unknown,No,No,Yes,No
+0,45.0,Male,Medical,122.0,Negative,No,89.0,37.9,57.0,78.0,15.0,Klebsiella aerogenes,No,No,Lower-level public health facility,Jinja,No,19971.0,Bugoba,Unemployed,Unknown,No,No,Yes,No
+0,40.0,Male,Surgical,128.0,Unknown,Yes,100.0,36.4,22.0,99.0,15.0,Escherichia coli,No,No,Private health facilty,Jinja,No,20039.0,Buikwe,Peasant,Unknown,No,No,No,No
+0,32.0,Male,Medical,144.0,Positive,Yes,126.0,36.3,28.0,94.0,4.0,Pseudomonas spp,No,No,Lower-level public health facility,Jinja,No,20014.0,Mayuge,Boda boda rider,Unknown,No,Yes,No,No
+0,41.0,Male,Medical,105.0,Unknown,Yes,127.0,36.6,20.0,98.0,14.0,Pseudomonas spp,No,No,Lower-level public health facility,Jinja,No,19988.0,Iriga,Builder,Unknown,No,Yes,No,No
+0,36.0,Male,Surgical,118.0,Unknown,Yes,89.0,36.6,25.0,95.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Jinja,No,20031.0,Buvuma,Unemployed,Unknown,Unknown,Yes,No,No
+0,25.0,Male,Medical,124.0,Positive,Yes,84.0,38.0,28.0,94.0,13.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Jinja,No,20073.0,Luuka,Carpenter,Unknown,No,No,No,Yes
+0,39.0,Male,Medical,106.0,Positive,Yes,98.0,36.3,19.0,98.0,14.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Jinja,No,20097.0,Maracha,Peasant,Unknown,No,No,No,Yes
+0,40.0,Female,Surgical,160.0,Unknown,Yes,99.0,38.4,20.0,99.0,14.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Jinja,No,20068.0,Buikwe,Police officer,Unknown,No,No,No,No
+0,14.0,Male,Surgical,92.0,Unknown,No,123.0,36.5,22.0,100.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Jinja,No,20007.0,Bugiri,Student,Unknown,No,Yes,No,No
+0,52.0,Male,Medical,182.0,Unknown,Yes,90.0,36.7,20.0,97.0,15.0,Staphylococcus aureus,No,No,Private health facilty,Jinja,No,20028.0,Kaliro,Mechanic,Unknown,No,Yes,No,No
+0,0.0,Female,Paediatric,137.0,Unknown,No,207.0,38.1,59.0,100.0,14.0,Vibrio cholera,No,No,Not specified,Jinja,No,20281.0,Jinja,Unemployed,Unknown,No,No,Yes,No
+0,0.0,Male,Paediatric,126.0,Unknown,No,162.0,38.4,46.0,96.0,15.0,Staphylococcus epidermidis,No,Yes,Lower-level public health facility,Jinja,No,20269.0,Kayunga,Electrician,Unknown,Yes,No,No,No
+0,48.0,Male,Surgical,130.0,Unknown,Yes,88.0,38.0,22.0,100.0,15.0,Escherichia coli,No,Yes,Lower-level public health facility,Jinja,No,20118.0,Jinja,Businessman,Unknown,No,No,No,No
+0,75.0,Female,Medical,114.0,Unknown,Yes,93.0,37.4,34.0,92.0,14.0,Klebsiella aerogenes,No,No,Private health facilty,Jinja,No,19238.0,Rwege,Peasant,Unknown,No,No,Yes,No
+0,2.0,Male,Accident and emergency,107.0,Unknown,No,169.0,38.2,44.0,97.0,13.0,Vibrio cholera,Yes,No,Regional referral hospital,Jinja,No,20284.0,Jinja,Electrician,Unknown,No,No,No,No
+0,28.0,Male,Surgical,114.0,Unknown,No,73.0,37.0,19.0,100.0,15.0,Enterobacterales,No,No,Lower-level public health facility,Jinja,No,20258.0,Buikwe,Retired teacher,Unknown,No,Yes,No,No
+0,29.0,Female,Gynaecology,95.0,Unknown,No,87.0,42.2,38.0,89.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Jinja,No,20225.0,Jinja,Retired teacher,Unknown,No,No,No,No
+0,43.0,Female,Surgical,145.0,Unknown,Yes,100.0,36.2,21.0,97.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Jinja,No,20148.0,Buikwe,Turnboy,Unknown,No,No,No,No
+0,60.0,Male,Medical,189.0,Unknown,No,158.0,38.4,38.0,85.0,13.0,Citrobacter koseri,No,No,Private health facilty,Jinja,No,20161.0,Busede,Mechanic,Unknown,No,No,Yes,No
+0,57.0,Male,Medical,163.0,Negative,No,127.0,37.8,50.0,91.0,14.0,Staphylococcus epidermidis,No,Yes,Lower-level public health facility,Jinja,No,18582.0,Namutumba,Unemployed,Unknown,No,No,Yes,No
+0,40.0,Male,Orthopaedic,145.0,Unknown,Yes,110.0,36.0,26.0,96.0,15.0,Klebsiella spp,No,Yes,Lower-level public health facility,Jinja,No,18674.0,Jinja,Peasant,Unknown,No,No,No,No
+0,0.0,Male,NICU Unit,135.0,Unknown,No,155.0,38.0,51.0,95.0,4.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Jinja,No,19282.0,Jinja,Electrician,Unknown,Yes,No,No,Yes
+1,50.0,Female,Medical,126.0,Unknown,Yes,84.0,36.9,36.0,79.0,14.0,Escherichia coli,No,No,Not specified,Jinja,No,20071.0,Mayuge,Unemployed,Unknown,Unknown,No,Yes,No
+0,75.0,Female,Medical,138.0,Unknown,No,90.0,37.0,32.0,97.0,13.0,Citrobacter freundii,No,No,Lower-level public health facility,Jinja,No,20063.0,Biukwe,Peasant,Unknown,Unknown,No,Yes,No
+0,18.0,Female,Medical,103.0,Unknown,Yes,70.0,36.5,20.0,99.0,15.0,Acinetobacter baumannii,No,No,Regional referral hospital,Jinja,No,19850.0,Jinja,Peasant,Unknown,Unknown,No,No,No
+0,24.0,Male,Medical,120.0,Unknown,Yes,83.0,36.5,22.0,99.0,15.0,Streptococcus pneumoniae,Yes,No,Not specified,Jinja,No,20166.0,Jinja,Prisoner,Unknown,Unknown,Yes,No,Yes
+0,20.0,Male,Medical,118.0,Unknown,No,94.0,36.4,20.0,98.0,15.0,Acinetobacter spp,No,Yes,Lower-level public health facility,Jinja,No,20192.0,Kamuli,Prisoner,Unknown,Unknown,Yes,No,No
+0,25.0,Female,Gynaecology,112.0,Unknown,No,118.0,36.9,20.0,98.0,15.0,Colifom,No,No,Lower-level public health facility,Jinja,No,19121.0,Buikwe,Businesswoman,Unknown,Unknown,No,No,No
+1,44.0,Female,Surgical,86.0,Unknown,Yes,131.0,36.8,27.0,86.0,15.0,Coagulate Negative Staph,No,No,Lower-level public health facility,Jinja,No,20208.0,Jinja,Builder,Unknown,Unknown,No,No,No
+1,23.0,Male,Surgical,168.0,Unknown,No,108.0,36.2,21.0,100.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Jinja,No,20139.0,Kiryandongo,Casual labourer,Unknown,Unknown,Yes,No,No
+0,63.0,Female,Medical,107.0,Unknown,Yes,72.0,36.4,19.0,97.0,15.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Jinja,No,20029.0,Wakiso,Peasant,Unknown,Unknown,No,No,Yes
+0,26.0,Female,Gynaecology,108.0,Unknown,No,94.0,36.3,22.0,99.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Jinja,No,18871.0,Buikwe,Prisoner,Unknown,Unknown,No,No,No
+0,27.0,Female,Gynaecology,126.0,Unknown,No,95.0,36.5,20.0,95.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Jinja,No,18870.0,Mpumudde,Carpenter,Unknown,Unknown,No,No,No
+0,48.0,Male,Medical,114.0,Positive,Yes,102.0,36.8,20.0,96.0,15.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Jinja,No,20156.0,Kyankwanzi,Prisoner,Unknown,Unknown,No,No,Yes
+0,38.0,Male,Medical,106.0,Positive,Yes,112.0,37.8,34.0,93.0,7.0,Streptococcus pneumoniae,Yes,No,Regional referral hospital,Jinja,No,20152.0,Busia,Boda boda rider,Unknown,Unknown,No,No,Yes
+0,60.0,Female,ICU/HDU,140.0,Unknown,No,83.0,38.3,42.0,84.0,15.0,Coliform,No,No,Lower-level public health facility,Jinja,No,18794.0,Kamuli,Mechanic,Unknown,Unknown,No,Yes,No
+0,52.0,Male,ICU/HDU,114.0,Positive,Yes,125.0,37.8,42.0,76.0,14.0,Aeromonas spp,No,No,Lower-level public health facility,Jinja,No,18687.0,Iganga,Peasant,Unknown,Unknown,No,Yes,No
+1,64.0,Male,ICU/HDU,127.0,Unknown,Yes,129.0,36.5,30.0,93.0,15.0,Pseudomonas spp,No,No,Private health facilty,Jinja,No,18841.0,Jinja,Builder,Unknown,Unknown,No,Yes,No
+0,45.0,Male,Medical,126.0,Unknown,No,78.0,36.5,20.0,98.0,15.0,Pseudomonas spp,No,No,Regional referral hospital,Jinja,No,20008.0,Jinja,Carpenter,Unknown,Unknown,Yes,No,No
+0,75.0,Female,ICU/HDU,88.0,Unknown,Yes,109.0,36.9,30.0,74.0,6.0,Morganella morganii,No,Yes,Lower-level public health facility,Jinja,No,18721.0,Jinja,Boda boda rider,Unknown,Yes,No,Yes,No
+1,56.0,Male,ICU/HDU,108.0,Unknown,No,123.0,37.4,34.0,76.0,12.0,Klebsiella spp,No,No,Lower-level public health facility,Jinja,No,18645.0,Jinja,Farmer,Unknown,Unknown,No,Yes,No
+0,3.0,Female,Paediatric,136.0,Unknown,Yes,150.0,38.1,44.0,96.0,15.0,Klebsiella pneumoniae,No,No,Private health facilty,Jinja,No,20227.0,Jinja,Electrician,Unknown,Unknown,No,No,No
+1,84.0,Female,ICU/HDU,98.0,Unknown,Yes,125.0,38.4,36.0,89.0,14.0,Enterococcus faecalis,No,No,Not specified,Jinja,No,18631.0,Namutumba,Housewife,Unknown,Unknown,Yes,Yes,No
+0,50.0,Male,Medical,132.0,Unknown,No,78.0,36.5,20.0,97.0,15.0,Streptococcus pneumoniae,Yes,No,Regional referral hospital,Jinja,No,19990.0,Kaberamaido,Peasant,Unknown,Unknown,No,No,Yes
+0,0.0,Female,Paediatric,114.0,Unknown,No,138.0,36.5,40.0,96.0,15.0,Streptococcus faecalis,No,No,Lower-level public health facility,Jinja,No,18688.0,Jinja,Student,Unknown,Unknown,No,No,No
+0,14.0,Female,ICU/HDU,113.0,Unknown,No,79.0,36.6,28.0,99.0,15.0,Staphylococcus epidermidis,Yes,No,Lower-level public health facility,Jinja,No,18673.0,Jinja,Hawker,Unknown,Unknown,Yes,No,Yes
+0,37.0,Male,Orthopaedic,124.0,Unknown,No,96.0,36.0,28.0,97.0,15.0,Pseudomonas aeruginosa,No,No,Lower-level public health facility,Jinja,No,19201.0,Kamuli,Turnboy,Unknown,Unknown,No,No,No
+0,48.0,Female,Orthopaedic,130.0,Unknown,No,110.0,36.5,25.0,99.0,15.0,Klebsiella oxytoca,No,No,Lower-level public health facility,Jinja,No,18913.0,Jinja,Housewife,Unknown,Unknown,No,No,No
+0,26.0,Male,Medical,124.0,Unknown,Yes,88.0,35.8,26.0,98.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Jinja,No,18589.0,Jinja,Housewife,Unknown,Unknown,No,No,No
+0,29.0,Male,Medical,135.0,Unknown,No,114.0,38.4,22.0,53.0,15.0,Escherichia coli,No,Yes,Lower-level public health facility,Jinja,No,20209.0,Bugiri,Farmer,Unknown,No,Yes,No,No
+0,28.0,Male,Medical,125.0,Unknown,No,96.0,36.4,28.0,98.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Jinja,No,19347.0,Buikwe,Farmer,Unknown,Unknown,Yes,No,No
+0,23.0,Male,Surgical,132.0,Unknown,No,88.0,36.5,28.0,98.0,15.0,Citrobacter koseri,No,No,Lower-level public health facility,Jinja,No,20235.0,Jinja,Tailor,Unknown,Unknown,No,No,No
+1,56.0,Female,ICU/HDU,171.0,Unknown,No,132.0,38.1,27.0,82.0,15.0,Proteus vulgaris,No,No,Not specified,Jinja,No,18842.0,Jinja,Businessman,Yes,Unknown,No,Yes,No
+0,48.0,Male,Medical,107.0,Unknown,No,104.0,36.4,30.0,95.0,15.0,Escherichia coli,No,Yes,Lower-level public health facility,Jinja,No,18704.0,Namutumba,Housewife,Unknown,Unknown,No,Yes,No
+0,80.0,Female,Orthopaedic,157.0,Unknown,Yes,72.0,38.2,17.0,98.0,15.0,Escherichia coli,No,No,Regional referral hospital,Jinja,No,20208.0,Jinja,Businessman,Yes,No,No,No,No
+0,42.0,Male,Orthopaedic,120.0,Unknown,No,100.0,36.0,21.0,98.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Jinja,No,20187.0,Jinja,Turnboy,Unknown,Yes,No,No,No
+0,16.0,Male,Orthopaedic,108.0,Unknown,No,140.0,36.8,27.0,98.0,15.0,Escherichia coli,No,Yes,Lower-level public health facility,Jinja,No,19303.0,Bugiri,Student,Unknown,Yes,No,No,No
+0,29.0,Male,Orthopaedic,97.0,Unknown,No,106.0,37.5,22.0,84.0,15.0,Staphylococcus aureus,No,No,Not specified,Jinja,No,19310.0,Jinja,Prisoner,Unknown,Unknown,No,No,No
+0,66.0,Male,Orthopaedic,107.0,Unknown,No,73.0,37.5,44.0,95.0,15.0,Enterococcus faecalis,No,No,Lower-level public health facility,Jinja,No,18525.0,Kayunga,Farmer,Unknown,No,No,No,No
+0,41.0,Male,Surgical,129.0,Unknown,Yes,114.0,35.7,28.0,95.0,13.0,Streptococcus faecalis,No,No,Lower-level public health facility,Jinja,No,18693.0,Jinja,Businessman,Yes,No,No,No,No
+0,51.0,Male,Surgical,92.0,Unknown,No,138.0,36.3,26.0,100.0,14.0,Escherichia coli,No,No,Private health facilty,Jinja,No,18641.0,Iganga,Prisoner,Unknown,Unknown,No,No,No
+0,40.0,Male,Surgical,106.0,Negative,No,89.0,38.0,28.0,98.0,15.0,Coliform,No,No,Lower-level public health facility,Jinja,No,18786.0,Namutumba,Peasant,Unknown,No,No,No,No
+0,40.0,Male,Surgical,106.0,Unknown,Yes,101.0,36.0,27.0,96.0,15.0,Staphylococcus saprophyticus,No,No,Lower-level public health facility,Jinja,No,18676.0,Mayuge,Farmer,Yes,Unknown,No,No,No
+0,33.0,Male,Orthopaedic,143.0,Unknown,No,95.0,36.0,26.0,100.0,15.0,Streptococcus faecalis,No,No,Private health facilty,Jinja,No,18773.0,Jinja,Carpenter,Unknown,No,No,No,No
+0,48.0,Male,Orthopaedic,115.0,Unknown,No,95.0,38.8,51.0,95.0,15.0,Klebsiella spp,No,No,Private health facilty,Jinja,No,18674.0,Jinja,Electrician,Unknown,No,No,No,No
+0,45.0,Male,Medical,116.0,Positive,Yes,84.0,36.0,36.5,100.0,15.0,Colifom,No,No,Lower-level public health facility,Jinja,No,18668.0,Jinja,Peasant,Unknown,No,No,No,No
+0,11.0,Female,Paediatric,82.0,Unknown,Yes,123.0,36.6,34.0,99.0,15.0,Klebsiella pneumoniae,No,No,Private health facilty,Jinja,No,19859.0,Buikwe,Tailor,Unknown,No,No,No,No
+0,3.0,Female,Paediatric,114.0,Unknown,No,152.0,38.0,34.0,100.0,13.0,Staphylococcus aureus,No,No,Private health facilty,Jinja,No,19079.0,Buikwe,Electrician,Unknown,No,No,No,No
+0,54.0,Male,Medical,102.0,Unknown,No,106.0,38.4,44.0,85.0,14.0,Providencia spp,No,No,Lower-level public health facility,Jinja,No,19328.0,Jinja,Mechanic,Unknown,No,No,Yes,No
+0,49.0,Male,Medical,157.0,Positive,Yes,77.0,38.0,20.0,96.0,15.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Jinja,No,20025.0,Jinja,Carpenter,Unknown,No,No,No,Yes
+0,37.0,Female,Gynaecology,123.0,Unknown,No,83.0,36.7,28.0,98.0,15.0,Escherichia coli,No,No,Regional referral hospital,Jinja,No,18831.0,Jinja,Peasant,Unknown,No,No,No,No
+0,25.0,Female,Medical,92.0,Positive,Yes,100.0,38.1,23.0,94.0,15.0,Klebsiella aerogenes,No,No,Private health facilty,Jinja,No,19899.0,Buikwe,Unemployed,Unknown,No,No,Yes,No
+0,25.0,Female,Medical,131.0,Positive,Yes,101.0,36.7,20.0,97.0,15.0,Streptococcus pneumoniae,Yes,No,Not specified,Jinja,No,19897.0,Mayuge,Unemployed,Unknown,No,No,No,Yes
+0,60.0,Male,ICU/HDU,150.0,Unknown,Yes,120.0,38.6,44.0,79.0,15.0,Enterobacter spp,No,No,Lower-level public health facility,Jinja,No,19989.0,Mayuge,Prisoner,Unknown,Unknown,No,Yes,No
+1,70.0,Female,ICU/HDU,155.0,Unknown,Yes,100.0,37.8,30.0,82.0,14.0,Enterococcus faecalis,No,Yes,Private health facilty,Jinja,No,18876.0,Jinja,Housewife,Unknown,Unknown,No,Yes,No
+1,62.0,Male,ICU/HDU,125.0,Negative,No,101.0,38.8,44.0,50.0,14.0,Klebsiella spp,No,No,Private health facilty,Jinja,No,19965.0,Iganga,Electrician,Unknown,No,No,No,No
+0,28.0,Female,Orthopaedic,134.0,Unknown,No,88.0,39.4,22.0,98.0,15.0,Acinetobacter baumannii,No,No,Lower-level public health facility,Jinja,No,20143.0,Luuka,Parish chief,Unknown,No,No,No,No
+0,20.0,Male,Orthopaedic,135.0,Unknown,No,79.0,36.7,20.0,100.0,15.0,Enterococcus ssp,No,No,Lower-level public health facility,Jinja,No,20239.0,Luuka,Retired teacher,Unknown,No,No,No,No
+0,35.0,Male,Orthopaedic,110.0,Unknown,No,68.0,36.5,18.0,97.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Jinja,No,19207.0,Busiki,Farmer,Unknown,No,No,No,No
+0,19.0,Male,Orthopaedic,108.0,Unknown,No,129.0,36.5,20.0,94.0,15.0,Pseudomonas spp,No,No,Lower-level public health facility,Jinja,No,19219.0,Jin,Parish chief,Unknown,No,No,No,No
+0,44.0,Male,Orthopaedic,108.0,Unknown,No,250.0,38.2,32.0,50.0,13.0,Salmonella typhi,No,No,Private health facilty,Jinja,No,19248.0,Jinja,Builder,Unknown,No,No,No,No
+0,18.0,Male,Orthopaedic,108.0,Unknown,No,101.0,36.5,20.0,95.0,15.0,Pseudomonas aeruginosa,No,No,Lower-level public health facility,Jinja,No,19199.0,Kamuli,Farmer,Unknown,No,No,No,No
+0,12.0,Female,Surgical,96.0,Unknown,No,120.0,37.4,34.0,89.0,15.0,Staphylococcus spp,No,No,Lower-level public health facility,Jinja,No,18800.0,Mayuge,Hawker,Unknown,No,No,No,No
+0,40.0,Female,Medical,135.0,Unknown,No,96.0,35.8,28.0,96.0,15.0,Klebsiella spp,No,No,Lower-level public health facility,Jinja,No,18669.0,Jinja,Housewife,Unknown,No,Yes,No,No
+0,2.0,Male,Surgical,103.0,Unknown,No,128.0,37.7,42.0,98.0,14.0,Staphylococcus aureus,No,No,Lower-level public health facility,Kabale,No,20048.0,Rubanda,Electrician,Unknown,No,No,No,No
+0,2.0,Female,Paediatric,108.0,Unknown,No,115.0,39.0,23.0,96.0,12.0,Streptococcus pneumoniae,No,No,Lower-level public health facility,Kabale,No,20046.0,Rubanda,Hawker,Unknown,No,Yes,Yes,Yes
+0,25.0,Female,Gynaecology,115.0,Negative,No,123.0,37.8,40.0,89.0,15.0,Streptococcus faecalis,No,No,Lower-level public health facility,Kabale,No,18773.0,Kanugu,Tailor,Unknown,No,No,No,No
+0,16.0,Male,Surgical,85.0,Unknown,No,115.0,37.3,32.0,95.0,14.0,Streptococcus faecalis,No,No,Private health facilty,Kabale,No,18782.0,Rubando,Student,Unknown,No,No,No,No
+0,56.0,Female,Surgical,144.0,Negative,No,90.0,36.2,27.0,95.0,14.0,Proteus mirabilis,Yes,No,Lower-level public health facility,Kabale,Yes,18807.0,Kabaale,Mechanic,Unknown,No,No,No,No
+0,45.0,Female,Gynaecology,190.0,Positive,Yes,83.0,38.4,44.0,79.0,15.0,Escherichia coli,No,Yes,Lower-level public health facility,Kabale,No,18784.0,Rukiga,Peasant,Unknown,No,No,No,No
+0,45.0,Female,Gynaecology,99.0,Unknown,No,110.0,38.3,24.0,92.0,15.0,Staphylococcus aureus,No,Yes,Lower-level public health facility,Kabale,No,18691.0,Kabaale,Peasant,Unknown,No,No,No,No
+0,52.0,Female,Medical,141.0,Negative,No,84.0,38.7,51.0,78.0,14.0,Neisseria gonorrhoeae,Yes,No,Private health facilty,Kabale,No,20226.0,Kabale,Retired teacher,Unknown,No,No,Yes,No
+0,6.0,Female,Surgical,100.0,Negative,No,128.0,37.9,32.0,95.0,15.0,Staphylococcus spp,No,No,Lower-level public health facility,Kabale,No,18833.0,Kabaale,Tailor,Unknown,No,No,No,No
+0,17.0,Male,Surgical,101.0,Unknown,No,128.0,37.0,30.0,97.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Kabale,No,18840.0,Kabaale,Student,Unknown,No,No,No,No
+0,33.0,Male,Surgical,110.0,Negative,No,95.0,36.5,44.0,97.0,15.0,Escherichia coli,No,No,Not specified,Kabale,No,18849.0,Kabaale,Electrician,Unknown,No,No,No,No
+0,25.0,Male,Surgical,120.0,Negative,No,82.0,36.5,28.0,100.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Kabale,No,18848.0,Kabaale,Peasant,Unknown,No,Yes,No,No
+0,65.0,Male,Surgical,136.0,Unknown,No,76.0,36.0,27.0,95.0,14.0,Escherichia coli,No,No,Lower-level public health facility,Kabale,No,18883.0,Kabale,Builder,Unknown,No,No,No,No
+0,67.0,Female,Surgical,137.0,Unknown,No,94.0,36.4,28.0,96.0,15.0,Staphylococcus spp,No,No,Private health facilty,Kabale,No,18849.0,Rubanda,Turnboy,Unknown,No,No,No,No
+0,8.0,Male,Surgical,99.0,Unknown,No,115.0,37.1,25.0,94.0,15.0,Staphylococcus spp,No,No,Not specified,Kabale,No,18864.0,Rubanda,Hawker,Unknown,No,No,No,No
+0,12.0,Female,Paediatric,108.0,Unknown,No,137.0,36.1,32.0,97.0,15.0,Staphylococcus aureus,No,No,Not specified,Kabale,No,19212.0,Kabale,Hawker,Unknown,Unknown,No,No,No
+0,35.0,Female,Surgical,78.0,Positive,No,70.0,38.0,20.0,85.0,4.0,Staphylococcus aureus,No,No,Regional referral hospital,Kabale,No,19230.0,Kabale,Peasant,Unknown,Unknown,No,No,No
+0,26.0,Female,Gynaecology,125.0,Unknown,No,98.0,36.3,20.0,96.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Kabale,No,18995.0,Kabale,Peasant,Unknown,Unknown,No,No,No
+0,14.0,Male,Surgical,101.0,Unknown,No,104.0,37.8,20.0,95.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Kabale,No,19095.0,Kabale,Hawker,Unknown,Unknown,No,No,No
+0,8.0,Female,Surgical,78.0,Unknown,No,152.0,37.5,32.0,92.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Kabale,No,19088.0,Rubanda,Student,Unknown,Unknown,No,No,No
+0,49.0,Female,Medical,127.0,Unknown,No,121.0,36.0,20.0,97.0,15.0,Staphylococcus epidermidis,Yes,Yes,Private health facilty,Kabale,No,19053.0,Kabale,Peasant,Unknown,Unknown,No,No,Yes
+0,26.0,Female,Medical,117.0,Unknown,No,115.0,37.0,20.0,98.0,15.0,Colifom,Yes,Yes,Lower-level public health facility,Kabale,No,19025.0,Kabale,Peasant,Unknown,Unknown,Yes,No,No
+1,0.0,Female,Paediatric,109.0,Unknown,No,159.0,37.8,51.0,97.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Kabale,No,20096.0,Kabale,Unemployed,Unknown,Unknown,No,Yes,No
+0,39.0,Male,Medical,134.0,Unknown,No,102.0,36.9,21.0,91.0,15.0,Klebsiella aerogenes,No,No,Private health facilty,Kabale,No,19094.0,Kabale,Peasant,Unknown,Unknown,No,Yes,No
+0,48.0,Female,Medical,121.0,Positive,Yes,88.0,36.2,20.0,99.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Kabale,No,19092.0,Kabale,Carpenter,Unknown,Unknown,Yes,No,No
+1,83.0,Female,Medical,100.0,Unknown,No,77.0,37.8,20.0,100.0,15.0,Morganella morganii,No,Yes,Lower-level public health facility,Kabale,No,19914.0,Rukiga,Parish chief,Unknown,Yes,No,No,No
+0,45.0,Female,Orthopaedic,155.0,Negative,No,74.0,36.0,20.0,96.0,15.0,Staphylococcus aureus,No,Yes,Lower-level public health facility,Kabale,Yes,20053.0,Kabale,Boda boda rider,Unknown,Unknown,No,No,No
+0,35.0,Male,Medical,120.0,Unknown,No,94.0,36.8,37.0,94.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Kabale,No,20043.0,Kabale,Electrician,Unknown,Unknown,No,Yes,No
+0,65.0,Female,Medical,140.0,Unknown,No,120.0,38.0,32.0,92.0,14.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Kabale,No,20035.0,Rubanda,Builder,Unknown,Unknown,No,No,No
+0,37.0,Male,Medical,100.0,Positive,Yes,83.0,37.8,28.0,94.0,14.0,Enterobacter spp,Yes,Yes,Lower-level public health facility,Kabale,No,20018.0,Rukiga,Prisoner,Unknown,Unknown,No,Yes,No
+0,1.0,Female,Paediatric,122.0,Unknown,No,167.0,38.6,42.0,99.0,14.0,Shigella Spp,No,No,Private health facilty,Kabale,Yes,20166.0,Rubanda,Electrician,Unknown,Unknown,Yes,Yes,No
+0,70.0,Female,Medical,116.0,Negative,No,75.0,36.9,28.0,97.0,15.0,Proteus vulgaris,Yes,No,Not specified,Kabale,No,20172.0,Rubanda,Peasant,Unknown,Unknown,No,Yes,No
+0,23.0,Female,Maternity/Post-Natal ward,130.0,Unknown,No,73.0,37.3,20.0,97.0,15.0,Escherichia coli,No,No,Regional referral hospital,Kabale,No,20142.0,Rubanda,Housewife,Unknown,Unknown,No,No,No
+0,21.0,Male,Surgical,101.0,Positive,Yes,70.0,38.4,19.0,98.0,15.0,Staphylococcus aureus,No,No,Not specified,Kabale,No,20011.0,Kabale,Student,Unknown,No,No,No,No
+0,12.0,Male,Surgical,115.0,Unknown,No,92.0,36.6,18.0,99.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Kabale,No,19736.0,Kanungu,Hawker,Unknown,Unknown,No,No,No
+0,23.0,Male,Surgical,121.0,Unknown,No,79.0,36.7,20.0,99.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Kabale,No,20000.0,Rubanda,Peasant,Unknown,Unknown,No,No,No
+0,30.0,Male,Medical,92.0,Unknown,No,129.0,38.1,32.0,82.0,14.0,Escherichia coli,No,No,Lower-level public health facility,Kabale,No,18750.0,Kabale,Prisoner,Unknown,Unknown,Yes,Yes,No
+0,86.0,Female,Medical,133.0,Unknown,Yes,79.0,36.5,20.0,95.0,15.0,Escherichia coli,No,No,Private health facilty,Kabale,No,18755.0,Kabale,Carpenter,Unknown,Unknown,No,No,No
+1,80.0,Male,Medical,180.0,Unknown,No,92.0,38.2,40.0,99.0,15.0,Providencia spp,No,No,Lower-level public health facility,Kabale,No,18750.0,Kabale,Peasant,Unknown,Unknown,No,Yes,No
+0,6.0,Male,Surgical,99.0,Unknown,No,130.0,36.9,33.0,94.0,15.0,Staphylococcus aureus,No,No,Private health facilty,Kabale,No,18832.0,Kabale,Student,Unknown,Unknown,No,No,No
+0,12.0,Female,Surgical,109.0,Unknown,No,167.0,36.9,32.0,95.0,13.0,Staphylococcus aureus,No,No,Lower-level public health facility,Kabale,No,18828.0,Kabale,Tailor,Unknown,Unknown,No,No,No
+0,85.0,Female,Medical,158.0,Unknown,Yes,102.0,38.2,36.0,91.0,7.0,Escherichia coli,No,No,Not specified,Kabale,No,18846.0,Kabale,Police officer,Unknown,No,No,No,No
+0,5.0,Male,Paediatric,110.0,Unknown,No,98.0,37.0,21.0,97.0,15.0,Staphylococcus aureus,No,No,Private health facilty,Kabale,No,20060.0,Kabaale,Hawker,Unknown,No,Yes,Yes,No
+0,15.0,Female,Surgical,125.0,Unknown,No,105.0,36.5,18.0,99.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Kabale,No,19010.0,Kabaale,Hawker,Unknown,No,No,No,No
+0,28.0,Male,Surgical,120.0,Positive,Yes,127.0,36.7,26.0,98.0,15.0,Escherichia coli,No,No,Not specified,Kabale,No,19013.0,Rubanda,Peasant,Unknown,No,Yes,No,No
+0,42.0,Female,Medical,134.0,Negative,Yes,73.0,38.0,44.0,98.0,15.0,Aeromonas spp,Yes,No,Private health facilty,Kabale,No,19028.0,Rukiga,Peasant,Unknown,No,Yes,No,No
+0,22.0,Female,Medical,95.0,Negative,No,123.0,37.6,23.0,97.0,15.0,Klebsiella aerogenes,No,No,Lower-level public health facility,Kabale,No,19047.0,Kabaale,Student,Unknown,No,No,Yes,No
+0,10.0,Male,Surgical,114.0,Unknown,No,108.0,36.7,20.0,97.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Kabale,No,19060.0,Rubanda,Student,Unknown,No,No,No,No
+0,4.0,Male,Paediatric,114.0,Unknown,No,132.0,36.7,42.0,92.0,15.0,Klebsiella aerogenes,No,No,Lower-level public health facility,Kabale,No,20059.0,Kabaale,Student,Unknown,No,No,Yes,No
+0,9.0,Male,Paediatric,100.0,Negative,No,111.0,38.4,32.0,95.0,15.0,Coagulate Negative Staph,No,No,Lower-level public health facility,Kabale,No,20029.0,Kabaale,Student,Unknown,No,Yes,No,No
+0,2.0,Female,Surgical,130.0,Negative,No,158.0,38.7,36.0,96.0,14.0,Staphylococcus aureus,No,No,Lower-level public health facility,Kabale,No,20131.0,Rukiga,Unemployed,Unknown,No,No,No,No
+0,2.0,Male,Paediatric,136.0,Negative,No,150.0,38.0,40.0,100.0,14.0,Streptococcus pneumoniae,No,No,Private health facilty,Kabale,No,20039.0,Kabaale,Electrician,Unknown,Yes,Yes,Yes,Yes
+0,5.0,Male,Paediatric,143.0,Negative,No,115.0,38.2,36.0,96.0,13.0,Enterococcus faecium,Yes,No,Lower-level public health facility,Kabale,Yes,20032.0,Kabaale,Welder,Unknown,No,Yes,No,Yes
+0,0.0,Male,Surgical,126.0,Negative,No,160.0,38.0,44.0,100.0,13.0,Staphylococcus aureus,No,No,Not specified,Kabale,No,20161.0,Rubanda,Unemployed,Unknown,No,No,No,No
+0,15.0,Female,Surgical,123.0,Unknown,No,102.0,37.0,16.0,100.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Kabale,No,20164.0,Kabaale,Student,Unknown,No,No,No,No
+0,44.0,Male,Surgical,125.0,Unknown,No,90.0,36.5,22.0,98.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Kabale,No,19998.0,Rubanda,Peasant,Unknown,No,No,No,No
+0,17.0,Male,Surgical,96.0,Negative,No,111.0,37.4,33.0,96.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Kabale,No,19990.0,Kabaale,Farmer,Unknown,No,No,No,No
+0,34.0,Female,Maternity/Post-Natal ward,130.0,Negative,No,104.0,36.5,20.0,99.0,15.0,Neisseria gonorrhoeae,No,No,Private health facilty,Kabale,No,20199.0,Kabaale,Peasant,Unknown,No,No,No,No
+0,28.0,Female,Maternity/Post-Natal ward,127.0,Negative,No,76.0,37.0,20.0,97.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Kabale,Yes,20117.0,Kabaale,Peasant,Unknown,No,No,No,No
+0,38.0,Female,Maternity/Post-Natal ward,98.0,Negative,No,110.0,37.2,20.0,98.0,15.0,Proteus spp,No,Yes,Lower-level public health facility,Kabale,No,20152.0,Kabaale,Peasant,Unknown,Yes,No,No,No
+0,22.0,Female,Maternity/Post-Natal ward,111.0,Negative,No,74.0,37.0,20.0,99.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Kabale,No,20194.0,Kabaale,Businesswoman,Unknown,No,No,No,No
+0,24.0,Male,Surgical,90.0,Negative,No,104.0,37.8,32.0,96.0,15.0,Escherichia coli,No,Yes,Lower-level public health facility,Kabale,No,18814.0,Rubanda,Tailor,Unknown,Yes,No,No,No
+0,2.0,Male,Surgical,100.0,Negative,No,126.0,37.5,42.0,96.0,13.0,Escherichia coli,No,Yes,Lower-level public health facility,Kabale,No,18828.0,Rubanda,Tailor,Unknown,No,No,No,No
+0,15.0,Male,Surgical,106.0,Negative,No,74.0,36.8,20.0,99.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Kabale,No,20102.0,Rubanda,Hawker,Unknown,No,No,No,No
+0,91.0,Male,Surgical,151.0,Negative,No,112.0,39.2,24.0,53.0,6.0,Escherichia coli,No,No,Regional referral hospital,Kabale,No,20126.0,Ntungamu,Peasant,Unknown,No,No,No,No
+0,23.0,Female,Maternity/Post-Natal ward,125.0,Negative,No,101.0,37.2,18.0,98.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Kabale,No,20094.0,Rubanda,Nurse,Unknown,No,No,No,No
+0,28.0,Female,Maternity/Post-Natal ward,133.0,Negative,No,83.0,36.4,28.0,97.0,15.0,Enterobacter cloacae,No,Yes,Private health facilty,Kabale,No,20152.0,Kabaale,Prisoner,Unknown,No,No,No,No
+0,35.0,Female,Maternity/Post-Natal ward,114.0,Negative,No,123.0,37.0,21.0,75.0,15.0,Klebsiella aerogenes,No,No,Lower-level public health facility,Kabale,No,20152.0,Rubanda,Peasant,Unknown,Unknown,No,No,No
+0,75.0,Male,Medical,110.0,Unknown,No,133.0,37.3,30.0,88.0,12.0,Escherichia coli,No,No,Regional referral hospital,Kabale,No,20157.0,Rubanda,Electrician,Unknown,Unknown,No,Yes,No
+0,1.0,Female,Paediatric,127.0,Unknown,No,130.0,38.3,45.0,93.0,12.0,Shigella Spp,No,No,Lower-level public health facility,Kabale,No,19879.0,Rubanda,Electrician,Unknown,No,No,Yes,No
+0,3.0,Female,Paediatric,128.0,Unknown,No,155.0,38.3,42.0,97.0,12.0,Streptococcus pneumoniae,Yes,Yes,Private health facilty,Kabale,No,19855.0,Rukiga,Tailor,Unknown,Yes,No,No,Yes
+0,32.0,Male,Surgical,130.0,Unknown,No,88.0,36.0,30.0,95.0,15.0,Escherichia coli,No,No,Private health facilty,Kabale,No,18676.0,Kabale,Peasant,Unknown,No,No,Yes,No
+0,75.0,Female,Medical,177.0,Unknown,No,110.0,37.8,30.0,94.0,14.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Kabale,No,18765.0,Kabaale,Driver,Unknown,Unknown,No,Yes,No
+0,18.0,Male,Surgical,125.0,Unknown,No,105.0,36.3,28.0,99.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Kabale,No,18801.0,Rubanda,Student,Unknown,Yes,No,No,No
+0,1.0,Female,Surgical,100.0,Unknown,No,152.0,37.0,40.0,94.0,7.0,Escherichia coli,No,Yes,Lower-level public health facility,Kabale,No,18862.0,Rubanda,Student,Unknown,Unknown,Yes,No,No
+0,5.0,Female,Surgical,101.0,Unknown,No,132.0,38.1,31.0,96.0,14.0,Staphylococcus aureus,No,No,Lower-level public health facility,Kabale,No,18860.0,Rukiga,Tailor,Unknown,No,No,No,No
+0,2.0,Male,Paediatric,85.0,Unknown,No,152.0,36.3,45.0,93.0,15.0,Staphylococcus aureus,No,No,Not specified,Kabale,No,18870.0,Kabaale,Hawker,Unknown,No,No,No,No
+0,46.0,Female,Medical,112.0,Unknown,Yes,76.0,36.0,26.0,96.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Kabale,No,18745.0,Rubanda,Peasant,Unknown,Yes,No,No,No
+0,2.0,Male,Paediatric,119.0,Negative,No,133.0,39.5,30.0,78.0,7.0,Staphylococcus aureus,Yes,No,Not specified,Kabale,No,20159.0,Kabale,Boda boda rider,Unknown,No,No,Yes,Yes
+0,12.0,Male,Surgical,109.0,Unknown,No,107.0,38.2,18.0,50.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Kabale,No,20103.0,Kabale,Hawker,Unknown,No,No,No,No
+0,9.0,Male,Surgical,107.0,Unknown,No,98.0,37.3,20.0,100.0,15.0,Staphylococcus aureus,No,No,Private health facilty,Kabale,No,20153.0,Kabale,Student,Unknown,No,No,No,No
+0,5.0,Male,Surgical,103.0,Unknown,No,146.0,36.2,36.0,96.0,13.0,Proteus mirabilis,No,No,Lower-level public health facility,Kabale,No,20167.0,Rubanda,Peasant,Unknown,No,No,No,No
+0,23.0,Female,Maternity/Post-Natal ward,87.0,Unknown,No,138.0,36.6,32.0,79.0,6.0,Serratia spp,No,No,Lower-level public health facility,Kabale,Yes,19960.0,Kabale,Boda boda rider,Unknown,No,Yes,No,No
+0,18.0,Female,Maternity/Post-Natal ward,127.0,Unknown,No,84.0,37.1,16.0,100.0,15.0,Acinetobacter baumannii,No,No,Private health facilty,Kabale,No,19960.0,Rubanda,Student,Unknown,No,No,No,No
+0,36.0,Male,Medical,147.0,Unknown,No,76.0,36.5,19.0,99.0,15.0,Staphylococcus aureus,Yes,No,Private health facilty,Kabale,Yes,19939.0,Kabale,Boda boda rider,Unknown,No,No,No,No
+0,47.0,Female,Medical,101.0,Unknown,Yes,65.0,36.7,19.0,98.0,15.0,Providencia spp,Yes,Yes,Lower-level public health facility,Kabale,No,19975.0,Rubanda,Peasant,Unknown,No,No,No,No
+0,25.0,Male,Surgical,145.0,Unknown,No,121.0,36.3,22.0,96.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Kabale,Yes,19886.0,Ntungamo,Carpenter,Unknown,Unknown,Yes,No,No
+0,60.0,Male,Medical,122.0,Unknown,No,76.0,36.3,19.0,98.0,15.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Kabale,No,19960.0,Rubanda,Carpenter,Unknown,No,No,No,Yes
+0,2.0,Female,Paediatric,123.0,Unknown,No,120.0,36.2,38.0,98.0,15.0,Klebsiella aerogenes,Yes,No,Lower-level public health facility,Kabale,No,20041.0,Kabale,Electrician,Unknown,No,Yes,Yes,No
+0,2.0,Female,Paediatric,127.0,Negative,No,180.0,37.3,40.0,94.0,14.0,Escherichia coli,Yes,Yes,Lower-level public health facility,Kabale,No,20038.0,Kabale,Electrician,Unknown,Unknown,Yes,Yes,Yes
+0,3.0,Male,Paediatric,129.0,Unknown,No,84.0,37.8,40.0,89.0,15.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Kabale,No,20042.0,Kabale,Electrician,Unknown,Unknown,Yes,Yes,Yes
+0,67.0,Male,Medical,146.0,Unknown,No,102.0,37.1,36.0,91.0,15.0,Klebsiella pneumoniae,No,No,Private health facilty,Kabale,No,20110.0,Kabale,Electrician,Unknown,Unknown,No,Yes,No
+0,29.0,Female,Gynaecology,111.0,Unknown,No,112.0,37.8,26.0,92.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Kabale,No,18716.0,Rubanda,Farmer,Unknown,Unknown,No,No,No
+0,26.0,Female,Gynaecology,99.0,Unknown,No,100.0,38.3,28.0,96.0,15.0,Streptococcus faecalis,No,Yes,Lower-level public health facility,Kabale,No,18728.0,Kabale,Peasant,Unknown,Yes,No,No,No
+0,52.0,Male,Surgical,120.0,Unknown,No,107.0,36.0,44.0,100.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Kabale,Yes,18853.0,Kabale,Businessman,Unknown,Unknown,No,No,No
+0,79.0,Male,Medical,134.0,Unknown,Yes,74.0,36.7,20.0,97.0,13.0,Enterococcus faecalis,No,No,Lower-level public health facility,Kabale,No,18806.0,Kabale,Farmer,Unknown,Unknown,Yes,No,No
+0,4.0,Female,Paediatric,98.0,Unknown,No,131.0,38.4,32.0,93.0,15.0,Proteus mirabilis,No,No,Lower-level public health facility,Kabale,No,20018.0,Kanungu,Unemployed,Unknown,No,Yes,No,No
+0,12.0,Male,Paediatric,95.0,Unknown,No,100.0,37.5,34.0,53.0,15.0,Staphylococcus spp,No,No,Lower-level public health facility,Kabale,No,20143.0,Rukungiri,Student,Unknown,No,No,No,No
+0,50.0,Female,Medical,169.0,Unknown,Yes,130.0,36.3,16.0,97.0,15.0,Escherichia coli,No,Yes,Lower-level public health facility,Kabale,No,19210.0,Kabale,Housewife,Unknown,No,No,No,No
+0,21.0,Male,Surgical,97.0,Unknown,No,114.0,38.6,21.0,95.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Kabale,No,19068.0,Kanungu,Student,Unknown,No,Yes,No,No
+0,67.0,Male,Surgical,153.0,Unknown,No,100.0,36.2,34.0,97.0,14.0,Providencia spp,No,No,Lower-level public health facility,Kabale,No,19061.0,Kabale,Builder,Unknown,No,No,No,No
+0,0.0,Female,Paediatric,128.0,Unknown,No,140.0,36.0,46.0,84.0,15.0,Staphylococcus epidermidis,No,No,Lower-level public health facility,Kabale,No,20159.0,Kabale,Electrician,Unknown,No,No,Yes,No
+0,28.0,Female,Medical,90.0,Positive,No,104.0,38.4,28.0,90.0,15.0,Providencia spp,No,Yes,Lower-level public health facility,Kabale,No,20011.0,Kabale,Unemployed,Unknown,No,No,Yes,No
+0,9.0,Male,Paediatric,87.0,Unknown,No,115.0,36.7,33.0,99.0,15.0,Klebsiella aerogenes,No,No,Private health facilty,Kabale,No,20022.0,Kabale,Hawker,Unknown,No,No,Yes,No
+0,42.0,Male,Surgical,121.0,Unknown,No,86.0,36.5,20.0,96.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Kabale,No,20018.0,Kabale,Peasant,Unknown,No,No,No,No
+0,23.0,Female,Maternity/Post-Natal ward,129.0,Unknown,No,82.0,36.8,18.0,99.0,15.0,Escherichia coli,No,No,Regional referral hospital,Kabale,No,20142.0,Rubanda,Carpenter,Unknown,No,No,No,No
+0,21.0,Female,Maternity/Post-Natal ward,108.0,Unknown,No,96.0,36.5,16.0,97.0,15.0,Enterococcus faecalis,No,No,Lower-level public health facility,Kabale,No,20143.0,Rukiga,Tailor,Unknown,No,No,No,No
+0,30.0,Female,Maternity/Post-Natal ward,108.0,Unknown,No,117.0,38.1,25.0,97.0,12.0,Salmonella typhi,No,No,Not specified,Kabale,No,20171.0,Kabale,Boda boda rider,Unknown,No,No,No,No
+0,26.0,Female,Gynaecology,115.0,Unknown,No,94.0,35.8,28.0,98.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Kabale,No,18758.0,Kabale,Housewife,Unknown,No,No,No,No
+0,36.0,Female,Gynaecology,106.0,Unknown,No,95.0,35.4,26.0,97.0,15.0,Streptococcus faecalis,No,No,Lower-level public health facility,Kabale,No,18756.0,Rubanda,Peasant,Unknown,No,No,No,No
+0,25.0,Female,Gynaecology,131.0,Unknown,No,143.0,37.4,30.0,91.0,14.0,Escherichia coli,No,No,Lower-level public health facility,Kabale,No,18758.0,Kabale,Peasant,Unknown,Unknown,No,No,No
+0,90.0,Male,Surgical,147.0,Unknown,No,110.0,38.0,40.0,92.0,15.0,Staphylococcus aureus,No,No,Private health facilty,Kabale,No,18768.0,Kabale,Retired teacher,Unknown,No,No,No,No
+0,76.0,Female,Medical,163.0,Unknown,Yes,82.0,38.2,28.0,95.0,15.0,Escherichia coli,Yes,No,Not specified,Kabale,Yes,18836.0,Kabale,Turnboy,Unknown,Unknown,No,No,No
+0,50.0,Female,Medical,155.0,Negative,No,75.0,38.2,40.0,84.0,14.0,Escherichia coli,No,Yes,Lower-level public health facility,Kabale,No,18815.0,Rukiga,Peasant,Unknown,Unknown,No,Yes,No
+0,35.0,Female,Medical,108.0,Unknown,No,111.0,36.0,26.0,95.0,14.0,Escherichia coli,No,No,Lower-level public health facility,Kabale,No,18754.0,Rubanda,Peasant,Unknown,No,No,No,No
+0,19.0,Male,Medical,80.0,Negative,Yes,122.0,38.3,27.0,92.0,15.0,Enterococcus faecalis,No,No,Lower-level public health facility,Kabale,No,18814.0,Rukiga,Tailor,Unknown,Unknown,No,No,No
+0,14.0,Female,Surgical,111.0,Unknown,No,122.0,36.0,30.0,98.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Kabale,No,18821.0,Rubanda,Hawker,Unknown,Unknown,No,No,No
+0,18.0,Male,Surgical,111.0,Unknown,No,115.0,36.2,23.0,97.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Kabale,No,18864.0,Rukiga,Student,Unknown,No,No,No,No
+0,28.0,Male,Surgical,92.0,Unknown,No,114.0,35.8,34.0,96.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Kabale,No,18675.0,Ntungamo,Electrician,Unknown,No,No,No,No
+0,0.0,Male,Paediatric,108.0,Negative,No,128.0,37.7,36.5,94.0,14.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Kabale,Yes,20011.0,Kabale,Electrician,Unknown,No,Yes,No,Yes
+0,18.0,Female,Maternity/Post-Natal ward,123.0,Unknown,No,132.0,36.5,27.0,100.0,15.0,Acinetobacter baumannii,No,No,Private health facilty,Lira,No,19755.0,Lira,Student,Unknown,Unknown,No,No,No
+1,2.0,Female,Paediatric,114.0,Unknown,No,156.0,37.9,45.0,96.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Lira,No,20255.0,Lira,Electrician,Unknown,Unknown,No,No,No
+0,78.0,Female,Accident and emergency,125.0,Unknown,No,96.0,38.6,21.0,100.0,15.0,Escherichia coli,No,No,Private health facilty,Lira,No,20259.0,Apac,Retired teacher,Unknown,Unknown,No,No,No
+0,2.0,Female,Paediatric,110.0,Unknown,No,162.0,38.4,44.0,96.0,14.0,Staphylococcus aureus,No,No,Private health facilty,Lira,No,20250.0,Kole,Unemployed,Unknown,Unknown,No,No,No
+0,75.0,Female,Surgical,120.0,Unknown,No,110.0,37.8,19.0,53.0,12.0,Citrobacter freundii,No,No,Regional referral hospital,Lira,Yes,20247.0,Lira,Retired teacher,Unknown,Unknown,Yes,No,No
+0,23.0,Female,Medical,119.0,Unknown,No,112.0,36.7,20.0,98.0,15.0,Staphylococcus saprophyticus,No,No,Lower-level public health facility,Lira,No,20248.0,Lira,Retired teacher,Unknown,Unknown,No,No,No
+0,49.0,Male,Accident and emergency,141.0,Unknown,No,86.0,36.3,24.0,100.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Lira,No,20252.0,Lira,Retired teacher,Unknown,Unknown,No,No,No
+0,1.0,Female,Paediatric,100.0,Unknown,No,148.0,38.2,44.0,95.0,15.0,Citrobacter spp,No,No,Lower-level public health facility,Lira,No,20262.0,Alebtong,Unemployed,Unknown,Unknown,Yes,No,No
+0,17.0,Female,Surgical,110.0,Unknown,No,88.0,35.8,18.0,99.0,15.0,Staphylococcus aureus,No,Yes,Private health facilty,Lira,No,19186.0,Otuke,Peasant,Unknown,Unknown,No,No,No
+0,3.0,Male,Paediatric,95.0,Unknown,No,155.0,37.0,28.0,94.0,15.0,Enterobacter spp,No,No,Private health facilty,Lira,No,19248.0,Kwania,Tailor,Unknown,Unknown,No,Yes,No
+0,93.0,Female,Surgical,141.0,Unknown,No,86.0,36.3,17.0,99.0,15.0,Escherichia coli,No,No,Regional referral hospital,Lira,No,19211.0,Dokolo,Peasant,Unknown,Unknown,No,No,No
+0,45.0,Male,Surgical,121.0,Unknown,No,86.0,36.0,19.0,97.0,15.0,Pseudomonas spp,No,No,Lower-level public health facility,Lira,No,19210.0,Otuke,Farmer,Unknown,Unknown,No,No,No
+0,52.0,Male,Surgical,137.0,Unknown,Yes,86.0,36.7,28.0,95.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Lira,Yes,19035.0,Lira,Businessman,Unknown,Unknown,No,No,No
+0,75.0,Female,Surgical,145.0,Unknown,Yes,92.0,36.4,20.0,100.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Lira,No,19249.0,Oyam,Turnboy,Unknown,Unknown,No,No,No
+0,61.0,Female,Surgical,130.0,Unknown,Yes,60.0,37.0,22.0,100.0,15.0,Staphylococcus aureus,No,No,Private health facilty,Lira,No,19260.0,Lira,Housewife,Unknown,Unknown,Yes,No,No
+0,73.0,Male,Medical,92.0,Unknown,Yes,108.0,37.8,20.0,96.0,15.0,Escherichia coli,No,No,Private health facilty,Lira,No,19262.0,Lira,Prisoner,Unknown,Unknown,No,No,No
+0,20.0,Female,Surgical,106.0,Unknown,No,123.0,37.8,20.0,100.0,14.0,Staphylococcus aureus,No,No,Lower-level public health facility,Lira,No,19279.0,Lira,Casual labourer,Unknown,Unknown,No,No,No
+0,74.0,Male,Surgical,97.0,Unknown,No,100.0,37.3,20.0,92.0,6.0,Morganella morganii,No,No,Not specified,Lira,No,19254.0,Kole,Farmer,Unknown,Unknown,No,No,No
+0,17.0,Female,Orthopaedic,88.0,Unknown,No,89.0,37.4,28.0,95.0,15.0,Citrobacter spp,No,No,Lower-level public health facility,Lira,No,19244.0,Alebtong,Student,Unknown,Unknown,No,No,No
+0,1.0,Male,Surgical,110.0,Unknown,No,102.0,37.5,45.0,76.0,14.0,Escherichia coli,No,No,Lower-level public health facility,Lira,No,19210.0,Alebtong,Tailor,Unknown,Unknown,No,No,No
+0,53.0,Female,Surgical,119.0,Unknown,No,80.0,36.6,16.0,98.0,15.0,Staphylococcus aureus,No,No,Regional referral hospital,Lira,No,19884.0,Lira,Peasant,Unknown,Unknown,No,No,No
+1,59.0,Female,Surgical,88.0,Unknown,No,111.0,36.9,16.0,98.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Lira,No,20006.0,Kwania,Peasant,Unknown,Unknown,No,No,No
+0,61.0,Male,Surgical,135.0,Positive,Yes,89.0,38.1,24.0,96.0,15.0,Pseudomonas aeruginosa,No,No,Private health facilty,Lira,No,19091.0,Lira,Mechanic,Unknown,Unknown,No,No,No
+0,20.0,Female,Gynaecology,109.0,Unknown,No,111.0,37.5,18.0,96.0,15.0,Colifom,No,Yes,Lower-level public health facility,Lira,No,19059.0,Apac,Businesswoman,Unknown,Unknown,No,No,No
+0,31.0,Male,TB ward,88.0,Positive,Yes,94.0,37.2,21.0,97.0,15.0,Proteus mirabilis,No,Yes,Lower-level public health facility,Lira,No,19059.0,Alebtong,Farmer,Unknown,Yes,No,No,No
+0,31.0,Male,TB ward,95.0,Positive,Yes,92.0,36.4,20.0,99.0,15.0,Staphylococcus aureus,No,Yes,Lower-level public health facility,Lira,No,19059.0,Alebtong,Farmer,Unknown,Yes,No,No,No
+0,12.0,Male,Medical,87.0,Unknown,Yes,95.0,36.9,20.0,99.0,15.0,Streptococcus pneumoniae,Yes,No,Private health facilty,Lira,No,19734.0,Kwania,Hawker,Unknown,Unknown,Yes,No,Yes
+0,63.0,Female,Medical,130.0,Unknown,Yes,86.0,36.5,19.0,97.0,15.0,Escherichia coli,Yes,Yes,Lower-level public health facility,Lira,No,19060.0,Agago,Farmer,Unknown,Unknown,No,No,Yes
+1,38.0,Male,Medical,108.0,Unknown,Yes,44.0,38.4,39.0,99.0,15.0,Klebsiella spp,No,Yes,Private health facilty,Lira,No,19115.0,Amolatar,Peasant,Unknown,No,No,Yes,No
+0,24.0,Female,Medical,119.0,Unknown,Yes,123.0,37.8,33.0,100.0,15.0,Proteus mirabilis,No,No,Lower-level public health facility,Lira,No,19950.0,Lira,Unemployed,Unknown,Unknown,No,No,No
+0,24.0,Female,Medical,119.0,Unknown,Yes,123.0,36.3,33.0,100.0,15.0,Proteus mirabilis,No,No,Lower-level public health facility,Lira,No,19938.0,Lira,Unemployed,Unknown,No,No,No,No
+0,35.0,Male,Medical,120.0,Unknown,No,83.0,36.0,22.0,98.0,15.0,Pseudomonas spp,No,Yes,Lower-level public health facility,Lira,No,19088.0,Kole,Turnboy,Unknown,Unknown,No,No,No
+0,58.0,Female,Gynaecology,117.0,Unknown,No,96.0,36.0,20.0,100.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Lira,No,19974.0,Alebtong,Housewife,Unknown,Unknown,No,No,No
+0,38.0,Male,Medical,92.0,Negative,Yes,112.0,36.9,19.0,100.0,13.0,Coagulate Negative Staph,No,Yes,Private health facilty,Lira,No,19347.0,Lira,Casual labourer,Unknown,Unknown,No,No,No
+0,28.0,Female,Gynaecology,114.0,Unknown,No,94.0,36.6,18.0,98.0,15.0,Staphylococcus spp,No,No,Private health facilty,Lira,No,19037.0,Lira,Housewife,Unknown,Unknown,No,No,No
+0,17.0,Female,Surgical,110.0,Unknown,No,99.0,37.8,28.0,97.0,15.0,Colifom,No,Yes,Lower-level public health facility,Lira,No,19003.0,Lira,Hawker,Unknown,Yes,No,No,No
+0,94.0,Female,Surgical,103.0,Unknown,No,85.0,36.5,16.0,100.0,15.0,Proteus spp,No,No,Not specified,Lira,No,19276.0,Lira,Social worker,Unknown,Unknown,No,No,No
+0,49.0,Female,Surgical,150.0,Unknown,Yes,76.0,36.9,17.0,99.0,15.0,Klebsiella pneumoniae,No,Yes,Private health facilty,Lira,No,19242.0,Oyam,Farmer,Unknown,Yes,No,No,No
+0,2.0,Male,Paediatric,95.0,Unknown,No,110.0,37.4,20.0,90.0,15.0,Staphylococcus aureus,No,Yes,Lower-level public health facility,Lira,No,19012.0,Kole,Student,Unknown,Unknown,No,Yes,No
+0,41.0,Male,Surgical,117.0,Negative,Yes,91.0,37.0,28.0,100.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Lira,No,19015.0,Lira,Farmer,Unknown,Unknown,No,No,No
+0,0.0,Female,Paediatric,125.0,Unknown,No,152.0,38.8,44.0,94.0,12.0,Staphylococcus aureus,No,No,Private health facilty,Lira,No,19778.0,Lira,Midwife,Unknown,Yes,No,No,No
+0,14.0,Female,Medical,104.0,Unknown,Yes,96.0,36.4,22.0,98.0,15.0,Aeromonas spp,No,No,Lower-level public health facility,Lira,No,19926.0,Lira,Student,Unknown,No,No,No,No
+0,32.0,Female,Surgical,110.0,Unknown,No,107.0,38.4,18.0,91.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Lira,No,19772.0,Otuke,Housewife,Unknown,Unknown,No,No,No
+0,30.0,Male,Surgical,116.0,Unknown,No,115.0,37.5,24.0,98.0,14.0,Escherichia coli,No,No,Lower-level public health facility,Lira,No,19160.0,Lira,Prisoner,Unknown,Unknown,No,No,No
+0,86.0,Male,Medical,151.0,Unknown,Not specified,70.0,36.0,20.0,97.0,15.0,Coliform,No,Yes,Not specified,Lira,No,19015.0,Alebtong,Farmer,Unknown,Unknown,No,No,No
+0,24.0,Male,Surgical,110.0,Unknown,Yes,105.0,36.3,28.0,96.0,15.0,Citrobacter spp,No,No,Lower-level public health facility,Lira,No,19251.0,Kole,Tailor,Unknown,Unknown,No,No,No
+0,43.0,Female,TB ward,94.0,Negative,Yes,98.0,36.7,42.0,78.0,15.0,Citrobacter spp,No,No,Lower-level public health facility,Lira,No,19725.0,Lira,Farmer,Unknown,Yes,No,Yes,No
+1,62.0,Female,Surgical,114.0,Negative,Yes,87.0,37.5,20.0,96.0,15.0,Proteus mirabilis,No,Yes,Private health facilty,Lira,No,19269.0,Oyam,Farmer,Unknown,Unknown,No,No,No
+1,35.0,Male,Surgical,100.0,Positive,Yes,82.0,38.3,26.0,96.0,4.0,Klebsiella spp,Yes,Yes,Lower-level public health facility,Lira,No,19225.0,Alebtong,Farmer,Unknown,Unknown,Yes,No,Yes
+1,16.0,Female,Surgical,95.0,Unknown,No,160.0,37.5,28.0,95.0,15.0,Escherichia coli,No,No,Private health facilty,Lira,No,19191.0,Oyam,Peasant,Unknown,Unknown,Yes,No,No
+1,22.0,Female,Surgical,88.0,Unknown,No,110.0,36.4,16.0,96.0,15.0,Citrobacter spp,No,No,Lower-level public health facility,Lira,No,19259.0,Lira,Peasant,Unknown,Unknown,No,No,No
+0,44.0,Male,Surgical,143.0,Unknown,No,86.0,36.0,19.0,99.0,15.0,Proteus mirabilis,No,No,Lower-level public health facility,Lira,No,19726.0,Kibuku,Carpenter,Unknown,Unknown,No,No,No
+1,56.0,Male,Surgical,78.0,Unknown,No,49.0,38.8,32.0,85.0,7.0,Staphylococcus aureus,No,No,Regional referral hospital,Lira,No,19766.0,Lira,Peasant,Unknown,Unknown,No,Yes,No
+0,25.0,Male,Surgical,124.0,Positive,Yes,129.0,36.5,20.0,100.0,13.0,Staphylococcus aureus,No,No,Lower-level public health facility,Lira,No,19004.0,Dokolo,Farmer,Unknown,Unknown,No,No,No
+0,48.0,Male,Medical,100.0,Negative,No,112.0,36.9,28.0,93.0,4.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19260.0,Alebtong,Farmer,Unknown,Unknown,No,No,Yes
+0,70.0,Female,Surgical,109.0,Unknown,No,86.0,36.2,20.0,100.0,15.0,Acinetobacter baumannii,No,Yes,Lower-level public health facility,Lira,No,19282.0,Lira,Farmer,Unknown,Unknown,No,No,No
+0,27.0,Female,Medical,80.0,Positive,Yes,112.0,36.3,20.0,98.0,15.0,Streptococcus pneumoniae,Yes,Yes,Private health facilty,Lira,No,19278.0,Alebtong,Teacher,Unknown,Yes,No,No,Yes
+0,49.0,Female,Medical,100.0,Positive,Yes,70.0,38.3,21.0,98.0,14.0,Staphylococcus epidermidis,Yes,No,Private health facilty,Lira,No,19004.0,Lira,Teacher,Unknown,Unknown,No,No,Yes
+0,83.0,Female,Surgical,206.0,Unknown,Yes,92.0,38.1,18.0,95.0,15.0,Citrobacter koseri,No,No,Private health facilty,Lira,No,19013.0,Lira,Mechanic,Unknown,Unknown,No,No,No
+1,51.0,Male,Medical,174.0,Negative,Yes,130.0,39.0,19.0,79.0,15.0,Proteus vulgaris,No,Yes,Lower-level public health facility,Lira,No,19250.0,Kole,Businessman,Unknown,Unknown,No,No,No
+0,12.0,Female,Medical,92.0,Unknown,No,125.0,37.5,23.0,93.0,14.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19277.0,Lira,Student,Unknown,Unknown,Yes,No,Yes
+0,75.0,Female,Surgical,106.0,Unknown,No,86.0,37.9,20.0,93.0,14.0,Pseudomonas spp,Yes,No,Private health facilty,Lira,No,19277.0,Oyam,Prisoner,Unknown,Unknown,No,No,No
+0,0.0,Male,Paediatric,127.0,Unknown,No,125.0,38.0,42.0,100.0,13.0,Staphylococcus aureus,Yes,No,Lower-level public health facility,Lira,No,19116.0,Lira,Electrician,Unknown,Unknown,No,No,No
+0,3.0,Male,Paediatric,106.0,Unknown,No,104.0,38.0,51.0,99.0,14.0,Klebsiella spp,No,No,Private health facilty,Lira,No,19765.0,Oyam,Unemployed,Unknown,Yes,Yes,No,No
+0,17.0,Female,Surgical,121.0,Negative,No,92.0,36.7,28.0,96.0,15.0,Klebsiella aerogenes,No,Yes,Lower-level public health facility,Lira,No,19780.0,Otuke,Student,Unknown,Yes,No,Yes,No
+0,0.0,Male,Paediatric,101.0,Unknown,No,143.0,38.2,51.0,53.0,13.0,Streptococcus pneumoniae,Yes,No,Private health facilty,Lira,No,19826.0,Lira,Electrician,Unknown,Unknown,No,Yes,Yes
+0,38.0,Male,Medical,108.0,Unknown,No,122.0,37.7,32.0,89.0,6.0,Streptococcus pneumoniae,Yes,No,Private health facilty,Lira,No,19822.0,Lira,Farmer,Unknown,Unknown,No,No,Yes
+1,65.0,Female,Medical,135.0,Negative,Yes,86.0,37.7,34.0,98.0,15.0,Neisseria gonorrhoeae,No,No,Lower-level public health facility,Lira,No,19977.0,Lira,Peasant,Unknown,Unknown,No,Yes,No
+0,13.0,Female,Medical,134.0,Unknown,Yes,102.0,36.4,20.0,97.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Lira,No,19270.0,Lira,Hawker,Unknown,No,Yes,No,No
+0,58.0,Female,Surgical,90.0,Unknown,No,121.0,36.9,18.0,92.0,14.0,Streptococcus viridans,No,No,Private health facilty,Lira,No,19039.0,Lira,Farmer,Unknown,Unknown,Yes,No,No
+1,6.0,Male,ICU/HDU,98.0,Unknown,No,171.0,37.0,32.0,78.0,15.0,Enterococcus faecium,No,No,Lower-level public health facility,Lira,Yes,19210.0,Lira,Hawker,Unknown,Unknown,Yes,No,No
+1,52.0,Male,Medical,110.0,Unknown,No,95.0,36.8,24.0,81.0,14.0,Staphylococcus aureus,Yes,No,Not specified,Lira,Yes,19084.0,Lira,Welder,Unknown,Unknown,No,Yes,No
+1,20.0,Male,Surgical,111.0,Unknown,No,152.0,36.7,28.0,99.0,15.0,Escherichia coli,No,Yes,Private health facilty,Lira,No,19841.0,Lira,Tailor,Unknown,Yes,Yes,No,No
+1,20.0,Female,ICU/HDU,114.0,Unknown,Yes,79.0,38.8,40.0,78.0,14.0,Enterobacter spp,Yes,Yes,Private health facilty,Lira,Yes,19906.0,Alebtong,Boda boda rider,Unknown,No,No,Yes,No
+0,21.0,Female,Dental,100.0,Unknown,No,96.0,37.9,18.0,97.0,15.0,Citrobacter spp,No,No,Lower-level public health facility,Lira,No,19255.0,Lira,Peasant,Unknown,Unknown,No,No,No
+0,22.0,Female,Medical,155.0,Positive,No,80.0,36.0,20.0,97.0,15.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19220.0,Lira,Midwife,Unknown,No,Yes,No,Yes
+0,0.0,Male,Medical,117.0,Unknown,No,126.0,38.1,36.0,85.0,13.0,Streptococcus pneumoniae,Yes,No,Private health facilty,Lira,No,19230.0,Lira,Social worker,Unknown,Unknown,No,No,Yes
+0,35.0,Female,Gynaecology,111.0,Negative,No,119.0,37.1,30.0,97.0,4.0,Pseudomonas spp,No,No,Not specified,Lira,No,19289.0,Lira,Farmer,Unknown,Unknown,Yes,No,No
+0,27.0,Male,Surgical,124.0,Unknown,No,95.0,36.7,18.0,97.0,15.0,Proteus mirabilis,No,No,Lower-level public health facility,Lira,No,19159.0,Lira,Peasant,Unknown,No,No,No,No
+0,25.0,Male,Surgical,124.0,Positive,Yes,129.0,36.9,36.0,93.0,13.0,Staphylococcus aureus,No,No,Lower-level public health facility,Lira,No,19004.0,Dokolo,Builder,Unknown,Unknown,Yes,No,No
+0,23.0,Male,Surgical,112.0,Unknown,No,122.0,36.8,26.0,99.0,15.0,Colifom,No,Yes,Private health facilty,Lira,No,19003.0,Alebtong,Farmer,Unknown,Yes,No,No,No
+1,18.0,Female,Gynaecology,92.0,Negative,No,102.0,37.8,20.0,95.0,14.0,Staphylococcus aureus,No,Yes,Private health facilty,Lira,Yes,20002.0,Oyam,Farmer,Unknown,Yes,Yes,No,No
+0,65.0,Male,Surgical,77.0,Unknown,No,108.0,37.4,26.0,100.0,15.0,Morganella morganii,No,No,Lower-level public health facility,Lira,No,19197.0,Kole,Social worker,Unknown,Unknown,No,No,No
+1,59.0,Male,Surgical,101.0,Unknown,No,91.0,37.4,28.0,95.0,15.0,Escherichia coli,No,No,Private health facilty,Lira,No,19222.0,Lira,Peasant,Unknown,Unknown,No,No,No
+0,57.0,Male,Surgical,124.0,Positive,Yes,94.0,36.7,19.0,100.0,15.0,Escherichia coli,No,Yes,Lower-level public health facility,Lira,No,19510.0,Omoro,Mechanic,Unknown,Unknown,No,No,No
+0,60.0,Male,Surgical,127.0,Unknown,Yes,86.0,38.0,19.0,97.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Lira,No,19659.0,Lira,Retired teacher,Unknown,Unknown,No,No,No
+0,38.0,Female,ICU/HDU,117.0,Unknown,Yes,102.0,36.3,18.0,96.0,15.0,Citrobacter freundii,No,Yes,Regional referral hospital,Lira,No,19663.0,Pader,Peasant,Unknown,Unknown,No,No,No
+1,32.0,Male,Medical,96.0,Unknown,Yes,75.0,38.0,20.0,99.0,15.0,Pseudomonas aeruginosa,No,No,Private health facilty,Lira,No,19533.0,Lira,Parish chief,Unknown,Unknown,No,No,No
+1,44.0,Female,Medical,122.0,Positive,Yes,154.0,37.5,40.0,91.0,13.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Lira,No,19295.0,Lira,Housewife,Unknown,Unknown,No,No,Yes
+1,56.0,Female,Medical,129.0,Positive,Yes,100.0,37.2,18.0,98.0,13.0,Streptococcus pneumoniae,Yes,No,Regional referral hospital,Lira,No,19329.0,Lira,Carpenter,Unknown,No,No,No,Yes
+1,32.0,Female,Medical,95.0,Positive,Yes,130.0,37.7,19.0,94.0,13.0,Streptococcus pneumoniae,Yes,No,Private health facilty,Lira,No,19353.0,Lira,Unemployed,Unknown,No,No,No,Yes
+1,38.0,Male,Medical,117.0,Positive,Yes,137.0,39.0,28.0,96.0,7.0,Streptococcus pneumoniae,Yes,No,Private health facilty,Lira,No,19128.0,Lira,Driver,Unknown,Unknown,No,Yes,Yes
+1,36.0,Female,Gynaecology,119.0,Positive,Yes,160.0,37.3,28.0,93.0,13.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19133.0,Lira,Police officer,Unknown,Unknown,No,No,Yes
+0,0.0,Female,Paediatric,122.0,Unknown,No,145.0,37.2,36.0,99.0,13.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19187.0,Lira,Electrician,Unknown,Unknown,No,No,Yes
+0,20.0,Male,Surgical,103.0,Unknown,No,94.0,37.4,20.0,100.0,15.0,Escherichia coli,No,No,Private health facilty,Lira,No,19282.0,Dokolo,Casual labourer,Unknown,Unknown,Yes,No,No
+1,69.0,Male,Medical,100.0,Positive,Yes,250.0,37.9,28.0,96.0,13.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19112.0,Lira,Farmer,Unknown,Unknown,No,No,Yes
+0,8.0,Male,Orthopaedic,107.0,Unknown,Yes,84.0,36.8,28.0,95.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Lira,No,19293.0,Lira,Student,Unknown,Unknown,No,No,No
+0,2.0,Female,Paediatric,98.0,Unknown,No,156.0,37.7,45.0,98.0,14.0,Klebsiella pneumoniae,No,Yes,Lower-level public health facility,Lira,No,19702.0,Kwania,Tailor,Unknown,Yes,No,No,No
+0,30.0,Male,Medical,148.0,Negative,No,67.0,38.9,20.0,95.0,15.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19890.0,Lira,Farmer,Unknown,No,No,No,Yes
+0,20.0,Female,Gynaecology,98.0,Unknown,No,114.0,36.4,22.0,99.0,15.0,Providencia spp,No,Yes,Lower-level public health facility,Lira,No,19868.0,Lira,Farmer,Unknown,Unknown,No,No,No
+0,31.0,Male,Gynaecology,97.0,Unknown,No,107.0,39.7,19.0,98.0,13.0,Escherichia coli,No,No,Regional referral hospital,Lira,No,20266.0,Lira,Businesswoman,Unknown,Unknown,No,No,No
+0,42.0,Male,Surgical,103.0,Unknown,No,109.0,39.4,27.0,96.0,14.0,Citrobacter spp,No,No,Private health facilty,Lira,No,20264.0,"Lira,Amach",Businesswoman,Unknown,Unknown,No,No,No
+0,47.0,Male,Medical,120.0,Negative,No,52.0,38.0,20.0,94.0,15.0,Staphylococcus aureus,Yes,Yes,Lower-level public health facility,Lira,No,19111.0,Dokolo,Prisoner,Unknown,Yes,No,No,No
+0,47.0,Male,Medical,120.0,Negative,No,52.0,39.7,26.0,94.0,15.0,Proteus mirabilis,Yes,Yes,Lower-level public health facility,Lira,No,19111.0,Dokolo,Prisoner,Unknown,Yes,No,No,No
+0,54.0,Male,Surgical,137.0,Unknown,No,78.0,36.0,20.0,99.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Lira,No,19753.0,Apac,Carpenter,Unknown,Unknown,No,No,No
+0,79.0,Female,Medical,131.0,Unknown,No,88.0,36.7,40.0,89.0,15.0,Escherichia coli,Yes,No,Lower-level public health facility,Lira,No,19943.0,Kole,Housewife,Unknown,Unknown,Yes,Yes,No
+0,30.0,Male,Surgical,100.0,Unknown,No,103.0,36.3,21.0,96.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Lira,Yes,19160.0,Lira,Boda boda rider,Unknown,No,Yes,No,No
+0,17.0,Male,Surgical,95.0,Unknown,No,111.0,36.7,20.0,87.0,15.0,Proteus mirabilis,No,No,Lower-level public health facility,Lira,No,19153.0,Lira,Student,Unknown,No,No,No,No
+0,18.0,Female,Surgical,115.0,Unknown,No,95.0,36.6,16.0,95.0,15.0,Staphylococcus aureus,No,No,Private health facilty,Lira,No,19174.0,Lira,Peasant,Unknown,No,No,No,No
+0,42.0,Male,Surgical,168.0,Unknown,No,92.0,36.2,20.0,97.0,15.0,Proteus vulgaris,No,No,Lower-level public health facility,Lira,No,19163.0,Lira,Turnboy,Unknown,Unknown,No,No,No
+0,27.0,Male,Surgical,122.0,Unknown,No,107.0,36.1,24.0,100.0,15.0,Proteus mirabilis,No,No,Lower-level public health facility,Lira,No,19159.0,Lira,Prisoner,Unknown,No,No,No,No
+0,32.0,Female,Orthopaedic,127.0,Positive,No,110.0,36.7,18.0,99.0,15.0,Proteus mirabilis,No,No,Lower-level public health facility,Lira,No,19181.0,Lira,Businesswoman,Unknown,Unknown,No,No,No
+0,23.0,Male,Surgical,112.0,Unknown,No,92.0,36.5,19.0,99.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Lira,No,19158.0,Lira,Carpenter,Unknown,No,Yes,No,No
+0,18.0,Female,Surgical,123.0,Unknown,No,105.0,36.6,20.0,98.0,15.0,Acinetobacter baumannii,No,Yes,Lower-level public health facility,Lira,No,19755.0,Lira,Student,Unknown,Unknown,No,No,No
+0,24.0,Female,Medical,119.0,Unknown,Yes,123.0,36.5,33.0,100.0,15.0,Proteus mirabilis,No,No,Lower-level public health facility,Lira,No,19937.0,Lira,Unemployed,Unknown,No,Yes,Yes,No
+0,42.0,Female,Surgical,121.0,Unknown,Yes,106.0,36.7,18.0,97.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Lira,No,19920.0,Lira,Police officer,Unknown,No,No,No,No
+0,22.0,Female,Surgical,113.0,Negative,No,98.0,36.2,19.0,99.0,15.0,Acinetobacter spp,No,No,Lower-level public health facility,Lira,No,19195.0,Lira,Farmer,Unknown,No,No,No,No
+0,30.0,Female,Medical,110.0,Unknown,No,110.0,36.8,18.0,97.0,15.0,Streptococcus viridans,No,No,Lower-level public health facility,Lira,Yes,19094.0,Lira,Peasant,Unknown,No,Yes,No,No
+1,50.0,Female,Accident and emergency,135.0,Unknown,No,83.0,36.4,26.0,92.0,13.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19093.0,Lira,Police officer,Unknown,Unknown,No,Yes,Yes
+0,26.0,Female,Gynaecology,109.0,Unknown,No,92.0,37.0,16.0,97.0,15.0,Staphylococcus aureus,No,No,Private health facilty,Lira,No,19269.0,Lira,Tailor,Unknown,Unknown,No,No,No
+0,96.0,Female,Surgical,145.0,Unknown,Yes,95.0,36.6,20.0,94.0,4.0,Proteus vulgaris,No,No,Not specified,Lira,No,19265.0,Otuke,Peasant,Unknown,Unknown,No,No,No
+0,42.0,Female,Orthopaedic,125.0,Unknown,No,84.0,36.5,20.0,97.0,15.0,Escherichia coli,No,No,Regional referral hospital,Lira,No,19227.0,Lira,Peasant,Unknown,Unknown,No,No,No
+1,40.0,Male,Surgical,84.0,Unknown,No,94.0,36.6,21.0,100.0,15.0,Proteus vulgaris,No,Yes,Lower-level public health facility,Lira,Yes,19994.0,Damia,Peasant,Unknown,Unknown,No,No,No
+0,18.0,Female,Surgical,110.0,Unknown,Yes,90.0,36.3,18.0,98.0,15.0,Staphylococcus aureus,No,No,Private health facilty,Lira,No,19246.0,Kwania,Student,Unknown,Unknown,No,No,No
+0,25.0,Female,Surgical,166.0,Unknown,No,88.0,35.8,20.0,99.0,15.0,Enterococcus ssp,No,No,Private health facilty,Lira,No,19242.0,Lira,Peasant,Unknown,Unknown,No,No,No
+0,43.0,Male,Surgical,130.0,Positive,No,98.0,36.0,21.0,98.0,15.0,Colifom,No,No,Lower-level public health facility,Lira,No,19130.0,Lira,Nurse,Unknown,Unknown,No,No,No
+0,53.0,Female,Surgical,105.0,Unknown,No,98.0,36.5,20.0,99.0,15.0,Proteus mirabilis,No,No,Lower-level public health facility,Lira,No,19821.0,Lira,Peasant,Unknown,Unknown,No,No,No
+0,71.0,Female,Surgical,104.0,Unknown,Yes,78.0,37.4,24.0,92.0,15.0,Proteus vulgaris,No,Yes,Private health facilty,Lira,No,19262.0,Alebtongo,Peasant,Unknown,Unknown,Yes,No,No
+0,75.0,Female,Surgical,104.0,Unknown,Yes,100.0,36.3,20.0,98.0,15.0,Escherichia coli,No,Yes,Lower-level public health facility,Lira,No,19833.0,Otuke,Farmer,Unknown,Yes,No,No,No
+0,56.0,Female,Medical,115.0,Positive,Yes,90.0,36.5,18.0,99.0,15.0,Klebsiella pneumoniae,No,No,Not specified,Lira,No,19846.0,Lira,Casual labourer,Unknown,Unknown,No,No,No
+0,22.0,Male,Surgical,128.0,Unknown,No,80.0,36.0,20.0,99.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Lira,No,19267.0,Lira,Carpenter,Unknown,No,No,No,No
+0,60.0,Male,Surgical,157.0,Negative,Yes,109.0,36.6,19.0,99.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Lira,No,19048.0,Otuke,Peasant,Unknown,Unknown,No,No,No
+0,53.0,Male,Surgical,128.0,Unknown,Yes,89.0,36.6,20.0,97.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Lira,No,19280.0,Lira,Businessman,Yes,Unknown,No,No,No
+0,78.0,Female,Surgical,137.0,Unknown,No,111.0,38.4,18.0,95.0,15.0,Klebsiella spp,No,Yes,Private health facilty,Soroti,Yes,19243.0,Lira,Farmer,Unknown,Yes,No,No,No
+0,65.0,Male,Surgical,138.0,Unknown,No,87.0,36.0,24.0,97.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Lira,No,19265.0,Kole,Carpenter,Unknown,No,No,No,No
+0,17.0,Male,Surgical,125.0,Unknown,No,123.0,36.5,18.0,95.0,15.0,Proteus mirabilis,No,No,Lower-level public health facility,Lira,No,19153.0,Lira,Student,Unknown,No,No,No,No
+0,25.0,Female,Surgical,90.0,Unknown,No,122.0,36.5,28.0,97.0,15.0,Citrobacter freundii,No,No,Private health facilty,Lira,No,19904.0,Lira,Unemployed,Unknown,No,No,No,No
+0,39.0,Female,Medical,125.0,Positive,Yes,82.0,36.9,20.0,98.0,12.0,Escherichia coli,Yes,No,Lower-level public health facility,Lira,No,19523.0,Lira,Social worker,Unknown,Unknown,No,No,No
+0,1.0,Male,Paediatric,104.0,Negative,No,100.0,38.0,40.0,96.0,15.0,Klebsiella oxytoca,No,Yes,Private health facilty,Lira,No,19896.0,Lira,Hawker,Unknown,Yes,Yes,No,No
+0,4.0,Female,Paediatric,122.0,Unknown,No,169.0,36.5,42.0,99.0,14.0,Salmonella typhi,No,Yes,Private health facilty,Lira,No,19890.0,Lira,Electrician,Unknown,No,No,No,No
+0,32.0,Male,Medical,98.0,Positive,Yes,61.0,37.2,20.0,100.0,15.0,Enterobacterales,Yes,No,Not specified,Lira,No,19881.0,Lira,Farmer,Unknown,Unknown,No,No,No
+0,0.0,Male,Paediatric,129.0,Negative,No,160.0,37.8,44.0,97.0,13.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19865.0,Oyam,Unemployed,Unknown,Unknown,No,No,Yes
+0,3.0,Female,Paediatric,126.0,Unknown,No,144.0,37.8,36.0,95.0,13.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Lira,No,19242.0,Dokolo,Tailor,Unknown,Yes,No,Yes,Yes
+0,80.0,Female,Surgical,115.0,Unknown,Not specified,68.0,36.9,17.0,100.0,15.0,Coliform,No,Yes,Lower-level public health facility,Lira,No,19175.0,Agaro,Welder,Unknown,Unknown,No,No,No
+0,44.0,Female,Medical,87.0,Positive,Yes,146.0,37.4,32.0,97.0,14.0,Streptococcus pneumoniae,No,No,Not specified,Lira,No,19234.0,Kole,Farmer,Unknown,Unknown,No,Yes,Yes
+0,30.0,Male,Medical,130.0,Positive,Yes,102.0,36.6,22.0,100.0,14.0,Staphylococcus epidermidis,Yes,No,Lower-level public health facility,Lira,No,19307.0,Lira,Farmer,Unknown,Unknown,No,No,Yes
+0,21.0,Female,Medical,140.0,Positive,Yes,84.0,37.0,22.0,96.0,15.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Lira,No,19183.0,Kwania,Midwife,Unknown,No,No,No,Yes
+0,0.0,Female,Paediatric,117.0,Unknown,Not specified,148.0,39.4,44.0,96.0,14.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Lira,No,19689.0,Dokolo,Midwife,Unknown,Yes,No,No,Yes
+0,1.0,Female,Paediatric,135.0,Unknown,No,129.0,38.1,38.0,93.0,15.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Lira,No,19669.0,Alebtong,Electrician,Unknown,Yes,No,No,Yes
+1,30.0,Male,Medical,130.0,Positive,Yes,116.0,37.8,26.0,94.0,13.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19220.0,Otuke,Farmer,Unknown,Unknown,No,No,Yes
+1,10.0,Male,Medical,132.0,Unknown,No,65.0,38.0,26.0,98.0,14.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19853.0,Lira,Hawker,Unknown,Unknown,No,No,Yes
+1,25.0,Male,Medical,105.0,Positive,No,107.0,36.5,19.0,96.0,14.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Lira,No,19268.0,Lira,Peasant,Unknown,No,No,No,Yes
+0,8.0,Male,Paediatric,109.0,Negative,No,104.0,38.7,28.0,96.0,15.0,Citrobacter koseri,No,No,Private health facilty,Lira,No,19841.0,Kole,Student,Unknown,No,No,No,No
+0,24.0,Male,Medical,132.0,Positive,No,112.0,36.6,20.0,96.0,15.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19670.0,Lira,Carpenter,Unknown,No,No,No,Yes
+1,0.0,Female,Paediatric,137.0,Negative,No,164.0,38.6,52.0,84.0,6.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19843.0,Lira,Unemployed,Yes,No,No,No,Yes
+0,17.0,Male,Medical,109.0,Unknown,No,122.0,36.8,21.0,99.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Lira,No,19276.0,Lira,Student,Unknown,Unknown,No,No,No
+0,29.0,Male,Surgical,110.0,Unknown,No,126.0,38.1,20.0,93.0,13.0,Staphylococcus aureus,No,No,Lower-level public health facility,Lira,No,19407.0,Lira,Builder,Unknown,No,No,No,No
+0,1.0,Female,Paediatric,95.0,Unknown,No,106.0,36.5,38.0,93.0,15.0,Klebsiella oxytoca,No,Yes,Lower-level public health facility,Lira,No,19985.0,Dokolo,Electrician,Unknown,Unknown,No,Yes,No
+1,88.0,Male,ICU/HDU,125.0,Unknown,Yes,96.0,36.7,22.0,98.0,14.0,Acinetobacter spp,No,No,Not specified,Lira,No,19905.0,Lira,Prisoner,Unknown,Unknown,No,No,No
+1,48.0,Female,Surgical,101.0,Negative,No,122.0,37.0,28.0,96.0,15.0,Escherichia coli,No,No,Not specified,Lira,Yes,19983.0,Lira,Peasant,Unknown,Unknown,No,No,No
+1,1.0,Female,Paediatric,122.0,Unknown,Yes,140.0,38.0,40.0,93.0,13.0,Staphylococcus aureus,No,No,Lower-level public health facility,Lira,Yes,18681.0,Lira,Hawker,Unknown,Unknown,No,No,No
+0,0.0,Male,Paediatric,105.0,Unknown,No,143.0,36.7,36.0,94.0,14.0,Streptococcus pneumoniae,Yes,No,Not specified,Lira,No,19259.0,Lira,Tailor,Unknown,Unknown,No,No,Yes
+0,60.0,Female,Surgical,130.0,Unknown,No,99.0,38.1,20.0,97.0,15.0,Coliform,No,No,Private health facilty,Lira,No,19251.0,Lira,Peasant,Unknown,Unknown,No,No,No
+0,60.0,Male,Medical,118.0,Negative,No,89.0,36.3,30.0,88.0,15.0,Streptococcus pneumoniae,Yes,Yes,Private health facilty,Lira,No,19245.0,Lira,Farmer,Unknown,Yes,No,No,Yes
+0,47.0,Male,Surgical,67.0,Unknown,No,119.0,36.7,32.0,85.0,15.0,Citrobacter spp,No,No,Lower-level public health facility,Lira,No,19291.0,Kwania,Prisoner,Unknown,Unknown,No,No,No
+0,23.0,Male,Medical,105.0,Positive,Yes,83.0,36.4,40.0,79.0,15.0,Aeromonas spp,No,No,Lower-level public health facility,Lira,No,19239.0,Lira,Mechanic,Unknown,Unknown,No,No,No
+0,10.0,Male,Medical,88.0,Unknown,No,137.0,37.9,22.0,98.0,14.0,Pseudomonas spp,No,No,Lower-level public health facility,Lira,No,19214.0,Kole,Hawker,Unknown,Unknown,No,No,No
+0,2.0,Female,Paediatric,115.0,Unknown,No,143.0,37.0,32.0,97.0,13.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19210.0,Atentong,Tailor,Unknown,Unknown,No,No,Yes
+0,2.0,Female,Surgical,109.0,Unknown,No,142.0,37.4,32.0,98.0,13.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Lira,No,19039.0,Amolator,Student,Unknown,Unknown,No,No,No
+0,23.0,Male,Medical,100.0,Positive,Yes,76.0,36.7,22.0,100.0,15.0,Staphylococcus epidermidis,Yes,Yes,Not specified,Lira,No,19894.0,Lira,Farmer,Unknown,Unknown,No,No,Yes
+0,80.0,Female,Surgical,130.0,Unknown,No,78.0,37.3,20.0,97.0,15.0,Pseudomonas spp,No,No,Lower-level public health facility,Lira,No,19908.0,Lira,Peasant,Unknown,Unknown,No,No,No
+1,35.0,Male,Medical,163.0,Positive,Yes,129.0,39.7,20.0,95.0,4.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19731.0,Lira,Parish chief,Unknown,Unknown,No,No,Yes
+0,3.0,Male,Paediatric,127.0,Unknown,No,132.0,37.4,34.0,95.0,14.0,Streptococcus pneumoniae,Yes,Yes,Private health facilty,Lira,No,19767.0,Dokolo,Student,Unknown,Unknown,No,No,Yes
+0,26.0,Female,Medical,130.0,Positive,Yes,93.0,36.4,19.0,98.0,14.0,Streptococcus pneumoniae,Yes,No,Regional referral hospital,Lira,No,19732.0,Lira,Farmer,Unknown,Unknown,No,No,Yes
+0,37.0,Female,TB ward,103.0,Positive,Yes,105.0,37.0,28.0,97.0,15.0,Streptococcus pneumoniae,Yes,Yes,Not specified,Lira,No,19828.0,Kole,Farmer,Unknown,Unknown,No,Yes,Yes
+0,7.0,Male,ICU/HDU,106.0,Unknown,Yes,143.0,37.5,36.0,96.0,13.0,Providencia spp,No,No,Lower-level public health facility,Lira,No,19915.0,Lira,Builder,Unknown,Unknown,Yes,Yes,No
+1,55.0,Male,Medical,151.0,Unknown,No,76.0,40.0,20.0,97.0,14.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,20004.0,Namuyumba,Parish chief,Unknown,Unknown,No,No,Yes
+0,35.0,Female,Medical,144.0,Positive,Yes,84.0,36.2,19.0,95.0,14.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19804.0,Bugweri,Farmer,Unknown,No,No,No,Yes
+1,53.0,Female,Medical,98.0,Positive,No,113.0,37.5,20.0,93.0,13.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19199.0,Lira,Peasant,Unknown,Unknown,No,No,Yes
+1,15.0,Female,Medical,95.0,Unknown,No,110.0,36.6,20.0,97.0,13.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Lira,No,19918.0,Kwania,Student,Unknown,Unknown,No,No,Yes
+1,10.0,Male,Paediatric,90.0,Positive,Yes,142.0,36.9,24.0,90.0,15.0,Streptococcus pneumoniae,No,No,Private health facilty,Lira,No,19807.0,Alebtong,Farmer,Unknown,Unknown,No,Yes,Yes
+1,30.0,Male,Medical,104.0,Unknown,No,96.0,37.0,22.0,99.0,15.0,Escherichia coli,No,No,Private health facilty,Lira,No,19917.0,Alebtong,Peasant,Unknown,Unknown,No,No,No
+1,25.0,Female,Medical,89.0,Positive,Yes,130.0,37.7,20.0,96.0,12.0,Citrobacter freundii,No,No,Private health facilty,Lira,No,19249.0,Lira,Farmer,Unknown,No,Yes,No,No
+0,52.0,Female,Medical,134.0,Positive,Yes,93.0,36.8,20.0,98.0,15.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Lira,No,19845.0,Lira,Retired teacher,Unknown,No,No,No,Yes
+1,34.0,Male,Medical,136.0,Negative,No,123.0,39.2,38.0,80.0,6.0,Streptococcus pneumoniae,No,Yes,Private health facilty,Lira,No,19288.0,Lira,Boda boda rider,Unknown,Yes,No,No,Yes
+0,10.0,Female,Paediatric,89.0,Unknown,No,140.0,36.2,30.0,90.0,15.0,Serratia spp,No,No,Lower-level public health facility,Lira,No,19807.0,Amolater,Student,Unknown,Unknown,No,Yes,No
+1,18.0,Male,Medical,144.0,Negative,No,102.0,40.0,28.0,96.0,7.0,Streptococcus pneumoniae,Yes,No,Private health facilty,Lira,No,19817.0,Alebtong,Boda boda rider,Unknown,Yes,No,No,Yes
+0,51.0,Male,Medical,112.0,Positive,Yes,112.0,38.4,26.0,95.0,13.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19235.0,Lira,Farmer,Unknown,Unknown,No,No,Yes
+0,39.0,Female,Medical,107.0,Positive,Yes,100.0,38.6,18.0,97.0,13.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Lira,No,19808.0,Lira,Farmer,Unknown,Unknown,No,No,Yes
+1,32.0,Male,Medical,189.0,Positive,Yes,74.0,39.4,23.0,93.0,13.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19787.0,Oyam,Farmer,Unknown,Unknown,No,No,Yes
+0,17.0,Male,Orthopaedic,107.0,Unknown,Yes,96.0,37.0,20.0,99.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Lira,No,19842.0,Lira,Peasant,Unknown,Unknown,No,No,No
+0,42.0,Male,Medical,182.0,Positive,Yes,103.0,37.7,22.0,99.0,15.0,Streptococcus pneumoniae,Yes,No,Not specified,Lira,No,19745.0,Lira,Mechanic,Unknown,Unknown,No,No,Yes
+0,0.0,Male,Paediatric,117.0,Negative,No,156.0,39.1,46.0,97.0,12.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Lira,No,19788.0,Agago,Unemployed,Unknown,Yes,No,No,Yes
+0,23.0,Male,Surgical,135.0,Unknown,Not specified,120.0,36.4,26.0,99.0,15.0,Staphylococcus aureus,Yes,No,Private health facilty,Lira,Yes,19364.0,Lira,Welder,Unknown,Yes,Yes,No,No
+0,22.0,Female,Gynaecology,110.0,Unknown,No,128.0,37.2,18.0,94.0,15.0,Escherichia coli,No,No,Not specified,Lira,Yes,19304.0,Alebtong,Farmer,Unknown,Yes,No,No,No
+1,70.0,Female,Medical,153.0,Unknown,No,90.0,37.0,40.0,96.0,14.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Lira,No,19325.0,Alebtong,Housewife,Unknown,Unknown,No,Yes,No
+0,39.0,Female,Medical,121.0,Positive,No,111.0,36.2,22.0,99.0,14.0,Streptococcus pneumoniae,Yes,No,Not specified,Lira,No,19319.0,Oyam,Farmer,Unknown,Unknown,No,Yes,Yes
+0,19.0,Female,Surgical,100.0,Unknown,Yes,123.0,37.8,20.0,95.0,15.0,Staphylococcus spp,No,Yes,Lower-level public health facility,Lira,No,19026.0,Lira,Teacher,Unknown,Unknown,No,No,No
+0,42.0,Female,Surgical,180.0,Unknown,Not specified,92.0,36.3,21.0,99.0,15.0,Proteus vulgaris,No,No,Regional referral hospital,Lira,No,19024.0,Alebtong,Housewife,Unknown,Unknown,Yes,No,No
+0,20.0,Female,Maternity/Post-Natal ward,120.0,Unknown,Not specified,100.0,37.0,18.0,99.0,15.0,Escherichia coli,No,No,Private health facilty,Lira,No,19326.0,Alebtong,Farmer,Unknown,Unknown,No,No,No
+0,20.0,Female,Maternity/Post-Natal ward,100.0,Unknown,No,114.0,37.5,24.0,98.0,15.0,Klebsiella pneumoniae,No,No,Private health facilty,Lira,No,19326.0,Alebtong,Farmer,Unknown,Unknown,No,No,No
+0,22.0,Male,Surgical,110.0,Negative,No,110.0,36.7,20.0,99.0,15.0,Citrobacter freundii,No,No,Lower-level public health facility,Lira,No,19343.0,Lira,Farmer,Unknown,Unknown,No,No,No
+0,54.0,Female,Surgical,109.0,Unknown,Yes,117.0,37.4,22.0,94.0,15.0,Proteus vulgaris,No,Yes,Lower-level public health facility,Lira,No,19298.0,Apac,Farmer,Unknown,Yes,No,No,No
+0,54.0,Female,Surgical,109.0,Unknown,Yes,117.0,36.5,24.0,94.0,15.0,Citrobacter freundii,No,Yes,Lower-level public health facility,Lira,No,19298.0,Apac,Farmer,Unknown,Yes,No,No,No
+0,8.0,Female,Medical,120.0,Unknown,No,104.0,36.5,24.0,100.0,15.0,Klebsiella pneumoniae,Yes,Yes,Lower-level public health facility,Lira,No,19963.0,Kwania,Student,Unknown,Unknown,No,No,No
+0,8.0,Female,Medical,113.0,Unknown,No,115.0,36.5,24.0,100.0,14.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Lira,No,19963.0,Kwania,Student,Unknown,Unknown,No,No,Yes
+0,8.0,Female,Medical,124.0,Unknown,No,127.0,36.5,24.0,100.0,15.0,Providencia spp,Yes,Yes,Lower-level public health facility,Lira,No,19963.0,Kwania,Student,Unknown,Unknown,No,No,No
+0,83.0,Male,Surgical,127.0,Negative,No,121.0,37.8,26.0,95.0,15.0,Enterococcus faecalis,No,No,Not specified,Lira,No,19350.0,Otuke,Farmer,Unknown,Unknown,No,No,No
+0,30.0,Male,Medical,122.0,Positive,Yes,114.0,37.3,40.0,96.0,6.0,Acinetobacter spp,No,No,Regional referral hospital,Lira,No,19319.0,Lira,Farmer,Unknown,Unknown,No,Yes,No
+0,22.0,Female,Medical,117.0,Negative,No,111.0,37.1,18.0,85.0,13.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19315.0,Lira,Tailor,Unknown,Unknown,No,No,Yes
+0,42.0,Male,Medical,119.0,Positive,Yes,86.0,36.6,20.0,98.0,15.0,Streptococcus pneumoniae,Yes,No,Private health facilty,Lira,No,19331.0,Lira,Carpenter,Unknown,Unknown,No,No,Yes
+0,0.0,Male,Paediatric,127.0,Unknown,No,160.0,36.8,44.0,98.0,13.0,Streptococcus pneumoniae,Yes,No,Private health facilty,Lira,No,19165.0,Lira,Electrician,Unknown,Unknown,No,Yes,Yes
+0,0.0,Male,Paediatric,100.0,Unknown,No,112.0,38.3,27.0,96.0,13.0,Klebsiella oxytoca,Yes,Yes,Lower-level public health facility,Lira,No,19102.0,Lira,Student,Unknown,Unknown,No,No,No
+1,0.0,Male,Paediatric,101.0,Negative,No,142.0,36.4,40.0,96.0,13.0,Citrobacter koseri,Yes,No,Lower-level public health facility,Lira,No,19198.0,Lira,Electrician,Unknown,Unknown,No,No,No
+0,48.0,Female,Medical,132.0,Unknown,Yes,127.0,38.0,21.0,96.0,15.0,Colifom,No,No,Lower-level public health facility,Lira,No,19035.0,Lira,Housewife,Unknown,Unknown,Yes,No,No
+0,20.0,Male,Surgical,112.0,Unknown,No,95.0,36.2,22.0,97.0,15.0,Acinetobacter spp,No,No,Lower-level public health facility,Lira,No,19039.0,Lira,Farmer,Unknown,Unknown,No,No,No
+0,24.0,Male,Medical,129.0,Unknown,Yes,123.0,36.6,20.0,97.0,15.0,Enterococcus ssp,No,No,Lower-level public health facility,Lira,No,19024.0,Lira,Tailor,Unknown,Unknown,No,No,No
+0,36.0,Male,Surgical,92.0,Negative,No,148.0,38.0,24.0,96.0,15.0,Pseudomonas spp,No,No,Lower-level public health facility,Lira,No,19019.0,Kole,Farmer,Unknown,Yes,No,No,No
+0,40.0,Female,Medical,130.0,Positive,Yes,88.0,36.8,21.0,95.0,15.0,Klebsiella aerogenes,No,No,Lower-level public health facility,Lira,No,19073.0,Lira,Farmer,Unknown,Unknown,No,Yes,No
+0,0.0,Male,Paediatric,110.0,Unknown,Not specified,142.0,38.3,39.0,99.0,13.0,Coliform,Yes,Yes,Lower-level public health facility,Lira,Yes,19060.0,Alebtong,Welder,Unknown,Yes,No,No,Yes
+0,1.0,Male,Paediatric,122.0,Positive,Yes,148.0,36.9,30.0,99.0,15.0,Streptococcus pneumoniae,Yes,Yes,Not specified,Lira,Yes,19067.0,Kole,Mechanic,Unknown,Yes,No,No,Yes
+0,15.0,Female,Surgical,110.0,Negative,Not specified,152.0,37.8,30.0,94.0,14.0,Coliform,Yes,Yes,Lower-level public health facility,Lira,Yes,18977.0,Oyam,Welder,Unknown,Unknown,Yes,Yes,No
+0,15.0,Female,Surgical,67.0,Negative,No,101.0,37.5,30.0,94.0,14.0,Proteus vulgaris,No,No,Lower-level public health facility,Lira,No,19039.0,Oyam,Tailor,Unknown,Unknown,No,No,No
+0,10.0,Female,Paediatric,101.0,Unknown,No,84.0,36.4,22.0,98.0,15.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19741.0,Lira,Hawker,Unknown,No,No,No,Yes
+1,19.0,Female,Medical,98.0,Unknown,Yes,103.0,37.4,28.0,89.0,12.0,Escherichia coli,No,No,Private health facilty,Lira,No,19248.0,Lira,Farmer,Unknown,Unknown,No,Yes,No
+1,46.0,Male,Medical,106.0,Positive,Yes,95.0,38.3,36.0,95.0,13.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19290.0,Lira,Farmer,Unknown,No,No,No,Yes
+1,23.0,Male,Medical,125.0,Negative,No,132.0,37.9,17.0,96.0,15.0,Streptococcus pneumoniae,Yes,Yes,Private health facilty,Lira,No,19285.0,Lira,Businessman,Unknown,Unknown,Yes,No,Yes
+1,23.0,Male,Medical,134.0,Positive,Yes,152.0,38.3,28.0,93.0,13.0,Staphylococcus epidermidis,Yes,Yes,Lower-level public health facility,Lira,No,18922.0,Lira,Farmer,Unknown,Unknown,Yes,No,Yes
+0,54.0,Male,Medical,135.0,Positive,Yes,133.0,36.7,21.0,97.0,15.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,Yes,19097.0,Lira,Mechanic,Unknown,Unknown,No,No,Yes
+0,59.0,Male,Medical,130.0,Negative,No,65.0,38.4,34.0,94.0,15.0,Staphylococcus epidermidis,Yes,Yes,Lower-level public health facility,Lira,No,18917.0,Kwania,Farmer,Unknown,Yes,No,No,Yes
+0,0.0,Male,Paediatric,115.0,Negative,No,142.0,37.5,40.0,98.0,13.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Lira,No,19178.0,Alebtong,Electrician,Unknown,Unknown,No,No,Yes
+0,4.0,Male,Paediatric,138.0,Unknown,No,44.0,39.7,44.0,50.0,14.0,Streptococcus pneumoniae,Yes,No,Private health facilty,Lira,No,19136.0,Lira,Electrician,Unknown,Unknown,No,No,Yes
+0,0.0,Female,Paediatric,118.0,Negative,No,101.0,37.8,40.0,97.0,14.0,Staphylococcus aureus,No,Yes,Lower-level public health facility,Lira,No,18927.0,Lira,Electrician,Unknown,Unknown,No,No,No
+0,0.0,Female,Paediatric,119.0,Negative,No,149.0,37.8,42.0,99.0,13.0,Staphylococcus aureus,No,Yes,Lower-level public health facility,Lira,No,18927.0,Lira,Electrician,Unknown,Unknown,No,No,No
+0,1.0,Male,Paediatric,127.0,Unknown,No,82.0,36.5,42.0,99.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Lira,No,18926.0,Kole,Electrician,Unknown,Unknown,No,Yes,No
+0,21.0,Female,Medical,121.0,Negative,No,129.0,37.2,32.0,85.0,14.0,Streptococcus pneumoniae,No,Yes,Lower-level public health facility,Lira,Yes,18926.0,Lira,Farmer,Unknown,Unknown,Yes,Yes,Yes
+0,5.0,Male,Surgical,108.0,Unknown,Yes,121.0,36.4,30.0,92.0,15.0,Serratia spp,No,Yes,Lower-level public health facility,Lira,No,18926.0,Alebtong,Hawker,Unknown,Yes,No,No,No
+0,74.0,Female,Surgical,116.0,Unknown,No,116.0,37.5,28.0,93.0,6.0,Citrobacter koseri,No,No,Regional referral hospital,Lira,No,18918.0,Pader,Farmer,Unknown,Unknown,No,No,No
+0,23.0,Female,Surgical,111.0,Unknown,No,125.0,36.5,16.0,96.0,15.0,Colifom,No,Yes,Private health facilty,Lira,No,19020.0,Agago,Farmer,Unknown,Yes,Yes,No,No
+0,29.0,Female,Surgical,100.0,Negative,No,88.0,37.0,20.0,95.0,15.0,Acinetobacter spp,No,No,Lower-level public health facility,Lira,No,19073.0,Lira,Farmer,Unknown,Yes,No,No,No
+0,39.0,Male,Medical,170.0,Negative,Not specified,83.0,38.9,20.0,98.0,15.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Lira,No,19085.0,Dokolo,Farmer,Unknown,Yes,No,No,Yes
+0,28.0,Female,Medical,102.0,Positive,Yes,114.0,36.6,20.0,96.0,13.0,Streptococcus pneumoniae,Yes,No,Not specified,Lira,No,19151.0,Dokolo,Farmer,Unknown,Yes,No,Yes,Yes
+0,1.0,Male,Paediatric,127.0,Negative,No,159.0,37.1,40.0,99.0,15.0,Colifom,No,Yes,Private health facilty,Lira,No,18912.0,Alebtong,Electrician,Unknown,Yes,No,Yes,No
+0,1.0,Female,Paediatric,100.0,Negative,No,148.0,36.6,32.0,98.0,15.0,Streptococcus pneumoniae,No,Yes,Lower-level public health facility,Lira,No,18960.0,Lira,Tailor,Unknown,Unknown,Yes,Yes,Yes
+0,50.0,Male,Surgical,125.0,Negative,No,93.0,37.9,34.0,92.5,15.0,Staphylococcus aureus,No,Yes,Lower-level public health facility,Lira,No,18921.0,Amolatar,Farmer,Unknown,Unknown,Yes,No,No
+1,22.0,Male,Medical,125.0,Unknown,No,149.0,36.4,18.0,93.0,15.0,Staphylococcus epidermidis,No,No,Lower-level public health facility,Lira,No,18967.0,Otuke,Farmer,Unknown,Unknown,Yes,No,Yes
+0,7.0,Male,Surgical,100.0,Unknown,Yes,116.0,36.7,27.0,99.0,15.0,Providencia spp,Yes,No,Lower-level public health facility,Lira,No,19750.0,Lira,Student,Unknown,Unknown,No,No,No
+0,0.0,Female,Paediatric,110.0,Unknown,No,102.0,38.1,40.0,95.0,13.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,19108.0,Lira,Student,Unknown,Unknown,No,No,Yes
+0,32.0,Male,Medical,110.0,Positive,Yes,123.0,38.0,26.0,93.0,15.0,Staphylococcus epidermidis,Yes,Yes,Lower-level public health facility,Lira,No,19016.0,Oyam,Farmer,Unknown,Yes,No,Yes,Yes
+0,80.0,Female,Medical,130.0,Unknown,Yes,83.0,37.0,26.0,95.0,15.0,Staphylococcus epidermidis,Yes,Yes,Lower-level public health facility,Lira,No,19035.0,Alebtong,Farmer,Unknown,Yes,No,Yes,Yes
+1,38.0,Female,Medical,134.0,Positive,Yes,96.0,37.0,30.0,76.0,13.0,Streptococcus pneumoniae,No,No,Lower-level public health facility,Lira,No,19277.0,Lira,Peasant,Unknown,Unknown,Yes,Yes,Yes
+0,35.0,Female,Surgical,141.0,Unknown,Yes,107.0,36.0,26.0,94.0,15.0,Coliform,No,Yes,Lower-level public health facility,Lira,Yes,18785.0,Lira,Farmer,Unknown,Unknown,No,No,No
+0,7.0,Female,Paediatric,87.0,Negative,No,130.0,37.7,18.0,98.0,14.0,Streptococcus viridans,No,No,Lower-level public health facility,Lira,No,19086.0,Lira,Hawker,Unknown,No,Yes,No,No
+1,59.0,Male,Medical,134.0,Positive,Yes,164.0,39.5,44.0,79.0,7.0,Streptococcus pneumoniae,Yes,Yes,Private health facilty,Lira,No,19069.0,Kole,Police officer,Unknown,Yes,No,Yes,Yes
+1,25.0,Female,Medical,129.0,Negative,No,107.0,37.1,20.0,95.0,13.0,Staphylococcus epidermidis,Yes,No,Not specified,Lira,No,18897.0,Dokolo,Farmer,Unknown,Unknown,No,No,Yes
+1,51.0,Male,Medical,168.0,Negative,No,109.0,38.6,44.0,96.0,15.0,Aeromonas spp,No,No,Lower-level public health facility,Lira,No,18921.0,Kole,Farmer,Unknown,No,Yes,No,No
+0,36.0,Male,Medical,87.0,Positive,No,98.0,38.4,20.0,98.0,14.0,Staphylococcus epidermidis,Yes,No,Not specified,Lira,No,19027.0,Dokolo,Teacher,Unknown,No,No,Yes,Yes
+0,40.0,Female,Surgical,120.0,Positive,Yes,180.0,37.7,19.0,98.0,14.0,Staphylococcus epidermidis,Yes,Yes,Lower-level public health facility,Lira,No,19084.0,Otuke,Farmer,Unknown,No,No,No,Yes
+0,35.0,Female,Surgical,141.0,Unknown,Yes,107.0,38.6,20.0,94.0,15.0,Proteus mirabilis,No,Yes,Lower-level public health facility,Lira,Yes,18785.0,Lira,Farmer,Unknown,Unknown,No,No,No
+1,19.0,Female,Medical,98.0,Unknown,Yes,103.0,37.0,28.0,89.0,15.0,Enterobacter spp,No,No,Lower-level public health facility,Lira,No,19248.0,Lira,Farmer,Unknown,Unknown,No,Yes,No
+0,96.0,Male,Surgical,177.0,Unknown,Not specified,133.0,38.0,44.0,89.0,12.0,Proteus vulgaris,No,No,Not specified,Lira,No,20056.0,Alebtong,Retired teacher,Unknown,Unknown,No,Yes,No
+0,0.0,Female,NICU Unit,109.0,Unknown,No,143.0,36.9,55.0,96.0,15.0,Klebsiella oxytoca,Yes,No,Private health facilty,Lira,No,20136.0,Kole,Student,Unknown,Unknown,No,No,No
+0,19.0,Male,Surgical,113.0,Unknown,No,92.0,36.9,24.0,98.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Lira,No,19997.0,Albetong,Farmer,Unknown,Unknown,No,No,No
+0,48.0,Male,Surgical,119.0,Unknown,No,123.0,38.7,26.0,89.0,6.0,Staphylococcus aureus,No,No,Regional referral hospital,Lira,No,20285.0,Kwania,Retired teacher,Unknown,Unknown,No,No,No
+0,42.0,Male,Surgical,137.0,Unknown,No,83.0,42.2,22.0,95.0,12.0,Citrobacter spp,No,No,Private health facilty,Lira,No,20264.0,Lira,Retired teacher,Unknown,Unknown,No,No,No
+0,40.0,Female,Medical,135.0,Unknown,Not specified,124.0,37.8,22.0,89.0,12.0,Coliform,No,No,Regional referral hospital,Lira,No,20266.0,Agali,Retired teacher,Unknown,Unknown,No,No,Yes
+0,4.0,Female,Paediatric,87.0,Unknown,Yes,152.0,38.3,40.0,85.0,14.0,Staphylococcus spp,Yes,No,Private health facilty,Masaka,No,20084.0,Masaka,Mechanic,Unknown,Yes,No,No,Yes
+0,10.0,Female,Paediatric,127.0,Unknown,Yes,100.0,36.5,22.0,100.0,15.0,Enterococcus faecium,No,No,Lower-level public health facility,Masaka,No,20244.0,Masaka,Hawker,Unknown,No,No,No,No
+0,3.0,Male,Medical,114.0,Unknown,No,130.0,37.4,42.0,94.0,15.0,Enterobacter spp,No,No,Private health facilty,Masaka,No,20216.0,Masaka,Electrician,Unknown,Unknown,No,Yes,No
+0,40.0,Male,Medical,132.0,Unknown,No,90.0,37.9,20.0,97.0,14.0,Citrobacter freundii,No,No,Regional referral hospital,Masaka,No,20219.0,Masaka,Businesswoman,Unknown,No,No,No,No
+0,0.0,Male,Paediatric,127.0,Unknown,No,144.0,38.0,44.0,99.0,13.0,Shigella Spp,No,No,Lower-level public health facility,Masaka,No,20203.0,Masaka,Unemployed,Unknown,Unknown,No,Yes,No
+0,67.0,Male,Surgical,112.0,Unknown,No,60.0,36.7,22.0,99.0,15.0,Enterococcus faecalis,No,No,Lower-level public health facility,Masaka,No,20186.0,Arua District,Nurse,Unknown,Unknown,No,No,No
+0,7.0,Male,Medical,92.0,Unknown,No,100.0,38.0,20.0,93.0,15.0,Staphylococcus aureus,No,No,Private health facilty,Masaka,No,20175.0,Masaka,Student,Unknown,No,Yes,No,No
+0,2.0,Female,Paediatric,119.0,Unknown,Yes,149.0,38.0,36.5,97.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Masaka,No,20122.0,Masaka,Electrician,Unknown,No,No,No,No
+0,1.0,Female,Paediatric,110.0,Unknown,No,148.0,37.0,45.0,97.0,15.0,Enterococcus faecalis,No,No,Private health facilty,Masaka,No,20189.0,Masaka,Unemployed,Unknown,Unknown,Yes,No,No
+0,57.0,Female,Surgical,115.0,Unknown,No,87.0,36.0,18.0,98.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Masaka,No,20202.0,Masaka,Businesswoman,Unknown,Unknown,No,No,No
+0,75.0,Female,Surgical,130.0,Unknown,No,84.0,36.9,32.0,90.0,13.0,Acinetobacter baumannii,No,No,Private health facilty,Masaka,No,20188.0,Masaka,Prisoner,Unknown,Unknown,Yes,No,No
+0,48.0,Male,Surgical,130.0,Unknown,No,75.0,37.0,19.0,99.0,15.0,Enterococcus faecalis,No,No,Regional referral hospital,Masaka,No,20181.0,Masaka,Turnboy,Unknown,Unknown,No,No,No
+0,13.0,Female,Surgical,112.0,Unknown,No,126.0,36.5,32.0,92.0,13.0,Staphylococcus aureus,No,No,Not specified,Masaka,No,20178.0,Iriga,Builder,Unknown,Unknown,No,No,No
+0,39.0,Female,Gynaecology,165.0,Unknown,No,90.0,36.2,20.0,97.0,15.0,Klebsiella oxytoca,No,No,Not specified,Masaka,No,20146.0,Masaka,Carpenter,Unknown,Unknown,No,No,No
+0,19.0,Male,Surgical,90.0,Unknown,No,105.0,37.0,20.0,97.0,15.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Masaka,No,20116.0,Terego,Student,Unknown,Unknown,No,No,Yes
+0,0.0,Female,Paediatric,113.0,Unknown,No,140.0,36.2,54.0,97.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Masaka,No,20142.0,Ntugamo,Electrician,Unknown,Unknown,No,Yes,No
+0,45.0,Male,Surgical,108.0,Unknown,Yes,99.0,37.0,40.0,96.0,15.0,Klebsiella oxytoca,No,No,Lower-level public health facility,Masaka,No,20135.0,Masaka,Electrician,Unknown,Unknown,No,Yes,No
+0,28.0,Male,Surgical,120.0,Unknown,No,76.0,36.8,20.0,100.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Masaka,No,20125.0,Gulu City,Casual labourer,Unknown,Unknown,Yes,No,No
+0,0.0,Male,Medical,145.0,Unknown,Not specified,102.0,37.5,45.0,100.0,14.0,Coliform,No,No,Not specified,Masaka,No,20125.0,Kamwengye,Electrician,Unknown,Unknown,No,Yes,No
+0,43.0,Male,Surgical,131.0,Unknown,Not specified,74.0,36.3,22.0,98.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Masaka,No,20125.0,Masaka,Carpenter,Unknown,Unknown,Yes,No,No
+0,71.0,Female,Gynaecology,110.0,Unknown,No,63.0,36.5,16.0,98.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Masaka,No,20120.0,Masaka,Businessman,Unknown,Unknown,No,No,No
+0,42.0,Male,Surgical,104.0,Unknown,No,83.0,39.4,26.0,97.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Masaka,No,20124.0,Masaka,Teacher,Unknown,Unknown,No,No,No
+0,2.0,Female,Paediatric,107.0,Unknown,No,110.0,36.5,38.0,96.0,15.0,Enterobacter spp,No,Yes,Lower-level public health facility,Masaka,No,20122.0,Kyotera,Student,Unknown,Unknown,Yes,No,No
+0,0.0,Male,NICU Unit,127.0,Unknown,No,137.0,36.7,44.0,99.0,14.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Masaka,No,20122.0,Masaka,Electrician,Unknown,Unknown,No,Yes,No
+0,81.0,Male,Medical,220.0,Unknown,Yes,171.0,37.8,36.0,74.0,12.0,Enterococcus faecalis,No,No,Lower-level public health facility,Masaka,No,20116.0,Masaka,Mechanic,Unknown,Unknown,No,No,No
+0,63.0,Male,Surgical,134.0,Unknown,No,80.0,38.4,24.0,84.0,15.0,Pseudomonas spp,No,No,Lower-level public health facility,Masaka,No,20096.0,Masaka,Peasant,Unknown,Unknown,No,No,No
+0,42.0,Male,Surgical,145.0,Unknown,No,89.0,36.2,18.0,97.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Masaka,No,20086.0,Masaka,Carpenter,Unknown,Unknown,No,No,No
+0,44.0,Female,Surgical,177.0,Unknown,No,90.0,36.0,20.0,97.0,15.0,Pseudomonas aeruginosa,No,No,Not specified,Masaka,No,20086.0,Masaka,Housewife,Unknown,Unknown,No,No,No
+0,0.0,Female,NICU Unit,106.0,Unknown,No,104.0,39.0,38.0,94.0,14.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Masaka,No,20101.0,Masaka,Midwife,Unknown,Unknown,Yes,No,No
+0,40.0,Male,Surgical,155.0,Unknown,No,82.0,35.8,18.0,97.0,15.0,Enterococcus faecalis,No,No,Private health facilty,Masaka,No,20187.0,Masaka,Turnboy,Unknown,Unknown,Yes,No,No
+0,31.0,Female,Medical,94.0,Unknown,No,86.0,36.0,20.0,96.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Masaka,No,19878.0,Masaka,Carpenter,Unknown,Unknown,Yes,No,No
+0,65.0,Male,Surgical,120.0,Unknown,No,60.0,36.7,20.0,98.0,15.0,Enterococcus faecalis,No,No,Regional referral hospital,Masaka,No,19923.0,Masaka,Peasant,Unknown,Unknown,No,No,No
+0,53.0,Female,Surgical,106.0,Unknown,No,80.0,36.3,20.0,98.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Masaka,No,19930.0,Masaka,Carpenter,Unknown,Unknown,No,No,No
+0,45.0,Male,Surgical,118.0,Unknown,No,72.0,37.5,22.0,84.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Masaka,No,19929.0,Masaka,Carpenter,Unknown,Unknown,No,No,No
+0,29.0,Female,Gynaecology,110.0,Unknown,No,87.0,37.5,20.0,98.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Masaka,No,19954.0,Masaka,Carpenter,Unknown,Unknown,No,No,No
+0,46.0,Male,Surgical,147.0,Unknown,No,72.0,36.0,19.0,98.0,15.0,Proteus vulgaris,No,No,Lower-level public health facility,Masaka,No,19957.0,Misenyi,Carpenter,Unknown,Unknown,No,No,No
+0,58.0,Male,Medical,132.0,Unknown,No,86.0,36.5,18.0,96.0,15.0,Staphylococcus spp,No,No,Private health facilty,Masaka,No,20054.0,Masaka,Peasant,Unknown,No,Yes,No,No
+1,2.0,Female,NICU Unit,118.0,Unknown,No,152.0,39.2,40.0,82.0,4.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Masaka,No,20093.0,Lyantonde,Electrician,Unknown,No,Yes,No,No
+1,0.0,Female,NICU Unit,121.0,Negative,No,158.0,37.6,51.0,96.0,14.0,Klebsiella pneumoniae,No,Yes,Lower-level public health facility,Masaka,No,20117.0,Kalisizo,Electrician,Unknown,Yes,Yes,No,No
+0,75.0,Female,Surgical,131.0,Negative,No,84.0,38.2,20.0,98.0,15.0,Proteus spp,No,No,Regional referral hospital,Masaka,No,20189.0,Kalungu,Businesswoman,Unknown,No,Yes,No,No
+0,20.0,Female,Medical,114.0,Unknown,Yes,115.0,37.8,24.0,97.0,12.0,Vibrio cholera,No,No,Not specified,Masaka,No,20269.0,Masaka,Boda boda rider,Unknown,No,No,No,No
+0,28.0,Male,Surgical,150.0,Negative,No,97.0,36.0,18.0,97.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Masaka,Yes,20124.0,Kyotera,Turnboy,Unknown,No,Yes,No,No
+0,45.0,Male,Surgical,89.0,Unknown,No,58.0,38.4,30.0,94.0,15.0,Klebsiella oxytoca,No,No,Lower-level public health facility,Masaka,No,20133.0,Bukomansimbi,Parish chief,Unknown,No,No,Yes,No
+0,37.0,Male,Surgical,126.0,Negative,Yes,88.0,38.0,50.0,53.0,15.0,Enterococcus faecalis,No,No,Private health facilty,Masaka,No,20087.0,Masaka,Electrician,Unknown,No,Yes,No,No
+0,62.0,Male,Surgical,156.0,Negative,Yes,167.0,39.1,33.0,96.0,4.0,Escherichia coli,No,Yes,Lower-level public health facility,Masaka,No,20112.0,Lyantonde,Boda boda rider,Unknown,No,No,No,No
+0,17.0,Male,Medical,108.0,Unknown,No,138.0,38.1,44.0,96.0,15.0,Shigella Spp,No,No,Lower-level public health facility,Masaka,No,20138.0,Masaka,Electrician,Unknown,No,No,No,No
+0,52.0,Male,Medical,102.0,Unknown,No,84.0,39.2,26.0,85.0,15.0,Acinetobacter spp,No,No,Lower-level public health facility,Masaka,No,20258.0,Masaka,Retired teacher,Unknown,No,No,No,No
+0,43.0,Female,Medical,107.0,Positive,Yes,76.0,37.8,28.0,96.0,15.0,Klebsiella aerogenes,No,No,Lower-level public health facility,Masaka,No,19035.0,Masaka,Teacher,Unknown,No,No,Yes,No
+1,62.0,Female,Medical,180.0,Unknown,Yes,100.0,38.6,18.0,96.0,15.0,Proteus mirabilis,No,No,Private health facilty,Masaka,No,19247.0,Kalungu,Housewife,Unknown,No,No,No,No
+0,60.0,Male,Orthopaedic,108.0,Unknown,No,78.0,36.3,22.0,97.0,15.0,Citrobacter freundii,No,No,Lower-level public health facility,Masaka,No,19247.0,Sembabule,Peasant,Unknown,No,No,No,No
+0,39.0,Female,Medical,108.0,Positive,Yes,98.0,37.8,32.0,91.0,15.0,Klebsiella aerogenes,No,No,Lower-level public health facility,Masaka,No,19032.0,Sembabule,Teacher,Unknown,No,No,Yes,No
+0,30.0,Male,Surgical,109.0,Negative,No,74.0,36.5,21.0,95.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Masaka,No,19263.0,Masaka,Peasant,Unknown,No,No,No,No
+0,36.0,Male,Surgical,103.0,Negative,No,76.0,36.5,20.0,98.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Masaka,Yes,19065.0,Lwengo,Boda boda rider,Unknown,No,No,No,No
+0,2.0,Male,Surgical,98.0,Unknown,No,144.0,37.4,32.0,98.0,15.0,Providencia spp,No,No,Lower-level public health facility,Masaka,No,19240.0,Kyotera,Student,Unknown,No,Yes,No,No
+0,0.0,Male,NICU Unit,112.0,Unknown,No,132.0,38.3,40.0,94.0,13.0,Enterobacter cloacae,No,No,Lower-level public health facility,Masaka,No,20055.0,Masaka,Unemployed,Unknown,No,Yes,No,No
+0,0.0,Female,NICU Unit,124.0,Unknown,No,148.0,36.4,54.0,75.0,15.0,Providencia spp,No,Yes,Lower-level public health facility,Masaka,No,19902.0,Mubende,Electrician,Unknown,Yes,Yes,No,No
+0,17.0,Male,Medical,103.0,Negative,No,126.0,36.7,32.0,94.0,15.0,Klebsiella aerogenes,No,No,Not specified,Masaka,No,19986.0,Sembabule,Student,Unknown,No,No,Yes,No
+0,36.0,Male,Medical,99.0,Negative,No,77.0,36.9,19.0,99.0,15.0,Vibrio cholera,No,Yes,Lower-level public health facility,Masaka,No,19960.0,Masaka,Social worker,Unknown,Yes,No,No,No
+0,44.0,Female,Gynaecology,157.0,Unknown,No,90.0,36.0,17.0,97.0,15.0,Staphylococcus spp,No,No,Lower-level public health facility,Masaka,No,20074.0,Masaka,Carpenter,Unknown,No,No,No,No
+0,30.0,Male,Accident and emergency,120.0,Unknown,No,113.0,36.0,18.0,98.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Masaka,No,20062.0,Masaka,Carpenter,Unknown,No,No,No,No
+0,0.0,Female,NICU Unit,109.0,Unknown,No,158.0,38.4,46.0,100.0,14.0,Acinetobacter baumannii,No,No,Lower-level public health facility,Masaka,No,20062.0,Masaka,Unemployed,Unknown,No,Yes,No,No
+0,26.0,Female,Maternity/Post-Natal ward,130.0,Unknown,No,94.0,36.0,18.0,99.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Masaka,No,20051.0,Masaka,Carpenter,Unknown,No,Yes,No,No
+0,30.0,Female,Gynaecology,106.0,Unknown,No,75.0,37.7,19.0,100.0,15.0,Klebsiella pneumoniae,No,No,Regional referral hospital,Masaka,No,20038.0,Masaka,Casual labourer,Unknown,No,Yes,No,No
+0,0.0,Female,Paediatric,132.0,Unknown,No,98.0,38.0,44.0,96.0,14.0,Klebsiella oxytoca,No,No,Lower-level public health facility,Masaka,No,20155.0,Masaka,Electrician,Unknown,No,No,Yes,No
+0,61.0,Female,Accident and emergency,135.0,Unknown,No,111.0,39.0,24.0,53.0,6.0,Proteus mirabilis,No,No,Regional referral hospital,Masaka,No,20042.0,Masaka,Electrician,Unknown,No,No,No,No
+0,45.0,Male,Surgical,132.0,Unknown,No,88.0,36.0,22.0,100.0,15.0,Escherichia coli,No,No,Private health facilty,Masaka,No,19951.0,Masaka,Peasant,Unknown,Unknown,No,No,No
+0,48.0,Female,Medical,94.0,Unknown,Yes,57.0,37.0,17.0,99.0,15.0,Enterobacter spp,No,No,Regional referral hospital,Masaka,No,20006.0,Luuka,Parish chief,Unknown,Unknown,No,No,No
+0,13.0,Male,Medical,98.0,Unknown,No,84.0,37.2,18.0,98.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Masaka,No,20040.0,Masaka,Hawker,Unknown,No,No,No,No
+0,37.0,Female,Gynaecology,89.0,Unknown,No,84.0,37.5,20.0,97.0,15.0,Acinetobacter spp,No,No,Lower-level public health facility,Masaka,No,20019.0,Ntungamo,Social worker,Unknown,Unknown,No,No,No
+0,48.0,Female,Gynaecology,134.0,Unknown,No,86.0,36.0,18.0,100.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Masaka,No,20040.0,Masaka,Peasant,Unknown,No,No,No,No
+0,6.0,Male,Paediatric,91.0,Unknown,No,119.0,38.2,42.0,94.0,15.0,Vibrio cholera,No,No,Regional referral hospital,Masaka,No,20274.0,Masaka,Hawker,Unknown,No,No,Yes,No
+0,95.0,Male,Medical,180.0,Unknown,No,102.0,38.6,26.0,96.0,15.0,Proteus vulgaris,No,No,Not specified,Masaka,No,20256.0,Masaka,Retired teacher,Unknown,No,Yes,No,No
+0,74.0,Female,Medical,110.0,Unknown,Yes,98.0,38.8,20.0,100.0,14.0,Enterobacterales,No,No,Regional referral hospital,Masaka,No,20262.0,Iriga,Retired teacher,Unknown,Unknown,Yes,No,No
+0,7.0,Male,Paediatric,86.0,Unknown,No,122.0,37.4,22.0,93.0,14.0,Enterococcus ssp,No,No,Private health facilty,Masaka,No,20256.0,Kasese,Retired teacher,Unknown,Unknown,No,No,No
+0,2.0,Female,Paediatric,114.0,Unknown,No,104.0,36.4,44.0,94.0,14.0,Neisseria spp,No,No,Lower-level public health facility,Masaka,No,20232.0,Masaka,Electrician,Unknown,No,No,Yes,No
+0,1.0,Male,Paediatric,130.0,Unknown,Yes,142.0,37.7,44.0,94.0,4.0,Streptococcus pneumoniae,Yes,No,Regional referral hospital,Masaka,No,20218.0,Namuyumba,Unemployed,Unknown,Unknown,No,No,Yes
+0,0.0,Male,NICU Unit,124.0,Unknown,No,144.0,37.8,46.0,99.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Masaka,No,20140.0,Masaka,Unemployed,Unknown,No,Yes,Yes,No
+0,0.0,Male,NICU Unit,113.0,Unknown,No,170.0,36.9,46.0,89.0,15.0,Klebsiella pneumoniae,No,No,Private health facilty,Masaka,No,20128.0,Atentong,Electrician,Unknown,No,No,No,No
+1,65.0,Male,Surgical,109.0,Unknown,Yes,103.0,36.7,32.0,84.0,14.0,Escherichia coli,No,No,Lower-level public health facility,Masaka,No,20112.0,Ssembabule,Peasant,Unknown,Unknown,No,No,No
+0,2.0,Female,Surgical,112.0,Unknown,No,115.0,37.0,30.0,97.0,15.0,Enterobacter spp,No,Yes,Lower-level public health facility,Masaka,No,20122.0,Kyotera,Student,Unknown,Unknown,Yes,No,No
+0,42.0,Male,Surgical,123.0,Unknown,No,87.0,36.3,20.0,98.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Masaka,No,20122.0,Masaka,Businessman,Unknown,Unknown,No,No,No
+0,0.0,Female,NICU Unit,133.0,Unknown,No,148.0,37.0,54.0,97.0,15.0,Klebsiella aerogenes,No,No,Lower-level public health facility,Masaka,No,19926.0,Kyotera,Unemployed,Unknown,No,No,Yes,No
+0,38.0,Male,Surgical,108.0,Unknown,No,80.0,39.7,20.0,98.0,15.0,Escherichia coli,No,No,Regional referral hospital,Masaka,No,20274.0,Masaka,Retired teacher,Unknown,Unknown,Yes,No,No
+0,32.0,Female,Medical,134.0,Unknown,No,100.0,38.8,22.0,95.0,12.0,Escherichia coli,No,No,Regional referral hospital,Masaka,No,20279.0,Agali,Businesswoman,Unknown,Unknown,No,No,No
+1,0.0,Male,NICU Unit,127.0,Unknown,No,165.0,38.7,54.0,93.0,12.0,Klebsiella spp,No,No,Regional referral hospital,Masaka,No,20274.0,Masaka,Unemployed,Unknown,No,No,Yes,No
+1,0.0,Male,NICU Unit,118.0,Unknown,No,112.0,38.8,46.0,99.0,12.0,Enterococcus faecalis,Yes,No,Regional referral hospital,Masaka,No,20259.0,Namuyumba,Unemployed,Unknown,No,No,No,Yes
+0,37.0,Female,Medical,98.0,Unknown,No,104.0,38.0,20.0,75.0,15.0,Escherichia coli,No,Yes,Private health facilty,Masaka,No,20262.0,Masaka,Retired teacher,Unknown,Unknown,No,No,No
+0,23.0,Female,Medical,150.0,Unknown,No,107.0,36.7,20.0,99.0,15.0,Enterococcus faecalis,No,No,Lower-level public health facility,Masaka,No,20254.0,Arua District,Nurse,Unknown,Unknown,No,No,No
+0,54.0,Male,Surgical,127.0,Unknown,No,82.0,36.6,22.0,99.0,15.0,Klebsiella oxytoca,No,No,Lower-level public health facility,Masaka,No,20249.0,Masaka,Retired teacher,Unknown,Unknown,No,No,No
+0,29.0,Female,Medical,135.0,Unknown,No,86.0,37.8,18.0,95.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Masaka,No,20228.0,Masaka,Carpenter,Unknown,Unknown,No,No,No
+0,58.0,Male,Surgical,125.0,Unknown,No,100.0,36.8,20.0,98.0,15.0,Citrobacter freundii,No,No,Lower-level public health facility,Masaka,No,20216.0,Masaka,Businesswoman,Unknown,Unknown,No,No,No
+0,85.0,Female,Medical,250.0,Unknown,No,98.0,38.0,40.0,89.0,15.0,Staphylococcus aureus,No,Yes,Private health facilty,Masaka,No,20213.0,Masaka,Mechanic,Unknown,Unknown,No,No,No
+1,43.0,Male,Surgical,87.0,Unknown,No,250.0,37.8,32.0,50.0,14.0,Klebsiella pneumoniae,No,No,Private health facilty,Masaka,No,20124.0,Lwengo,Peasant,Unknown,Unknown,Yes,No,No
+0,3.0,Male,Surgical,85.0,Unknown,No,126.0,37.4,37.0,94.0,13.0,Enterobacter spp,No,No,Not specified,Masaka,No,19087.0,Lwego,Tailor,Unknown,Unknown,Yes,No,No
+0,0.0,Female,Maternity/Post-Natal ward,106.0,Unknown,No,122.0,36.6,51.0,93.0,14.0,Klebsiella spp,No,Yes,Lower-level public health facility,Masaka,No,20117.0,Kalisizo,Electrician,Unknown,Yes,Yes,No,No
+1,57.0,Male,Medical,138.0,Negative,No,116.0,38.4,44.0,85.0,13.0,Streptococcus pneumoniae,Yes,No,Private health facilty,Masaka,No,20054.0,Manafwa,Builder,Unknown,No,No,No,Yes
+0,25.0,Male,Orthopaedic,140.0,Unknown,No,110.0,37.0,26.0,97.0,15.0,Enterobacter cloacae,No,No,Lower-level public health facility,Masaka,No,20095.0,Kyotera,Tailor,Unknown,No,No,No,No
+0,3.0,Male,Orthopaedic,91.0,Negative,No,149.0,37.8,30.0,98.0,15.0,Enterobacter spp,No,No,Lower-level public health facility,Mbale,No,20202.0,Sironko,Tailor,Unknown,Unknown,No,No,No
+0,3.0,Male,Orthopaedic,91.0,Negative,No,149.0,37.0,28.0,98.0,15.0,Enterobacter spp,No,No,Not specified,Mbale,No,20202.0,Soronko,Tailor,Unknown,Unknown,No,No,No
+0,22.0,Female,Orthopaedic,118.0,Unknown,No,76.0,36.7,20.0,98.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbale,No,20054.0,Kumi,Farmer,Unknown,Yes,No,No,No
+0,62.0,Male,Orthopaedic,120.0,Positive,No,105.0,36.7,20.0,97.0,15.0,Pseudomonas aeruginosa,No,No,Lower-level public health facility,Mbale,No,20108.0,Budaka,Mechanic,Unknown,Unknown,No,No,No
+0,90.0,Female,Orthopaedic,145.0,Unknown,No,87.0,36.5,18.0,97.0,15.0,Enterobacter spp,No,No,Not specified,Mbale,No,20110.0,Mbale City,Social worker,Unknown,Yes,No,No,No
+0,63.0,Male,Orthopaedic,121.0,Positive,Yes,80.0,38.0,20.0,98.0,15.0,Enterobacter spp,No,No,Lower-level public health facility,Mbale,No,20048.0,Wakiso,Mechanic,Unknown,Unknown,No,No,No
+1,51.0,Male,Surgical,115.0,Negative,Yes,84.0,38.0,18.0,98.0,15.0,Proteus vulgaris,No,No,Private health facilty,Mbale,No,20157.0,Sironko,Businessman,Unknown,Unknown,No,No,No
+0,57.0,Male,ICU/HDU,119.0,Unknown,Yes,83.0,36.2,26.0,94.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbale,No,18866.0,Bududa,Farmer,Unknown,Yes,No,No,No
+0,40.0,Female,Accident and emergency,127.0,Unknown,No,110.0,36.9,23.0,93.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbale,Yes,18414.0,Sironko,Businessman,Unknown,Unknown,Yes,No,No
+0,40.0,Male,Accident and emergency,119.0,Negative,No,95.0,37.0,32.0,91.0,15.0,Proteus spp,No,No,Lower-level public health facility,Mbale,Yes,18360.0,Budaka,Peasant,Unknown,Unknown,No,No,No
+0,61.0,Female,Accident and emergency,151.0,Unknown,Yes,119.0,36.0,20.0,94.0,15.0,Proteus spp,No,Yes,Lower-level public health facility,Mbale,Yes,18403.0,Butebo,Boda boda rider,Unknown,No,Yes,No,No
+0,20.0,Female,Maternity/Post-Natal ward,98.0,Unknown,No,133.0,36.4,27.0,98.0,13.0,Neisseria spp,Yes,Yes,Lower-level public health facility,Mbale,No,20232.0,Bududa,Tailor,Unknown,Unknown,No,No,No
+0,9.0,Female,Surgical,110.0,Negative,No,128.0,38.7,32.0,88.0,14.0,Staphylococcus aureus,No,No,Private health facilty,Mbale,No,20264.0,Kibuku,Retired teacher,Unknown,Unknown,No,No,No
+0,35.0,Female,Surgical,130.0,Negative,No,86.0,36.0,18.0,99.0,15.0,Klebsiella oxytoca,No,No,Lower-level public health facility,Mbale,No,20153.0,Budaka,Carpenter,Unknown,Unknown,No,No,No
+0,45.0,Female,Surgical,125.0,Unknown,No,123.0,36.0,28.0,95.0,15.0,Pseudomonas spp,No,No,Lower-level public health facility,Mbale,No,19023.0,Sironko,Farmer,Unknown,Unknown,Yes,No,No
+0,52.0,Male,Surgical,117.0,Unknown,Yes,78.0,36.6,20.0,98.0,15.0,Klebsiella aerogenes,No,No,Lower-level public health facility,Mbale,No,19558.0,Budaka,Carpenter,Unknown,Unknown,No,No,No
+0,51.0,Male,Surgical,123.0,Unknown,No,101.0,35.7,28.0,97.0,15.0,Klebsiella pneumoniae,No,Yes,Lower-level public health facility,Mbale,No,18498.0,Bukedea,Carpenter,Unknown,Yes,No,No,No
+0,0.0,Male,Surgical,94.0,Unknown,No,125.0,36.1,44.0,96.0,13.0,Staphylococcus aureus,No,Yes,Lower-level public health facility,Mbale,No,18482.0,Namisindwa,Electrician,Unknown,Yes,No,No,No
+0,39.0,Male,Surgical,141.0,Unknown,No,90.0,36.4,18.0,96.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbale,No,18905.0,Soronko,Peasant,Unknown,Unknown,Yes,No,No
+0,56.0,Male,Surgical,114.0,Unknown,Yes,100.0,36.5,20.0,97.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbale,No,19359.0,Mbale,Student,Unknown,Unknown,No,No,No
+0,29.0,Female,Gynaecology,130.0,Unknown,No,84.0,36.6,38.0,79.0,13.0,Coagulate Negative Staph,No,No,Lower-level public health facility,Mbale,No,20207.0,Adjumani,Builder,Unknown,Unknown,Yes,No,No
+0,22.0,Female,Surgical,134.0,Unknown,No,79.0,37.3,17.0,97.0,15.0,Escherichia coli,No,No,Regional referral hospital,Mbale,No,20038.0,Kumi,Student,Unknown,Unknown,No,No,No
+0,36.0,Male,Surgical,108.0,Unknown,No,93.0,42.2,24.0,96.0,14.0,Colifom,No,Yes,Lower-level public health facility,Mbale,No,19135.0,Mbale,Boda boda rider,Unknown,Yes,No,No,No
+0,30.0,Female,Surgical,110.0,Unknown,No,101.0,37.3,28.0,99.0,15.0,Staphylococcus aureus,No,Yes,Lower-level public health facility,Mbale,No,19067.0,Bugiri,Casual labourer,Unknown,Unknown,Yes,No,No
+0,45.0,Female,Surgical,129.0,Unknown,No,94.0,36.0,17.0,99.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Mbale,No,19088.0,Mbale,Peasant,Unknown,Unknown,No,No,No
+1,14.0,Female,Surgical,133.0,Unknown,No,111.0,37.0,33.0,82.0,12.0,Escherichia coli,No,No,Private health facilty,Mbale,Yes,20145.0,Namisindwa,Builder,Unknown,Unknown,Yes,No,No
+0,60.0,Female,Gynaecology,136.0,Unknown,Yes,95.0,36.3,20.0,97.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Mbale,Yes,18841.0,Mbale City,Boda boda rider,Unknown,Unknown,No,No,No
+1,1.0,Male,Surgical,137.0,Unknown,No,158.0,39.2,36.5,98.0,12.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Mbale,No,19845.0,Kapchorwa,Unemployed,Unknown,Unknown,Yes,No,No
+0,32.0,Female,Gynaecology,101.0,Unknown,No,121.0,36.4,34.0,91.0,15.0,Providencia spp,No,Yes,Lower-level public health facility,Mbale,No,20164.0,Rukungiri,Peasant,Unknown,Yes,No,Yes,No
+0,30.0,Female,Gynaecology,127.0,Unknown,No,84.0,38.8,20.0,76.0,15.0,Citrobacter spp,No,Yes,Private health facilty,Mbale,No,20268.0,Namisindwa,Electrician,Unknown,Yes,No,No,No
+0,37.0,Female,Gynaecology,119.0,Unknown,No,103.0,37.2,20.0,100.0,13.0,Escherichia coli,Yes,Yes,Private health facilty,Mbale,No,20166.0,Pallisa,Housewife,Unknown,Unknown,No,No,No
+0,35.0,Female,Gynaecology,114.0,Negative,No,101.0,36.6,16.0,84.0,15.0,Serratia spp,No,No,Lower-level public health facility,Mbale,No,20136.0,Mbale,Businessman,Yes,No,No,No,No
+0,17.0,Female,Gynaecology,118.0,Negative,No,126.0,36.8,20.0,98.0,15.0,Escherichia coli,No,Yes,Lower-level public health facility,Mbale,No,20030.0,Kibuku,Student,Unknown,Yes,No,No,No
+0,32.0,Female,Gynaecology,109.0,Negative,No,89.0,36.8,19.0,98.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Mbale,No,19984.0,Mbale,Peasant,Unknown,Unknown,No,No,No
+0,22.0,Female,Gynaecology,114.0,Unknown,Yes,86.0,36.5,17.0,99.0,15.0,Escherichia coli,No,No,Private health facilty,Mbale,No,20246.0,Mbale,Tailor,Unknown,Unknown,No,No,No
+0,29.0,Female,Gynaecology,152.0,Unknown,No,89.0,36.2,18.0,98.0,15.0,Streptococcus viridans,No,No,Regional referral hospital,Mbale,Yes,19972.0,Mbale,Turnboy,Unknown,Unknown,No,No,No
+1,50.0,Male,Surgical,87.0,Unknown,No,86.0,37.8,24.0,99.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbale,No,19345.0,Sironko,Parish chief,Unknown,Unknown,No,No,No
+0,24.0,Male,Surgical,110.0,Unknown,No,112.0,37.7,40.0,92.0,15.0,Proteus vulgaris,No,No,Lower-level public health facility,Mbale,Yes,19464.0,Mbale,Electrician,Unknown,Unknown,Yes,Yes,No
+0,59.0,Male,Surgical,143.0,Negative,Yes,63.0,35.8,24.0,99.0,15.0,Proteus vulgaris,No,Yes,Lower-level public health facility,Mbale,No,18938.0,Kibuku,Peasant,Unknown,Unknown,No,No,No
+0,35.0,Female,Gynaecology,125.0,Unknown,No,87.0,36.0,28.0,96.0,15.0,Klebsiella oxytoca,No,No,Lower-level public health facility,Mbale,No,17238.0,Mbale,Nurse,Unknown,Unknown,No,No,No
+0,50.0,Female,Medical,117.0,Unknown,No,87.0,36.0,18.0,99.0,15.0,Neisseria gonorrhoeae,No,No,Lower-level public health facility,Mbale,No,20203.0,Mbale,Businesswoman,Unknown,Unknown,No,No,No
+0,51.0,Male,Surgical,109.0,Unknown,No,160.0,38.0,18.0,97.0,13.0,Citrobacter koseri,No,No,Private health facilty,Mbale,No,20202.0,Busia,Businesswoman,Unknown,Unknown,No,No,No
+0,43.0,Female,Surgical,109.0,Unknown,Not specified,86.0,38.1,37.0,94.0,15.0,Coliform,No,No,Lower-level public health facility,Mbale,No,19094.0,Agaro,Unemployed,Unknown,Unknown,No,No,No
+0,37.0,Male,Orthopaedic,120.0,Unknown,No,92.0,36.6,28.0,97.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Mbale,No,20070.0,Mbale,Peasant,Unknown,Unknown,No,No,No
+0,7.0,Male,Orthopaedic,102.0,Unknown,No,126.0,38.4,28.0,96.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Mbale,No,19964.0,Sironko,Electrician,Unknown,No,No,No,No
+0,7.0,Male,Orthopaedic,119.0,Unknown,No,95.0,36.7,19.0,99.0,15.0,Pseudomonas aeruginosa,No,No,Private health facilty,Mbale,No,19874.0,Mbale,Hawker,Unknown,No,No,No,No
+0,28.0,Male,Orthopaedic,113.0,Unknown,No,103.0,37.8,21.0,93.0,15.0,Klebsiella oxytoca,No,No,Lower-level public health facility,Mbale,Yes,19885.0,Sironko,Carpenter,Unknown,Unknown,No,No,No
+0,50.0,Female,Surgical,130.0,Unknown,No,98.0,37.8,34.0,93.0,15.0,Proteus mirabilis,No,No,Lower-level public health facility,Mbale,Yes,19115.0,Mbale,Housewife,Unknown,No,No,No,No
+0,0.0,Male,Paediatric,147.0,Unknown,No,149.0,36.6,44.0,99.0,13.0,Staphylococcus spp,No,No,Private health facilty,Mbale,No,20033.0,Bukedea,Unemployed,Unknown,Unknown,No,Yes,No
+0,72.0,Male,Medical,125.0,Unknown,Yes,84.0,36.6,22.0,100.0,15.0,Enterobacter cloacae,No,No,Lower-level public health facility,Mbale,No,20143.0,Mbale,Prisoner,Unknown,Unknown,No,No,No
+0,23.0,Female,Maternity/Post-Natal ward,101.0,Unknown,No,98.0,36.4,20.0,98.0,15.0,Citrobacter spp,No,No,Lower-level public health facility,Mbale,No,19943.0,Mbale,Casual labourer,Unknown,Unknown,No,No,No
+0,1.0,Male,Paediatric,125.0,Unknown,No,140.0,37.1,45.0,96.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbale,No,20197.0,Budaka,Unemployed,Unknown,Unknown,No,Yes,No
+0,55.0,Male,Surgical,107.0,Unknown,No,121.0,36.7,26.0,97.0,15.0,Escherichia coli,No,Yes,Lower-level public health facility,Mbale,Yes,18991.0,Bukwo,Mechanic,Unknown,Yes,Yes,No,No
+0,1.0,Male,Accident and emergency,109.0,Unknown,Yes,142.0,37.8,44.0,92.0,15.0,Klebsiella oxytoca,No,No,Lower-level public health facility,Mbale,No,20227.0,Sironko,Electrician,Unknown,Unknown,No,Yes,No
+0,44.0,Male,Accident and emergency,120.0,Unknown,No,152.0,36.4,37.0,84.0,15.0,Staphylococcus epidermidis,No,No,Lower-level public health facility,Mbale,No,20222.0,Mbale City,Retired teacher,Unknown,Unknown,Yes,No,No
+1,39.0,Male,Medical,107.0,Positive,Yes,102.0,37.4,24.0,97.0,13.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Mbale,No,20221.0,Mbale,Retired teacher,Unknown,Unknown,No,No,Yes
+0,51.0,Female,Surgical,120.0,Unknown,No,78.0,36.5,26.0,98.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Mbale,No,18389.0,Mbale,Nurse,Unknown,Unknown,No,No,No
+1,60.0,Male,Surgical,143.0,Unknown,Yes,92.0,36.3,19.0,100.0,15.0,Acinetobacter spp,No,No,Lower-level public health facility,Mbale,No,20210.0,Mbale,Student,Unknown,Yes,No,No,No
+1,60.0,Male,Surgical,132.0,Unknown,Yes,83.0,36.0,20.0,99.0,15.0,Acinetobacter spp,No,No,Not specified,Mbale,No,20210.0,Mbale,Farmer,Unknown,Yes,No,No,No
+0,39.0,Male,Gynaecology,126.0,Unknown,No,84.0,36.7,20.0,97.0,14.0,Coagulate Negative Staph,No,No,Private health facilty,Mbale,No,20206.0,Mbale,Farmer,Unknown,Unknown,No,No,No
+0,19.0,Male,Surgical,127.0,Unknown,No,84.0,36.5,21.0,100.0,15.0,Pseudomonas aeruginosa,No,No,Private health facilty,Mbale,No,19775.0,Mbale,Farmer,Unknown,Unknown,No,No,No
+0,28.0,Female,Surgical,110.0,Unknown,No,74.0,36.6,36.0,95.0,15.0,Staphylococcus epidermidis,No,No,Regional referral hospital,Mbale,No,20207.0,Kampala,Businesswoman,Unknown,Unknown,Yes,No,No
+0,1.0,Male,Accident and emergency,110.0,Unknown,Yes,158.0,37.4,44.0,92.0,15.0,Klebsiella oxytoca,No,No,Lower-level public health facility,Mbale,No,20227.0,Sironko,Electrician,Unknown,Unknown,No,No,No
+0,34.0,Female,Surgical,114.0,Unknown,No,82.0,36.3,20.0,100.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbale,No,20213.0,Busia,Housewife,Unknown,Unknown,Yes,No,No
+0,1.0,Male,Paediatric,123.0,Unknown,No,158.0,39.2,54.0,90.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Mbale,No,20223.0,Budaka,Electrician,Unknown,Yes,No,Yes,No
+0,70.0,Female,Orthopaedic,146.0,Unknown,Yes,102.0,36.2,20.0,99.0,15.0,Proteus vulgaris,No,No,Lower-level public health facility,Mbale,No,20212.0,Mbale,Student,Unknown,Unknown,No,No,No
+0,45.0,Male,Surgical,177.0,Unknown,No,60.0,38.4,28.0,94.0,15.0,Escherichia coli,No,No,Private health facilty,Mbale,No,20175.0,Sironko,Peasant,Unknown,Unknown,Yes,No,No
+0,54.0,Male,ICU/HDU,158.0,Positive,Yes,57.0,38.4,36.5,84.0,15.0,Pseudomonas aeruginosa,No,No,Private health facilty,Mbale,No,18496.0,Busia,Mechanic,Unknown,Unknown,Yes,No,No
+0,23.0,Female,ICU/HDU,107.0,Unknown,No,98.0,35.7,24.0,99.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbale,No,18378.0,Mbale,Housewife,Unknown,Unknown,Yes,No,No
+0,55.0,Female,Medical,124.0,Unknown,No,70.0,36.3,18.0,100.0,15.0,Staphylococcus spp,No,No,Lower-level public health facility,Mbale,No,20079.0,Mbale,Peasant,Unknown,Unknown,No,No,No
+0,38.0,Female,Medical,89.0,Unknown,No,104.0,37.8,20.0,96.0,14.0,Citrobacter freundii,No,No,Regional referral hospital,Mbale,No,20061.0,Budaka,Peasant,Unknown,Unknown,No,No,No
+0,0.0,Male,Paediatric,130.0,Positive,No,107.0,37.4,42.0,96.0,14.0,Klebsiella oxytoca,No,No,Not specified,Mbale,No,19947.0,Mbale,Electrician,Unknown,Unknown,Yes,No,No
+0,44.0,Male,Medical,89.0,Unknown,No,88.0,36.6,40.0,95.0,15.0,Citrobacter koseri,No,No,Lower-level public health facility,Mbale,No,20222.0,Mbale,Retired teacher,Unknown,Unknown,Yes,No,No
+0,38.0,Male,Medical,114.0,Positive,Yes,68.0,36.3,24.0,98.0,15.0,Citrobacter spp,No,No,Not specified,Mbale,No,19970.0,Mbale,Peasant,Unknown,Unknown,No,No,No
+0,30.0,Male,Medical,125.0,Positive,Yes,86.0,36.2,25.0,99.0,14.0,Streptococcus pneumoniae,Yes,No,Not specified,Mbale,No,19974.0,Mbale,Farmer,Unknown,Unknown,No,No,Yes
+0,43.0,Female,Surgical,143.0,Unknown,No,83.0,35.8,20.0,99.0,15.0,Escherichia coli,No,Yes,Lower-level public health facility,Mbale,No,19920.0,Mbale,Turnboy,Unknown,Unknown,Yes,No,No
+1,0.0,Male,Surgical,125.0,Unknown,No,132.0,37.7,36.5,92.0,13.0,Staphylococcus aureus,No,Yes,Lower-level public health facility,Mbale,No,20085.0,Kamuli,Unemployed,Unknown,No,Yes,No,No
+1,45.0,Male,Surgical,152.0,Unknown,No,87.0,36.3,25.0,99.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbale,No,20147.0,Namisindwa,Prisoner,Unknown,Unknown,Yes,No,No
+0,62.0,Male,Surgical,113.0,Unknown,No,98.0,36.8,44.0,94.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbale,No,19189.0,Manafwa,Businesswoman,Unknown,Unknown,No,Yes,No
+0,17.0,Female,Surgical,125.0,Unknown,No,98.0,36.4,17.0,99.0,15.0,Enterobacter spp,No,No,Lower-level public health facility,Mbale,No,20129.0,Mbale City,Student,Unknown,Unknown,No,No,No
+0,24.0,Male,Medical,102.0,Unknown,No,106.0,36.7,32.0,97.0,15.0,Providencia spp,No,Yes,Not specified,Mbale,No,20182.0,Mbale,Prisoner,Unknown,No,No,Yes,No
+0,18.0,Male,Medical,109.0,Unknown,No,124.0,36.7,20.0,96.0,15.0,Providencia spp,Yes,Yes,Lower-level public health facility,Mbale,No,20168.0,Manafwa,Student,Unknown,No,Yes,No,No
+1,54.0,Female,Medical,118.0,Unknown,Yes,114.0,36.2,20.0,97.0,15.0,Escherichia coli,No,Yes,Not specified,Mbale,No,19987.0,Mbale,Peasant,Unknown,Unknown,No,Yes,No
+0,45.0,Female,Medical,126.0,Unknown,Yes,77.0,36.5,20.0,97.0,15.0,Escherichia coli,No,No,Regional referral hospital,Mbale,No,20054.0,Mbale,Turnboy,Unknown,Unknown,Yes,No,No
+0,21.0,Female,Surgical,113.0,Unknown,No,75.0,36.5,16.0,97.0,15.0,Citrobacter freundii,No,No,Lower-level public health facility,Mbale,No,19912.0,Sironko,Parish chief,Unknown,No,No,No,No
+0,13.0,Male,Surgical,123.0,Unknown,No,102.0,36.8,20.0,100.0,15.0,Escherichia coli,No,Yes,Lower-level public health facility,Mbale,No,19974.0,Bugweri,Hawker,Unknown,No,Yes,No,No
+1,43.0,Male,Surgical,98.0,Unknown,No,114.0,37.8,24.0,95.0,15.0,Klebsiella spp,No,No,Lower-level public health facility,Mbale,No,18975.0,Mbale,Turnboy,Unknown,Unknown,Yes,No,No
+1,60.0,Female,Medical,125.0,Positive,Yes,112.0,37.5,20.0,99.0,14.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Mbale,No,20241.0,Mbale,Retired teacher,Unknown,Unknown,No,No,Yes
+0,13.0,Male,Paediatric,123.0,Unknown,No,122.0,39.4,36.0,75.0,6.0,Vibrio cholera,No,Yes,Regional referral hospital,Mbale,No,20272.0,Soroti,Retired teacher,Unknown,Unknown,No,No,No
+0,45.0,Male,Surgical,122.0,Positive,No,96.0,36.2,22.0,99.0,15.0,Acinetobacter spp,No,No,Regional referral hospital,Mbale,No,20242.0,Soroti,Retired teacher,Unknown,Unknown,No,No,No
+0,61.0,Female,Medical,110.0,Positive,Yes,96.0,36.2,22.0,97.0,15.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Mbale,No,20234.0,Mbale,Retired teacher,Unknown,Unknown,No,No,Yes
+0,55.0,Male,Medical,120.0,Unknown,Yes,68.0,36.0,22.0,98.0,15.0,Klebsiella oxytoca,No,No,Lower-level public health facility,Mbale,No,20202.0,Mbale,Carpenter,Unknown,Unknown,Yes,No,No
+0,12.0,Male,Accident and emergency,90.0,Unknown,No,125.0,36.9,30.0,82.0,15.0,Providencia spp,No,Yes,Private health facilty,Mbale,No,20202.0,Rukungiri,Prisoner,Unknown,Yes,No,Yes,No
+0,29.0,Female,Gynaecology,115.0,Unknown,No,75.0,36.3,18.0,99.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbale,No,20201.0,Mbale,Businesswoman,Unknown,Unknown,Yes,No,No
+0,29.0,Female,Gynaecology,115.0,Unknown,No,75.0,36.3,18.0,99.0,15.0,Neisseria gonorrhoeae,No,No,Private health facilty,Mbale,No,20201.0,Mbale,Businesswoman,Unknown,Unknown,Yes,No,No
+0,0.0,Female,Surgical,109.0,Unknown,No,113.0,36.5,54.0,97.0,13.0,Salmonella typhi,No,No,Lower-level public health facility,Mbale,No,20202.0,Bukedea,Electrician,Unknown,Unknown,Yes,No,No
+0,15.0,Female,Gynaecology,100.0,Unknown,No,110.0,42.2,32.0,53.0,15.0,Vibrio cholera,No,No,Private health facilty,Mbale,No,20266.0,Mbale,Electrician,Unknown,Unknown,No,No,No
+0,15.0,Female,Gynaecology,118.0,Unknown,No,78.0,39.3,28.0,99.0,15.0,Vibrio cholera,No,No,Private health facilty,Mbale,No,20266.0,Mbale,Retired teacher,Unknown,Unknown,No,No,No
+0,40.0,Female,Gynaecology,121.0,Unknown,No,76.0,42.2,38.0,82.0,15.0,Vibrio cholera,No,Yes,Not specified,Mbale,No,20276.0,Mbale,Retired teacher,Unknown,Yes,Yes,No,No
+0,40.0,Female,Gynaecology,115.0,Unknown,No,94.0,37.8,20.0,89.0,15.0,Vibrio cholera,No,Yes,Not specified,Mbale,No,20276.0,Mbale,Retired teacher,Unknown,Yes,Yes,No,No
+0,25.0,Male,Medical,122.0,Unknown,No,102.0,38.1,32.0,74.0,14.0,Neisseria spp,Yes,No,Not specified,Mbale,No,20232.0,Mbale,Tailor,Unknown,Yes,Yes,Yes,Yes
+0,33.0,Female,Surgical,120.0,Unknown,No,61.0,40.0,20.0,99.0,15.0,Escherichia coli,No,No,Private health facilty,Mbale,No,20227.0,Mbale,Businesswoman,Unknown,No,No,No,No
+0,27.0,Female,Surgical,90.0,Unknown,No,95.0,37.7,21.0,98.0,15.0,Klebsiella pneumoniae,No,No,Private health facilty,Mbale,No,20234.0,Kasese,Businesswoman,Unknown,No,Yes,No,No
+0,67.0,Male,Surgical,131.0,Unknown,Yes,127.0,36.0,28.0,93.0,13.0,Enterococcus faecalis,No,No,Lower-level public health facility,Mbale,No,19459.0,Mbale,Builder,Unknown,Unknown,No,No,No
+0,38.0,Female,Surgical,116.0,Unknown,No,110.0,35.7,26.0,96.0,15.0,Citrobacter freundii,No,No,Lower-level public health facility,Mbale,No,18373.0,Sironko,Nurse,Unknown,Unknown,No,No,No
+0,35.0,Female,Surgical,119.0,Unknown,No,85.0,36.3,25.0,98.0,15.0,Escherichia coli,No,No,Regional referral hospital,Mbale,No,18895.0,Namutumba,Housewife,Unknown,Unknown,Yes,No,No
+0,45.0,Female,Medical,111.0,Unknown,No,129.0,36.3,26.0,94.0,15.0,Staphylococcus epidermidis,Yes,Yes,Private health facilty,Mbale,No,18906.0,Namisindwa,Farmer,Unknown,Unknown,No,No,Yes
+0,67.0,Male,Surgical,125.0,Unknown,No,76.0,36.2,20.0,97.0,15.0,Enterococcus faecalis,No,No,Private health facilty,Mbale,No,18870.0,Butaleja,Farmer,Unknown,Unknown,No,No,No
+0,27.0,Male,Surgical,127.0,Positive,Yes,133.0,36.8,19.0,99.0,15.0,Citrobacter freundii,No,No,Private health facilty,Mbale,No,19506.0,Kapchorwa,Carpenter,Unknown,Unknown,No,No,No
+0,3.0,Male,Paediatric,115.0,Unknown,No,128.0,36.2,30.0,97.0,15.0,Acinetobacter spp,No,No,Lower-level public health facility,Mbale,No,20191.0,Sironko,Electrician,Unknown,Unknown,No,Yes,No
+0,29.0,Female,Orthopaedic,115.0,Unknown,No,104.0,36.6,20.0,96.0,15.0,Enterococcus faecalis,No,No,Lower-level public health facility,Mbale,No,20152.0,Mbale,Prisoner,Unknown,Unknown,No,No,No
+0,12.0,Female,Orthopaedic,103.0,Unknown,No,96.0,36.2,40.0,100.0,15.0,Enterococcus ssp,No,No,Not specified,Mbale,No,20244.0,Mbale,Hawker,Unknown,Unknown,No,No,No
+0,53.0,Female,Orthopaedic,124.0,Unknown,Yes,133.0,35.8,36.5,97.0,13.0,Escherichia coli,No,No,Not specified,Mbale,Yes,20251.0,Sironko,Businesswoman,Unknown,Unknown,No,No,No
+0,22.0,Female,Orthopaedic,123.0,Unknown,No,84.0,36.2,20.0,99.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Mbale,No,19949.0,Kibuku,Peasant,Unknown,Unknown,No,No,No
+0,7.0,Male,Orthopaedic,100.0,Negative,No,87.0,38.4,34.0,98.0,15.0,Citrobacter koseri,No,No,Not specified,Mbale,No,19878.0,Mbale,Hawker,Unknown,No,No,No,No
+0,22.0,Female,Medical,90.0,Unknown,No,95.0,37.2,22.0,97.0,15.0,Escherichia coli,No,Yes,Lower-level public health facility,Mbale,Yes,20140.0,Mbale,Retired teacher,Unknown,Unknown,No,No,No
+1,43.0,Female,ICU/HDU,105.0,Positive,Yes,109.0,37.4,22.0,96.0,15.0,Klebsiella oxytoca,No,Yes,Lower-level public health facility,Gulu,Yes,19864.0,Tororo,Mechanic,Unknown,Unknown,Yes,No,No
+0,22.0,Female,Medical,90.0,Unknown,No,95.0,36.6,20.0,97.0,15.0,Escherichia coli,No,Yes,Lower-level public health facility,Mbale,Yes,20140.0,Mbale,Tailor,Unknown,Unknown,No,No,No
+0,64.0,Male,Surgical,115.0,Positive,Yes,82.0,36.5,34.0,92.0,15.0,Escherichia coli,No,No,Private health facilty,Mbale,Yes,20200.0,Bulambuli,Mechanic,Unknown,Unknown,Yes,No,No
+0,17.0,Male,Medical,131.0,Unknown,No,106.0,38.1,27.0,97.0,15.0,Enterococcus faecalis,No,Yes,Lower-level public health facility,Mbale,No,20128.0,Budaka,Student,Unknown,No,No,Yes,No
+0,90.0,Male,Medical,155.0,Unknown,Yes,73.0,37.0,28.0,100.0,15.0,Escherichia coli,Yes,Yes,Private health facilty,Mbale,Yes,20093.0,Pallisa,Boda boda rider,Unknown,Yes,No,No,No
+0,65.0,Male,Medical,150.0,Negative,Yes,79.0,37.8,50.0,82.0,14.0,Neisseria gonorrhoeae,No,No,Regional referral hospital,Mbale,No,20266.0,Mbale,Retired teacher,Unknown,Unknown,Yes,Yes,No
+0,52.0,Female,Surgical,151.0,Unknown,Yes,123.0,39.3,42.0,87.0,4.0,Staphylococcus spp,No,Yes,Lower-level public health facility,Mbale,Yes,20026.0,Kween,Driver,Unknown,Unknown,No,No,No
+0,60.0,Male,Surgical,136.0,Positive,Yes,110.0,36.3,22.0,97.0,15.0,Escherichia coli,No,Yes,Lower-level public health facility,Mbale,Yes,20047.0,Sironko,Mechanic,Unknown,Unknown,No,No,No
+0,34.0,Female,Surgical,111.0,Negative,No,142.0,36.7,31.0,93.0,15.0,Providencia spp,No,Yes,Lower-level public health facility,Mbale,Yes,19980.0,Kibuku,Unemployed,Unknown,Unknown,Yes,No,No
+0,73.0,Male,ICU/HDU,138.0,Unknown,Not specified,102.0,36.0,20.0,98.0,15.0,Citrobacter freundii,No,Yes,Private health facilty,Mbale,Yes,18518.0,Manafwa,Farmer,Unknown,Unknown,Yes,No,No
+0,50.0,Male,Surgical,112.0,Unknown,Not specified,87.0,37.3,26.0,100.0,15.0,Enterobacter spp,No,Yes,Lower-level public health facility,Mbale,Yes,18393.0,Sironko,Farmer,Unknown,Yes,Yes,No,No
+0,63.0,Male,Medical,114.0,Unknown,Yes,86.0,35.6,20.0,96.0,15.0,Klebsiella oxytoca,No,No,Lower-level public health facility,Mbale,No,20230.0,Ibanda,Retired teacher,Unknown,Unknown,No,No,No
+1,68.0,Female,Surgical,107.0,Unknown,No,103.0,38.4,34.0,92.0,14.0,Klebsiella spp,No,No,Lower-level public health facility,Mbale,No,18909.0,Mbale,Peasant,Unknown,No,No,No,No
+0,60.0,Female,Surgical,126.0,Unknown,No,84.0,36.5,20.0,99.0,15.0,Proteus spp,No,No,Private health facilty,Mbale,No,19336.0,Bulambuli,Carpenter,Unknown,Unknown,No,No,No
+0,30.0,Male,Surgical,111.0,Unknown,No,105.0,36.0,21.0,99.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Mbale,No,18994.0,Mbale,Turnboy,Unknown,Unknown,No,No,No
+1,42.0,Male,Surgical,122.0,Negative,Yes,111.0,36.4,20.0,97.0,14.0,Escherichia coli,No,No,Private health facilty,Mbale,Yes,19084.0,Mbale,Prisoner,Unknown,Unknown,No,No,No
+0,35.0,Male,Surgical,95.0,Negative,No,146.0,37.3,32.0,99.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbale,No,18667.0,Namayingo,Tailor,Unknown,Unknown,Yes,No,No
+1,55.0,Female,Surgical,100.0,Unknown,Yes,95.0,37.4,18.0,80.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbale,Yes,19162.0,Budaka,Mechanic,Unknown,Unknown,Yes,No,No
+0,21.0,Female,Gynaecology,125.0,Unknown,No,110.0,36.3,18.0,98.0,15.0,Enterococcus faecium,No,Yes,Lower-level public health facility,Mbale,Yes,20195.0,Mbale,Businesswoman,Unknown,Unknown,No,No,No
+0,21.0,Female,Gynaecology,125.0,Unknown,No,110.0,36.0,20.0,100.0,15.0,Acinetobacter spp,No,Yes,Lower-level public health facility,Mbale,Yes,20195.0,Mbale,Businesswoman,Unknown,Unknown,No,No,No
+0,23.0,Female,ICU/HDU,114.0,Unknown,No,110.0,35.8,18.0,99.0,14.0,Enterobacterales,Yes,Yes,Lower-level public health facility,Mbale,Yes,20261.0,Kapchorwa,Businesswoman,Unknown,Unknown,No,No,No
+0,19.0,Female,Medical,108.0,Unknown,No,112.0,37.2,24.0,96.0,14.0,Streptococcus pneumoniae,Yes,No,Not specified,Mbale,No,20149.0,Bukedea,Student,Unknown,Unknown,No,Yes,Yes
+0,14.0,Male,Medical,96.0,Positive,Yes,125.0,37.2,32.0,96.0,15.0,Citrobacter spp,Yes,Yes,Private health facilty,Mbale,No,20177.0,Tororo,Prisoner,Unknown,Unknown,No,Yes,No
+0,16.0,Male,Surgical,98.0,Unknown,No,88.0,37.5,20.0,97.0,15.0,Escherichia coli,No,Yes,Lower-level public health facility,Mbale,No,19962.0,Bulambuli,Student,Unknown,Unknown,Yes,No,No
+0,31.0,Male,Accident and emergency,125.0,Unknown,No,86.0,36.5,19.0,98.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Mbale,No,19968.0,Manafwa,Carpenter,Unknown,Unknown,Yes,No,No
+0,18.0,Male,ICU/HDU,104.0,Unknown,No,84.0,36.0,28.0,99.0,15.0,Staphylococcus saprophyticus,No,Yes,Lower-level public health facility,Mbale,No,20250.0,Bulambuli,Midwife,Unknown,Unknown,Yes,No,No
+0,52.0,Female,Surgical,112.0,Negative,No,92.0,36.5,30.0,98.0,15.0,Escherichia coli,No,Yes,Lower-level public health facility,Mbale,No,18988.0,Bukwo,Farmer,Unknown,Yes,Yes,No,No
+0,22.0,Female,Surgical,90.0,Unknown,No,93.0,37.8,14.0,97.0,15.0,Pseudomonas aeruginosa,No,No,Lower-level public health facility,Mbale,Yes,20017.0,Mbale,Casual labourer,Unknown,Yes,Yes,No,No
+0,54.0,Male,Surgical,156.0,Unknown,Yes,86.0,36.8,20.0,99.0,15.0,Citrobacter spp,No,No,Lower-level public health facility,Mbale,No,20134.0,Mbale,Peasant,Unknown,Unknown,No,No,No
+0,20.0,Male,Surgical,103.0,Unknown,No,110.0,36.5,20.0,96.0,15.0,Staphylococcus aureus,No,Yes,Private health facilty,Mbale,No,19842.0,Kibuku,Teacher,Unknown,No,No,No,No
+0,39.0,Male,Surgical,126.0,Unknown,Yes,119.0,36.8,28.0,96.0,15.0,Citrobacter spp,No,Yes,Private health facilty,Mbale,No,20127.0,Mbale,Businessman,Unknown,Unknown,Yes,No,No
+0,78.0,Female,Surgical,110.0,Unknown,Yes,104.0,39.1,19.0,85.0,12.0,Klebsiella pneumoniae,No,No,Not specified,Mbarara,No,19950.0,Isingiro,Boda boda rider,Unknown,No,No,No,No
+0,39.0,Male,ICU/HDU,132.0,Unknown,No,84.0,35.8,28.0,94.0,15.0,Klebsiella aerogenes,No,No,Private health facilty,Mbarara,No,20164.0,Masaka,Peasant,Unknown,No,No,Yes,No
+0,40.0,Female,Medical,89.0,Unknown,Yes,101.0,37.8,26.0,96.0,15.0,Enterobacter spp,No,No,Lower-level public health facility,Mbarara,No,19296.0,Rwampara,Teacher,Unknown,No,No,Yes,No
+0,24.0,Male,Surgical,107.0,Unknown,No,119.0,36.2,27.0,96.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Mbarara,No,19928.0,Isingiro,Tailor,Unknown,No,No,No,No
+0,23.0,Female,Gynaecology,119.0,Unknown,No,102.0,36.7,20.0,98.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbarara,No,20151.0,Mbarara,Parish chief,Unknown,Unknown,No,No,No
+1,64.0,Male,Medical,74.0,Positive,Yes,101.0,37.0,25.0,99.0,14.0,Citrobacter spp,No,No,Lower-level public health facility,Mbarara,No,19846.0,Mitooma,Social worker,Unknown,No,No,No,No
+0,19.0,Female,Gynaecology,103.0,Unknown,No,96.0,35.6,17.0,98.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbarara,No,20162.0,Mbarara,Student,Unknown,Unknown,No,No,No
+0,48.0,Female,Medical,151.0,Unknown,Yes,112.0,37.4,36.0,84.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Mbarara,No,20110.0,Kamwengye,Housewife,Unknown,Unknown,No,Yes,No
+0,50.0,Male,Surgical,121.0,Unknown,No,92.0,36.5,19.0,99.0,15.0,Acinetobacter spp,No,No,Private health facilty,Mbarara,No,20139.0,Mitooma,Farmer,Unknown,No,No,No,No
+0,0.0,Female,Paediatric,119.0,Unknown,No,172.0,37.7,54.0,93.0,15.0,Klebsiella pneumoniae,Yes,No,Not specified,Mbarara,No,19975.0,Isingiro,Unemployed,Unknown,No,Yes,No,No
+0,0.0,Male,Paediatric,118.0,Unknown,No,150.0,36.7,54.0,94.0,15.0,Pseudomonas aeruginosa,No,No,Lower-level public health facility,Mbarara,No,20095.0,Ruhambo,Electrician,Unknown,No,No,Yes,No
+1,0.0,Female,Paediatric,132.0,Unknown,No,193.0,38.0,44.0,99.0,12.0,Staphylococcus aureus,No,Yes,Lower-level public health facility,Mbarara,No,19105.0,Isingiro,Unemployed,Unknown,No,No,Yes,No
+0,74.0,Male,Medical,143.0,Negative,Yes,88.0,38.2,42.0,91.0,13.0,Shigella Spp,No,No,Lower-level public health facility,Mbarara,Yes,19954.0,Isingiro,Teacher,Unknown,No,No,Yes,No
+0,73.0,Female,Medical,124.0,Negative,Yes,76.0,35.6,20.0,99.0,15.0,Enterobacter cloacae,No,No,Lower-level public health facility,Mbarara,No,19994.0,Isingiro,Student,Unknown,No,No,No,No
+0,0.0,Female,Paediatric,120.0,Negative,No,144.0,37.8,59.0,88.0,14.0,Escherichia coli,No,No,Private health facilty,Mbarara,No,19130.0,Mbarara,Unemployed,Unknown,No,No,Yes,No
+0,41.0,Female,Medical,92.0,Positive,Yes,106.0,37.5,36.0,100.0,15.0,Citrobacter freundii,No,Yes,Lower-level public health facility,Mbarara,No,20012.0,Ntungamo,Social worker,Unknown,Unknown,No,No,No
+0,46.0,Female,Medical,125.0,Unknown,Yes,89.0,36.3,17.0,96.0,15.0,Staphylococcus epidermidis,No,No,Lower-level public health facility,Mbarara,No,20049.0,Bushenyi,Carpenter,Unknown,Unknown,No,No,No
+0,31.0,Male,Medical,146.0,Unknown,No,129.0,39.3,32.0,85.0,4.0,Streptococcus pneumoniae,Yes,No,Regional referral hospital,Mbarara,No,20013.0,Isingiro,Boda boda rider,Unknown,Unknown,No,Yes,Yes
+0,36.0,Male,Medical,135.0,Negative,Yes,94.0,36.6,28.0,92.0,15.0,Serratia spp,No,No,Not specified,Mbarara,No,20059.0,Mbarara,Builder,Unknown,No,No,Yes,No
+0,73.0,Female,ICU/HDU,125.0,Unknown,Yes,88.0,36.9,28.0,98.0,15.0,Enterococcus faecium,No,Yes,Private health facilty,Mbarara,No,20239.0,Alebtongo,Retired teacher,Unknown,Yes,No,Yes,No
+0,0.0,Male,Paediatric,117.0,Unknown,No,115.0,37.9,38.0,95.0,14.0,Staphylococcus aureus,No,Yes,Lower-level public health facility,Mbarara,No,19930.0,Lyantonde,Hawker,Unknown,Yes,No,No,No
+0,28.0,Male,Medical,135.0,Unknown,No,61.0,38.8,22.0,97.0,15.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Mbarara,No,20053.0,Mbarara,Peasant,Unknown,Unknown,No,No,Yes
+0,29.0,Female,Medical,120.0,Unknown,Yes,90.0,36.3,21.0,99.0,15.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Mbarara,No,20002.0,Rwampara,Unemployed,Unknown,Unknown,Yes,No,Yes
+0,0.0,Male,Medical,120.0,Unknown,No,102.0,37.8,40.0,96.0,15.0,Shigella Spp,No,No,Lower-level public health facility,Mbarara,No,20069.0,Mbarara,Electrician,Unknown,Unknown,Yes,No,No
+0,35.0,Male,Medical,135.0,Unknown,No,87.0,36.5,20.0,99.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Mbarara,No,20027.0,Kazo,Carpenter,Unknown,Unknown,Yes,No,No
+0,30.0,Male,Medical,113.0,Positive,Yes,118.0,37.5,34.0,90.0,15.0,Aeromonas spp,No,Yes,Lower-level public health facility,Mbarara,No,20027.0,Rwampara,Social worker,Unknown,Unknown,No,Yes,No
+0,18.0,Male,Medical,116.0,Positive,Yes,115.0,38.6,27.0,95.0,14.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Mbarara,Yes,20081.0,Mbarara,Mechanic,Unknown,No,No,No,Yes
+0,53.0,Female,Medical,102.0,Unknown,Yes,94.0,37.5,32.0,94.0,15.0,Proteus vulgaris,No,Yes,Lower-level public health facility,Mbarara,No,20002.0,Mbarara,Student,Unknown,Unknown,No,Yes,No
+0,95.0,Female,Medical,150.0,Unknown,No,116.0,38.7,32.0,92.0,6.0,Proteus vulgaris,No,No,Lower-level public health facility,Mbarara,No,20081.0,Lyantonde,Social worker,Unknown,No,No,Yes,No
+1,54.0,Male,Medical,134.0,Unknown,Yes,98.0,36.3,38.0,79.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbarara,No,20037.0,Ntoroko,Electrician,Unknown,Unknown,Yes,No,No
+0,30.0,Female,Medical,100.0,Unknown,No,115.0,37.8,20.0,95.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Mbarara,No,20081.0,Rwampara,Peasant,Unknown,Unknown,No,No,No
+0,45.0,Female,Medical,126.0,Positive,Yes,96.0,36.7,20.0,98.0,15.0,Staphylococcus aureus,Yes,No,Not specified,Mbarara,No,20122.0,Isingiro,Businessman,Unknown,Unknown,No,No,No
+0,84.0,Female,Medical,134.0,Negative,Yes,105.0,37.9,40.0,84.0,12.0,Acinetobacter baumannii,No,No,Private health facilty,Mbarara,No,20000.0,Mbarara,Electrician,Unknown,No,No,Yes,No
+0,30.0,Male,ICU/HDU,129.0,Unknown,No,160.0,37.0,51.0,78.0,13.0,Acinetobacter spp,No,No,Private health facilty,Mbarara,No,19911.0,Mbarara,Electrician,Unknown,No,No,Yes,No
+0,36.0,Male,Surgical,156.0,Unknown,No,87.0,36.0,22.0,96.0,15.0,Escherichia coli,No,No,Not specified,Mbarara,No,20192.0,Mbarara,Carpenter,Unknown,No,Yes,No,No
+1,20.0,Male,Medical,144.0,Unknown,No,100.0,39.4,28.0,96.0,13.0,Klebsiella pneumoniae,Yes,No,Lower-level public health facility,Mbarara,No,19227.0,Sembabule,Peasant,Unknown,No,No,No,No
+1,40.0,Male,Medical,75.0,Negative,No,94.0,35.6,24.0,93.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbarara,No,19214.0,Kiruhura,Nurse,Unknown,No,No,No,No
+0,20.0,Female,Medical,105.0,Negative,No,130.0,38.7,28.0,94.0,4.0,Escherichia coli,Yes,No,Private health facilty,Mbarara,No,19069.0,Sheema,Student,Unknown,No,No,No,No
+0,59.0,Female,Medical,80.0,Negative,Yes,101.0,38.4,40.0,85.0,14.0,Escherichia coli,Yes,No,Private health facilty,Mbarara,No,19935.0,Sheema,Teacher,Unknown,No,No,No,No
+0,2.0,Female,Medical,113.0,Unknown,No,148.0,37.2,54.0,97.0,15.0,Klebsiella aerogenes,No,Yes,Lower-level public health facility,Mbarara,No,20019.0,Bushenyi,Unemployed,Unknown,No,No,Yes,No
+0,32.0,Female,Medical,121.0,Positive,Yes,115.0,36.8,20.0,98.0,14.0,Escherichia coli,Yes,No,Lower-level public health facility,Mbarara,No,20118.0,Mbarara,Peasant,Unknown,Yes,No,Yes,No
+0,63.0,Female,Medical,151.0,Negative,No,67.0,38.7,20.0,97.0,12.0,Escherichia coli,No,No,Private health facilty,Mbarara,No,19970.0,Mbarara,Student,Unknown,No,No,No,No
+1,73.0,Female,ICU/HDU,138.0,Negative,Yes,63.0,37.7,16.0,100.0,15.0,Acinetobacter baumannii,No,No,Lower-level public health facility,Mbarara,No,20147.0,Mbarara,Casual labourer,Unknown,No,Yes,No,No
+0,49.0,Female,Accident and emergency,225.0,Positive,Yes,87.0,36.2,20.0,100.0,15.0,Escherichia coli,Yes,No,Lower-level public health facility,Mbarara,No,20103.0,Mubende,Mechanic,Unknown,No,No,No,No
+0,86.0,Male,Surgical,81.0,Unknown,No,84.0,37.7,32.0,89.0,4.0,Escherichia coli,No,No,Private health facilty,Mbarara,No,19201.0,Mbarara,Peasant,Unknown,No,No,No,No
+1,36.0,Male,Medical,82.0,Positive,Yes,100.0,38.4,26.0,97.0,15.0,Klebsiella spp,No,No,Not specified,Mbarara,No,19194.0,Mbarara,Teacher,Unknown,No,No,Yes,No
+0,58.0,Female,Surgical,109.0,Negative,Yes,93.0,36.5,22.0,96.0,15.0,Citrobacter freundii,No,No,Private health facilty,Mbarara,No,20046.0,Bushenyi,Peasant,Unknown,No,No,No,No
+0,43.0,Male,Surgical,110.0,Positive,Yes,84.0,36.9,40.0,96.0,15.0,Aeromonas spp,No,No,Lower-level public health facility,Mbarara,No,19218.0,Mbarara,Mechanic,Unknown,No,No,No,No
+0,27.0,Female,Gynaecology,112.0,Negative,No,101.0,37.0,38.0,82.0,15.0,Escherichia coli,No,No,Not specified,Mbarara,No,20240.0,Ntugamo,Electrician,Unknown,No,No,No,No
+0,38.0,Male,Surgical,101.0,Negative,No,78.0,38.2,20.0,96.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Mbarara,No,20194.0,Isingiro,Businesswoman,Unknown,No,No,No,No
+0,48.0,Female,Surgical,89.0,Unknown,Yes,86.0,37.8,20.0,95.0,15.0,Acinetobacter baumannii,No,No,Private health facilty,Mbarara,No,20158.0,Mbarara,Teacher,Unknown,No,Yes,No,No
+0,22.0,Female,Gynaecology,88.0,Negative,No,115.0,38.3,22.0,94.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbarara,No,20129.0,Rwekubo,Tailor,Unknown,No,No,No,No
+0,31.0,Male,Medical,114.0,Negative,No,131.0,36.4,20.0,94.0,14.0,Pseudomonas spp,No,No,Not specified,Mbarara,No,20143.0,Rugando,Builder,Unknown,No,No,No,No
+0,30.0,Female,Gynaecology,126.0,Negative,No,76.0,36.3,20.0,100.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbarara,No,20095.0,Misenyi,Peasant,Unknown,No,No,No,No
+0,73.0,Male,Surgical,103.0,Negative,No,77.0,38.3,18.0,98.0,15.0,Enterobacter cloacae,No,No,Lower-level public health facility,Mbarara,No,20193.0,Mbarara,Prisoner,Unknown,No,No,No,No
+0,10.0,Male,Surgical,129.0,Negative,No,152.0,38.4,30.0,96.0,14.0,Proteus mirabilis,No,No,Lower-level public health facility,Mbarara,Yes,20140.0,Mbarara,Tailor,Unknown,No,No,No,No
+0,24.0,Female,Gynaecology,123.0,Negative,No,123.0,37.7,26.0,95.0,15.0,Escherichia coli,No,No,Private health facilty,Mbarara,No,20124.0,Mbarara,Tailor,Unknown,No,No,No,No
+0,60.0,Female,Accident and emergency,101.0,Negative,No,111.0,37.4,21.0,93.0,7.0,Pseudomonas spp,No,No,Lower-level public health facility,Mbarara,No,20066.0,Kisoro,Builder,Unknown,No,No,Yes,No
+0,31.0,Female,Medical,126.0,Unknown,Yes,136.0,37.8,32.0,91.0,14.0,Pseudomonas spp,No,No,Private health facilty,Mbarara,No,20080.0,Mbarara,Electrician,Unknown,No,No,Yes,No
+0,64.0,Female,Medical,168.0,Unknown,Yes,84.0,37.4,28.0,80.0,13.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Mbarara,No,20130.0,Isingiro,Driver,Unknown,Unknown,No,Yes,Yes
+0,29.0,Female,Medical,145.0,Unknown,Yes,105.0,36.7,27.0,100.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Mbarara,No,20017.0,Ntungamo,Housewife,Unknown,Unknown,No,Yes,No
+0,56.0,Male,Medical,102.0,Positive,Yes,76.0,36.7,28.0,96.0,15.0,Pseudomonas spp,No,No,Private health facilty,Mbarara,No,19264.0,Mbarara,Mechanic,Unknown,Unknown,No,Yes,No
+0,48.0,Female,Surgical,114.0,Unknown,No,84.0,36.5,22.0,100.0,15.0,Klebsiella pneumoniae,Yes,No,Not specified,Mbarara,Yes,19996.0,Mitooma,Businessman,Unknown,Unknown,No,No,No
+0,84.0,Female,Medical,140.0,Negative,No,73.0,38.0,33.0,95.0,15.0,Klebsiella pneumoniae,No,No,Not specified,Mbarara,No,19954.0,Rakai,Peasant,Unknown,Unknown,No,Yes,No
+0,50.0,Female,Medical,123.0,Negative,No,73.0,36.8,18.0,99.0,15.0,Escherichia coli,Yes,No,Lower-level public health facility,Mbarara,No,19968.0,Bushenyi,Prisoner,Unknown,Unknown,No,No,No
+0,28.0,Female,Medical,145.0,Positive,Yes,103.0,36.2,24.0,96.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Mbarara,No,20103.0,Kamwengye,Midwife,Unknown,Unknown,No,Yes,No
+0,5.0,Female,Surgical,92.0,Unknown,No,130.0,36.9,30.0,95.0,15.0,Providencia spp,No,Yes,Lower-level public health facility,Mbarara,No,20055.0,Isingiro,Student,Unknown,Unknown,No,No,No
+0,29.0,Female,ICU/HDU,129.0,Unknown,No,62.0,40.0,27.0,97.0,15.0,Klebsiella pneumoniae,Yes,No,Not specified,Mbarara,No,19977.0,Mbarara,Housewife,Unknown,Unknown,No,Yes,No
+0,72.0,Male,Medical,109.0,Positive,Yes,82.0,36.5,28.0,97.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Mbarara,No,20027.0,Rwampara,Prisoner,Unknown,Unknown,No,Yes,No
+0,44.0,Male,Medical,148.0,Unknown,No,65.0,36.0,22.0,99.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbarara,No,19986.0,Misenyi,Carpenter,Unknown,Unknown,No,No,No
+0,22.0,Female,Surgical,125.0,Unknown,No,114.0,35.6,17.0,100.0,15.0,Enterococcus faecium,No,No,Lower-level public health facility,Mbarara,No,20239.0,Mbarara,Tailor,Unknown,Unknown,No,No,No
+0,0.0,Male,NICU Unit,122.0,Unknown,No,136.0,37.8,42.0,95.0,14.0,Escherichia coli,Yes,Yes,Lower-level public health facility,Mbarara,No,20138.0,Ntungamo,Unemployed,Unknown,Yes,No,No,No
+0,29.0,Female,Medical,125.0,Unknown,No,86.0,36.3,17.0,100.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Mbarara,No,20161.0,Isingiro,Carpenter,Unknown,Unknown,Yes,No,No
+0,41.0,Female,Gynaecology,110.0,Unknown,No,96.0,36.7,17.0,98.0,15.0,Serratia spp,No,Yes,Lower-level public health facility,Mbarara,No,20135.0,Bushenyi,Peasant,Unknown,Unknown,No,No,No
+0,30.0,Female,Gynaecology,121.0,Unknown,No,112.0,38.3,20.0,97.0,14.0,Enterobacter cloacae,No,No,Lower-level public health facility,Mbarara,No,20145.0,Ntungamo,Businesswoman,Unknown,Unknown,Yes,No,No
+0,21.0,Female,Gynaecology,104.0,Negative,No,99.0,36.7,18.0,99.0,15.0,Klebsiella pneumoniae,No,No,Not specified,Mbarara,No,20164.0,Mbarara,Driver,Unknown,Unknown,No,No,No
+0,1.0,Male,Surgical,133.0,Unknown,No,143.0,37.0,36.0,95.0,15.0,Proteus mirabilis,No,Yes,Lower-level public health facility,Mbarara,No,20094.0,Kaisha -Tanzanis,Builder,Unknown,Unknown,No,No,No
+0,65.0,Male,Surgical,96.0,Unknown,No,79.0,38.1,20.0,97.0,15.0,Escherichia coli,No,No,Private health facilty,Mbarara,No,19300.0,Rakai,Parish chief,Unknown,Unknown,No,No,No
+0,51.0,Female,Surgical,106.0,Unknown,Yes,94.0,36.2,19.0,95.0,15.0,Staphylococcus aureus,No,Yes,Lower-level public health facility,Mbarara,No,19307.0,Ibanda,Peasant,Unknown,No,No,No,No
+0,0.0,Male,Paediatric,108.0,Unknown,No,159.0,37.4,55.0,96.0,15.0,Proteus mirabilis,No,No,Lower-level public health facility,Mbarara,No,19928.0,Kazo,Unemployed,Unknown,Unknown,No,No,No
+0,47.0,Female,Surgical,108.0,Unknown,Yes,110.0,36.1,17.0,97.0,15.0,Escherichia coli,No,Yes,Lower-level public health facility,Mbarara,No,19282.0,Kazo,Farmer,Unknown,Yes,No,No,No
+0,5.0,Female,Paediatric,123.0,Unknown,No,120.0,36.8,23.0,95.0,15.0,Serratia spp,No,No,Lower-level public health facility,Mbarara,No,19937.0,Kyenjojo,Student,Unknown,Unknown,No,No,No
+0,87.0,Female,Medical,138.0,Unknown,No,121.0,39.5,44.0,79.0,14.0,Providencia spp,No,Yes,Lower-level public health facility,Mbarara,No,19996.0,Mbarara,Boda boda rider,Unknown,Yes,No,Yes,No
+0,100.0,Female,Medical,119.0,Unknown,No,86.0,36.3,20.0,94.0,15.0,Proteus vulgaris,No,No,Not specified,Mbarara,No,20025.0,Isingiro,Retired teacher,Unknown,Unknown,No,No,No
+0,36.0,Male,Medical,88.0,Unknown,No,96.0,37.7,28.0,100.0,15.0,Klebsiella oxytoca,No,No,Lower-level public health facility,Mbarara,No,20007.0,Rukungiri,Unemployed,Unknown,Unknown,No,Yes,No
+0,26.0,Female,Gynaecology,118.0,Unknown,No,80.0,36.7,20.0,99.0,15.0,Enterobacter spp,No,No,Regional referral hospital,Mbarara,No,20151.0,Mbarara,Turnboy,Unknown,No,No,No,No
+0,36.0,Male,Orthopaedic,127.0,Unknown,No,116.0,36.8,18.0,96.0,15.0,Acinetobacter spp,No,No,Lower-level public health facility,Mbarara,No,19805.0,Rubanda,Carpenter,Unknown,No,No,No,No
+0,49.0,Female,Medical,85.0,Unknown,Yes,62.0,43.0,39.0,96.0,15.0,Acinetobacter baumannii,No,No,Private health facilty,Mbarara,No,20192.0,Mbarara,Teacher,Unknown,Yes,Yes,No,No
+0,26.0,Female,Gynaecology,115.0,Unknown,No,102.0,35.6,20.0,100.0,15.0,Klebsiella pneumoniae,No,No,Lower-level public health facility,Mbarara,No,20147.0,Mbarara,Carpenter,Unknown,No,No,No,No
+0,22.0,Female,Gynaecology,124.0,Unknown,No,87.0,36.5,16.0,100.0,15.0,Escherichia coli,No,No,Not specified,Mbarara,No,20204.0,Rukungiri,Tailor,Unknown,No,No,No,No
+0,23.0,Female,Maternity/Post-Natal ward,109.0,Unknown,No,102.0,38.6,18.0,100.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Mbarara,No,19806.0,Kyempisi,Casual labourer,Unknown,No,No,No,No
+0,24.0,Female,Maternity/Post-Natal ward,122.0,Unknown,No,86.0,36.4,20.0,100.0,15.0,Klebsiella spp,No,No,Private health facilty,Mbarara,No,20169.0,Kyempisi,Businesswoman,Unknown,No,No,No,No
+1,22.0,Male,ICU/HDU,117.0,Unknown,No,123.0,37.7,24.0,98.0,15.0,Enterobacter cloacae,No,No,Lower-level public health facility,Mbarara,No,20121.0,Sembabule,Unemployed,Unknown,No,No,No,No
+0,58.0,Male,Medical,157.0,Unknown,No,101.0,36.7,36.0,92.0,15.0,Serratia spp,No,Yes,Lower-level public health facility,Mbarara,No,20142.0,Isingiro,Electrician,Unknown,Unknown,No,Yes,No
+0,20.0,Male,Medical,99.0,Negative,No,136.0,36.9,23.0,96.0,15.0,Proteus mirabilis,No,No,Lower-level public health facility,Mbarara,No,20049.0,Mbarara,Student,Unknown,Unknown,No,Yes,No
+0,35.0,Male,Medical,119.0,Unknown,No,76.0,36.3,22.0,99.0,15.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Mbarara,No,20005.0,Kazo,Peasant,Unknown,Unknown,No,No,Yes
+0,35.0,Female,Medical,130.0,Positive,Yes,95.0,36.5,26.0,97.0,15.0,Klebsiella aerogenes,No,No,Not specified,Mbarara,No,20020.0,Mbarara,Housewife,Unknown,Unknown,No,Yes,No
+0,29.0,Female,Medical,117.0,Positive,Yes,88.0,36.6,19.0,97.0,15.0,Enterobacterales,No,No,Not specified,Mbarara,No,19996.0,Buvuma,Carpenter,Unknown,Unknown,Yes,No,No
+0,63.0,Male,Medical,109.0,Positive,Yes,75.0,36.8,21.0,98.0,15.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Mbarara,No,19960.0,Rwampala,Carpenter,Unknown,Unknown,No,No,Yes
+0,64.0,Male,Surgical,131.0,Unknown,Yes,84.0,36.3,22.0,97.0,15.0,Escherichia coli,No,No,Regional referral hospital,Soroti,No,20062.0,Isingiro,Carpenter,Unknown,Unknown,No,No,No
+0,18.0,Female,Maternity/Post-Natal ward,104.0,Unknown,No,79.0,36.8,16.0,99.0,15.0,Acinetobacter baumannii,No,No,Private health facilty,Soroti,No,19825.0,Soroti City,Housewife,Unknown,Unknown,No,No,No
+0,24.0,Male,Surgical,130.0,Unknown,No,103.0,37.8,26.0,96.0,15.0,Staphylococcus aureus,No,No,Private health facilty,Soroti,No,20185.0,Ngora,Farmer,Unknown,Yes,No,No,No
+0,36.0,Male,Medical,114.0,Positive,No,79.0,38.1,20.0,97.0,14.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Soroti,No,19902.0,Soroti,Farmer,Unknown,No,Yes,No,Yes
+0,34.0,Male,Surgical,126.0,Unknown,Yes,116.0,36.8,26.0,97.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Soroti,Yes,19950.0,Soroti,Boda boda rider,Unknown,Unknown,No,No,No
+0,16.0,Female,Maternity/Post-Natal ward,113.0,Unknown,No,114.0,38.8,20.0,82.0,15.0,Escherichia coli,No,No,Private health facilty,Soroti,No,20268.0,Terrego,Parish chief,Unknown,Unknown,Yes,No,No
+0,1.0,Male,Surgical,104.0,Unknown,No,131.0,37.5,42.0,97.0,13.0,Acinetobacter baumannii,No,Yes,Private health facilty,Soroti,No,20064.0,Rubanda,Electrician,Unknown,Unknown,No,No,No
+0,10.0,Male,Surgical,90.0,Unknown,No,98.0,36.4,30.0,97.0,15.0,Proteus mirabilis,No,No,Lower-level public health facility,Soroti,No,20067.0,Ngora,Student,Unknown,Unknown,No,No,No
+0,16.0,Female,Maternity/Post-Natal ward,110.0,Unknown,No,129.0,38.8,24.0,98.0,15.0,Vibrio cholera,No,No,Private health facilty,Soroti,No,20268.0,Kasese,Retired teacher,Unknown,Unknown,Yes,No,No
+0,5.0,Male,Surgical,114.0,Unknown,No,78.0,37.4,32.0,99.0,15.0,Staphylococcus aureus,No,No,Lower-level public health facility,Soroti,No,20045.0,Bukedea,Hawker,Unknown,Unknown,No,No,No
+0,47.0,Male,Surgical,113.0,Unknown,No,119.0,36.0,19.0,99.0,15.0,Pseudomonas aeruginosa,No,No,Lower-level public health facility,Soroti,No,20057.0,Serere,Peasant,Unknown,No,No,No,No
+0,63.0,Female,Medical,66.0,Positive,Yes,130.0,36.6,32.0,80.0,14.0,Morganella morganii,No,Yes,Lower-level public health facility,Soroti,No,20133.0,Kumi,Mechanic,Unknown,Unknown,No,No,No
+0,13.0,Female,Medical,129.0,Unknown,No,84.0,36.5,22.0,98.0,15.0,Staphylococcus saprophyticus,No,No,Lower-level public health facility,Soroti,No,20013.0,Soroti,Hawker,Unknown,Unknown,No,No,No
+0,22.0,Male,Medical,113.0,Unknown,No,85.0,42.2,40.0,89.0,14.0,Vibrio cholera,No,No,Private health facilty,Soroti,No,20269.0,Soroti,Tailor,Unknown,Unknown,Yes,No,No
+0,18.0,Female,Medical,125.0,Unknown,Yes,76.0,36.5,17.0,100.0,15.0,Acinetobacter baumannii,No,No,Lower-level public health facility,Soroti,No,20178.0,Soroti,Carpenter,Unknown,Unknown,No,No,No
+0,35.0,Female,Medical,108.0,Positive,Yes,116.0,36.5,18.0,98.0,14.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Soroti,No,20207.0,Kumi,Peasant,Unknown,Unknown,No,No,Yes
+0,43.0,Female,Medical,130.0,Positive,Yes,87.0,36.3,18.0,99.0,15.0,Streptococcus pneumoniae,Yes,No,Not specified,Soroti,No,19915.0,Soroti,Peasant,Unknown,Unknown,No,No,Yes
+0,65.0,Male,Medical,144.0,Positive,Yes,130.0,36.7,26.0,98.0,15.0,Enterobacterales,No,No,Not specified,Lira,No,20261.0,Bugembe,Retired teacher,Unknown,Unknown,No,No,No
+0,52.0,Female,Medical,147.0,Unknown,No,83.0,38.2,18.0,99.0,15.0,Vibrio cholera,No,No,Private health facilty,Soroti,No,20269.0,Soroti,Businesswoman,Unknown,Unknown,No,No,No
+0,6.0,Male,Paediatric,107.0,Unknown,No,137.0,37.8,36.0,84.0,15.0,Klebsiella aerogenes,No,No,Lower-level public health facility,Soroti,No,19963.0,Kumi,Hawker,Unknown,Unknown,No,Yes,No
+0,52.0,Female,Medical,147.0,Unknown,No,83.0,42.2,20.0,98.0,15.0,Vibrio cholera,No,No,Private health facilty,Soroti,No,20269.0,Soroti,Turnboy,Unknown,Unknown,No,No,No
+0,1.0,Male,Paediatric,120.0,Unknown,Yes,113.0,36.4,44.0,99.0,15.0,Staphylococcus epidermidis,No,No,Lower-level public health facility,Soroti,No,20097.0,Alebtong,Electrician,Unknown,No,No,Yes,No
+0,7.0,Male,Paediatric,101.0,Unknown,No,120.0,36.6,32.0,96.0,14.0,Neisseria spp,No,No,Lower-level public health facility,Soroti,No,20230.0,Serere,Retired teacher,Unknown,Unknown,No,Yes,No
+0,22.0,Male,Medical,105.0,Negative,No,69.0,38.4,40.0,97.0,15.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Soroti,No,20144.0,Soroti,Mechanic,Unknown,Yes,No,No,Yes
+0,50.0,Male,Medical,126.0,Unknown,No,104.0,35.6,22.0,99.0,15.0,Streptococcus pneumoniae,Yes,Yes,Lower-level public health facility,Soroti,No,20143.0,Kaberamaido,Businessman,Unknown,No,No,No,Yes
+0,34.0,Male,Medical,134.0,Unknown,No,94.0,36.7,26.0,95.0,15.0,Proteus mirabilis,No,No,Lower-level public health facility,Soroti,No,20159.0,Soroti,Peasant,Unknown,Unknown,No,No,No
+0,30.0,Female,Surgical,109.0,Positive,No,114.0,36.6,18.0,100.0,15.0,Escherichia coli,No,No,Lower-level public health facility,Soroti,No,20151.0,Soroti,Housewife,Unknown,Unknown,Yes,No,No
+0,65.0,Male,Medical,137.0,Unknown,No,96.0,36.2,22.0,97.0,15.0,Staphylococcus aureus,No,No,Private health facilty,Soroti,No,20197.0,Soroti,Carpenter,Unknown,Unknown,No,No,No
+1,20.0,Male,Medical,106.0,Unknown,Not specified,64.0,39.4,26.0,98.0,14.0,Coliform,Yes,No,Regional referral hospital,Soroti,No,20205.0,Soroti,Student,Unknown,Unknown,Yes,No,Yes
+1,20.0,Male,Medical,106.0,Unknown,No,64.0,39.2,19.0,100.0,14.0,Pseudomonas aeruginosa,Yes,No,Private health facilty,Soroti,No,20205.0,Soroti,Student,Unknown,Unknown,Yes,No,No
+1,24.0,Female,Medical,134.0,Positive,Yes,95.0,36.9,20.0,97.0,14.0,Staphylococcus epidermidis,Yes,No,Private health facilty,Soroti,No,20168.0,Soroti,Businesswoman,Unknown,Unknown,No,No,Yes
+1,24.0,Female,Medical,134.0,Positive,Yes,95.0,37.5,20.0,97.0,13.0,Escherichia coli,Yes,No,Lower-level public health facility,Soroti,No,20168.0,Soroti,Peasant,Unknown,Unknown,No,No,No
+1,50.0,Female,Medical,155.0,Negative,Yes,93.0,37.5,20.0,98.0,14.0,Streptococcus pneumoniae,Yes,No,Lower-level public health facility,Lira,No,20179.0,Soroti,Peasant,Unknown,Unknown,No,No,No
+0,40.0,Male,TB ward,118.0,Positive,Yes,101.0,38.0,36.0,96.0,15.0,Staphylococcus saprophyticus,No,No,Private health facilty,Arua,No,20215.0,Arua,Electrician,Unknown,Yes,No,Yes,No

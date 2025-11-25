@@ -1,0 +1,894 @@
+REAL DATASET COLUMNS:
+==================================================
+
+  1. rec_id
+  2. date_data_collect
+  3. name_of_rrh
+  4. patient_id
+  5. re_admit
+  6. age
+  7. sex
+  8. res_district
+  9. res_subcounty
+ 10. village
+ 11. occupation
+ 12. allergies
+ 13. infect_site___1
+ 14. infect_site___2
+ 15. infect_site___3
+ 16. infect_site___4
+ 17. infect_site___5
+ 18. infect_site___6
+ 19. infect_site___7
+ 20. infect_site___8
+ 21. site_based_sample___1
+ 22. site_based_sample___2
+ 23. site_based_sample___3
+ 24. site_based_sample___4
+ 25. site_based_sample___5
+ 26. site_based_sample___6
+ 27. site_based_sample___7
+ 28. site_based_sample___8
+ 29. site_based_sample___9
+ 30. sec_site_infection___1
+ 31. sec_site_infection___2
+ 32. sec_site_infection___3
+ 33. sec_site_infection___4
+ 34. sec_site_infection___5
+ 35. sec_site_infection___6
+ 36. sec_site_infection___7
+ 37. sec_site_infection___8
+ 38. sec_site_infection___9
+ 39. referral
+ 40. facility_category
+ 41. admission_date
+ 42. ward
+ 43. antib_prior_admi
+ 44. prio_antib_name___1
+ 45. prio_antib_name___2
+ 46. prio_antib_name___3
+ 47. prio_antib_name___4
+ 48. prio_antib_name___5
+ 49. prio_antib_name___6
+ 50. prio_antib_name___7
+ 51. prio_antib_name___8
+ 52. prio_antib_name___9
+ 53. prio_antib_name___10
+ 54. prio_antib_name___11
+ 55. prio_antib_name___12
+ 56. prio_antib_name___13
+ 57. prio_antib_name___14
+ 58. prio_antib_name___15
+ 59. prio_antib_name___1617
+ 60. prio_antib_name___18
+ 61. prio_antib_name___19
+ 62. prio_antib_name___20
+ 63. prio_antib_name___21
+ 64. prio_antib_name___22
+ 65. prio_antib_name___23
+ 66. prio_antib_name___24
+ 67. prio_antib_name___25
+ 68. prio_antib_name___26
+ 69. prio_antib_name___27
+ 70. prio_antib_name___28
+ 71. prio_antib_name___29
+ 72. prio_antib_name___30
+ 73. prio_antib_name___31
+ 74. prio_antib_name___32
+ 75. prio_antib_name___33
+ 76. prio_antib_name___34
+ 77. prio_antib_name___35
+ 78. prio_antib_name___36
+ 79. prio_antib_name___37
+ 80. prio_antib_name___38
+ 81. prio_antib_name___39
+ 82. prio_antib_name___40
+ 83. prio_antib_name___41
+ 84. other_antibiotic_antibiotics_prescribed___42
+ 85. other_antibiotic_antibiotics_prescribed___43
+ 86. ref_other
+ 87. ref_other_antibiotics_prescribed___42
+ 88. ref_other_antibiotics_prescribed___43
+ 89. sympt_dura
+ 90. date_diagn
+ 91. diag_system___1
+ 92. diag_system___2
+ 93. diag_system___3
+ 94. diag_system___4
+ 95. diag_system___5
+ 96. diag_system___6
+ 97. diag_system___7
+ 98. diag_system___8
+ 99. diag_cns
+100. diag_git
+101. diag_resp
+102. diag_genit
+103. diag_musculo
+104. diad_cardio
+105. diag_integu
+106. diag_reprod
+107. hiv_status
+108. indwel_inst___1
+109. indwel_inst___2
+110. indwel_inst___3
+111. indwel_inst___4
+112. indwel_inst___5
+113. indwel_inst___6
+114. indwel_inst___7
+115. indwel_inst___8
+116. indwel_inst___9
+117. oth_indwel
+118. cormobid_condition
+119. cormobidities___1
+120. cormobidities___2
+121. cormobidities___3
+122. cormobidities___4
+123. cormobidities___5
+124. cormobidities___6
+125. cormobidities___7
+126. cormobidities___8
+127. other_comorbidities
+128. antibiotics
+129. antibiotics_prescribed___1
+130. antibiotics_prescribed___2
+131. antibiotics_prescribed___3
+132. antibiotics_prescribed___4
+133. antibiotics_prescribed___5
+134. antibiotics_prescribed___6
+135. antibiotics_prescribed___7
+136. antibiotics_prescribed___8
+137. antibiotics_prescribed___9
+138. antibiotics_prescribed___10
+139. antibiotics_prescribed___11
+140. antibiotics_prescribed___12
+141. antibiotics_prescribed___13
+142. antibiotics_prescribed___14
+143. antibiotics_prescribed___15
+144. antibiotics_prescribed___16
+145. antibiotics_prescribed___17
+146. antibiotics_prescribed___18
+147. antibiotics_prescribed___19
+148. antibiotics_prescribed___20
+149. antibiotics_prescribed___21
+150. antibiotics_prescribed___22
+151. antibiotics_prescribed___23
+152. antibiotics_prescribed___24
+153. antibiotics_prescribed___25
+154. antibiotics_prescribed___26
+155. antibiotics_prescribed___27
+156. antibiotics_prescribed___28
+157. antibiotics_prescribed___29
+158. antibiotics_prescribed___30
+159. antibiotics_prescribed___31
+160. antibiotics_prescribed___32
+161. antibiotics_prescribed___33
+162. antibiotics_prescribed___34
+163. antibiotics_prescribed___35
+164. antibiotics_prescribed___36
+165. antibiotics_prescribed___37
+166. antibiotics_prescribed___38
+167. antibiotics_prescribed___39
+168. antibiotics_prescribed___40
+169. antibiotics_prescribed___41
+170. other_antibiotic
+171. start_date_antib
+172. clin_param___1
+173. clin_param___2
+174. clin_param___3
+175. clin_param___4
+176. clin_param___5
+177. clin_param___6
+178. clin_param___7
+179. bp_type___1
+180. bp_type___2
+181. systolic_bp_baseline
+182. sysbp_samplecoll
+183. disatbp_admit
+184. diastolic_bp_baseline
+185. pulse_baseline
+186. pulse_discharge
+187. temp_baseline
+188. temp_discharge
+189. rr_baseline
+190. rr_discharge
+191. spo2_baseline
+192. spo2_discharge
+193. gcs_baseline
+194. gcs_discharge
+195. other_param
+196. other_baseline
+197. other_discharge
+198. culture_and_sensitivity
+199. specimen_type
+200. oth_spectype
+201. collection_date
+202. growth1
+203. organism_isolated
+204. first_organism
+205. ast_anti1___1
+206. ast_anti1___2
+207. ast_anti1___3
+208. ast_anti1___4
+209. ast_anti1___5
+210. ast_anti1___6
+211. ast_anti1___7
+212. ast_anti1___8
+213. ast_anti1___9
+214. ast_anti1___10
+215. ast_anti1___11
+216. ast_anti1___12
+217. ast_anti1___13
+218. ast_anti1___14
+219. ast_anti1___15
+220. ast_anti1___16
+221. ast_anti1___17
+222. ast_anti1___18
+223. ast_anti1___19
+224. ast_anti1___20
+225. ast_anti1___21
+226. ast_anti1___22
+227. ast_anti1___23
+228. ast_anti1___24
+229. ast_anti1___25
+230. ast_anti1___26
+231. ast_anti1___27
+232. ast_anti1___28
+233. ast_anti1___29
+234. ast_anti1___30
+235. ast_anti1___31
+236. ast_anti1___32
+237. ast_anti1___33
+238. ast_anti1___34
+239. ast_anti1___35
+240. ast_anti1___36
+241. ast_anti1___37
+242. ast_anti1___38
+243. ast_anti1___39
+244. ast_anti1___40
+245. ast_anti1___41
+246. ast_anti1___42
+247. first_amikacin
+248. first_amoxicillin
+249. first_amoxiclav
+250. first_ampicillin
+251. first_amp_sulbactam
+252. first_azithromycin
+253. first_aztreonam
+254. first_cefepime
+255. first_cefixime
+256. first_cefotaxime
+257. first_cefoxitin
+258. first_ceftazidime
+259. first_ceftriaxone
+260. first_cefsalbactam
+261. first_cefuroxime
+262. first_chloramphenicol
+263. first_ciprofloxacin
+264. first_clindamycin
+265. first_cofotaxime
+266. first_doripenem
+267. first_doxycycline
+268. first_ertapenem
+269. first_erythromycin
+270. first_gentamicin
+271. first_imipenem
+272. first_levofloxacin
+273. first_linezolid
+274. first_meropenem
+275. first_nalidixicacid
+276. first_nitrofurantoin
+277. first_oxacillin
+278. first_pen_g
+279. first_piperacillin
+280. first_pip_tazobactam
+281. first_rifampin
+282. first_streptomycin
+283. first_tetracycline
+284. first_tigecycline
+285. first_sxt
+286. first_vancomycin
+287. firs_othe
+288. firs_oth_ast
+289. firs_oth2_name
+290. firs_oth2_ast
+291. sec_organism
+292. ast_anti2___1
+293. ast_anti2___2
+294. ast_anti2___3
+295. ast_anti2___4
+296. ast_anti2___5
+297. ast_anti2___6
+298. ast_anti2___7
+299. ast_anti2___8
+300. ast_anti2___9
+301. ast_anti2___10
+302. ast_anti2___11
+303. ast_anti2___12
+304. ast_anti2___13
+305. ast_anti2___14
+306. ast_anti2___15
+307. ast_anti2___16
+308. ast_anti2___17
+309. ast_anti2___18
+310. ast_anti2___19
+311. ast_anti2___20
+312. ast_anti2___21
+313. ast_anti2___22
+314. ast_anti2___23
+315. ast_anti2___24
+316. ast_anti2___25
+317. ast_anti2___26
+318. ast_anti2___27
+319. ast_anti2___28
+320. ast_anti2___29
+321. ast_anti2___30
+322. ast_anti2___31
+323. ast_anti2___32
+324. ast_anti2___33
+325. ast_anti2___34
+326. ast_anti2___35
+327. ast_anti2___36
+328. ast_anti2___37
+329. ast_anti2___38
+330. ast_anti2___39
+331. ast_anti2___40
+332. ast_anti2___41
+333. ast_anti2___42
+334. sec_amikacin
+335. sec_amoxicillin
+336. sec_amoxiclav
+337. sec_ampicillin
+338. sec_amp_sulbactam
+339. sec_azithromycin
+340. sec_aztreonam
+341. sec_cefepime
+342. sec_cefixime
+343. sec_cefotaxime
+344. sec_cefoxitin
+345. sec_ceftazidime
+346. sec_ceftriaxone
+347. sec_cefsalbactam
+348. sec_cefuroxime
+349. sec_chloramphenicol
+350. sec_ciprofloxacin
+351. sec_clindamycin
+352. sec_cofotaxime
+353. sec_doripenem
+354. sec_doxycycline
+355. sec_ertapenem
+356. sec_erythromycin
+357. sec_gentamicin
+358. sec_imipenem
+359. sec_levofloxacin
+360. sec_linezolid
+361. sec_meropenem
+362. sec_nalidixicacid
+363. sec_nitrofurantoin
+364. sec_oxacillin
+365. sec_pen_g
+366. sec_piperacillin
+367. sec_pip_tazobactam
+368. sec_rifampin
+369. sec_streptomycin
+370. sec_tetracycline
+371. sec_tigecycline
+372. sec_sxt
+373. sec_vancomycin
+374. sec_othe
+375. sec_oth_ast
+376. sec_oth2_name
+377. sec_oth2_ast
+378. third_organism
+379. ast_anti3___1
+380. ast_anti3___2
+381. ast_anti3___3
+382. ast_anti3___4
+383. ast_anti3___5
+384. ast_anti3___6
+385. ast_anti3___7
+386. ast_anti3___8
+387. ast_anti3___9
+388. ast_anti3___10
+389. ast_anti3___11
+390. ast_anti3___12
+391. ast_anti3___13
+392. ast_anti3___14
+393. ast_anti3___15
+394. ast_anti3___16
+395. ast_anti3___17
+396. ast_anti3___18
+397. ast_anti3___19
+398. ast_anti3___20
+399. ast_anti3___21
+400. ast_anti3___22
+401. ast_anti3___23
+402. ast_anti3___24
+403. ast_anti3___25
+404. ast_anti3___26
+405. ast_anti3___27
+406. ast_anti3___28
+407. ast_anti3___29
+408. ast_anti3___30
+409. ast_anti3___31
+410. ast_anti3___32
+411. ast_anti3___33
+412. ast_anti3___34
+413. ast_anti3___35
+414. ast_anti3___36
+415. ast_anti3___37
+416. ast_anti3___38
+417. ast_anti3___39
+418. ast_anti3___40
+419. ast_anti3___41
+420. ast_anti3___42
+421. third_amikacin
+422. third_amoxicillin
+423. third_amoxiclav
+424. third_ampicillin
+425. third_amp_sulbactam
+426. third_azithromycin
+427. third_aztreonam
+428. third_cefepime
+429. third_cefixime
+430. third_cefotaxime
+431. third_cefoxitin
+432. third_ceftazidime
+433. third_ceftriaxone
+434. third_cefsalbactam
+435. third_cefuroxime
+436. third_chloramphenicol
+437. third_ciprofloxacin
+438. third_clindamycin
+439. third_cofotaxime
+440. third_doripenem
+441. third_doxycycline
+442. third_ertapenem
+443. third_erythromycin
+444. third_gentamicin
+445. third_imipenem
+446. third_levofloxacin
+447. third_linezolid
+448. third_meropenem
+449. third_nalidixicacid
+450. third_nitrofurantoin
+451. third_oxacillin
+452. third_pen_g
+453. third_piperacillin
+454. third_pip_tazobactam
+455. third_rifampin
+456. third_streptomycin
+457. third_tetracycline
+458. third_tigecycline
+459. third_sxt
+460. third_vancomycin
+461. third_othe
+462. third_oth_ast
+463. third_oth2_name
+464. third_oth2_ast
+465. antib_aft_culture
+466. date_antib_admin
+467. antib_presc_af_cul___1
+468. antib_presc_af_cul___2
+469. antib_presc_af_cul___3
+470. antib_presc_af_cul___4
+471. antib_presc_af_cul___5
+472. antib_presc_af_cul___6
+473. antib_presc_af_cul___7
+474. antib_presc_af_cul___8
+475. antib_presc_af_cul___9
+476. antib_presc_af_cul___10
+477. antib_presc_af_cul___11
+478. antib_presc_af_cul___12
+479. antib_presc_af_cul___13
+480. antib_presc_af_cul___14
+481. antib_presc_af_cul___15
+482. antib_presc_af_cul___16
+483. antib_presc_af_cul___17
+484. antib_presc_af_cul___18
+485. antib_presc_af_cul___19
+486. antib_presc_af_cul___20
+487. antib_presc_af_cul___21
+488. antib_presc_af_cul___22
+489. antib_presc_af_cul___23
+490. antib_presc_af_cul___24
+491. antib_presc_af_cul___25
+492. antib_presc_af_cul___26
+493. antib_presc_af_cul___27
+494. antib_presc_af_cul___28
+495. antib_presc_af_cul___29
+496. antib_presc_af_cul___30
+497. antib_presc_af_cul___31
+498. antib_presc_af_cul___32
+499. antib_presc_af_cul___33
+500. antib_presc_af_cul___34
+501. antib_presc_af_cul___35
+502. antib_presc_af_cul___36
+503. antib_presc_af_cul___37
+504. antib_presc_af_cul___38
+505. antib_presc_af_cul___39
+506. antib_presc_af_cul___40
+507. antib_presc_af_cul___41
+508. presc_cul_amikacin
+509. presc_cul_amoxicillin
+510. presc_cul_amoxiclav
+511. presc_cul_ampicillin
+512. presc_cul_amp_sulbactam
+513. presc_cul_azithromycin
+514. presc_cul_aztreonam
+515. presc_cul_cefepime
+516. presc_cul_cefixime
+517. presc_cul_cefotaxime
+518. presc_cul_cefoxitin
+519. presc_cul_ceftazidime
+520. presc_cul_ceftriaxone
+521. presc_cul_cefsalbactam
+522. presc_cul_cefuroxime
+523. presc_cul_chloramphenicol
+524. presc_cul_ciprofloxacin
+525. presc_cul_clindamycin
+526. presc_cul_cofotaxime
+527. presc_cul_doripenem
+528. presc_cul_doxycycline
+529. presc_cul_ertapenem
+530. presc_cul_erythromycin
+531. presc_cul_gentamicin
+532. presc_cul_imipenem
+533. presc_cul_levofloxacin
+534. presc_cul_linezolid
+535. presc_cul_meropenem
+536. presc_cul_nalidixicacid
+537. presc_cul_nitrofurantoin
+538. presc_cul_oxacillin
+539. presc_cul_pen_g
+540. presc_cul_piperacillin
+541. presc_cul_pip_tazobactam
+542. presc_cul_rifampin
+543. presc_cul_streptomycin
+544. presc_cul_tetracycline
+545. presc_cul_tigecycline
+546. presc_cul_sxt
+547. presc_cul_vancomycin
+548. other_antibiotic2
+549. missed_other
+550. repeat_culture
+551. date_rep_cult
+552. growth_rep
+553. num_organis
+554. firs_rep_organis
+555. ast_anti11___1
+556. ast_anti11___2
+557. ast_anti11___3
+558. ast_anti11___4
+559. ast_anti11___5
+560. ast_anti11___6
+561. ast_anti11___7
+562. ast_anti11___8
+563. ast_anti11___9
+564. ast_anti11___10
+565. ast_anti11___11
+566. ast_anti11___12
+567. ast_anti11___13
+568. ast_anti11___14
+569. ast_anti11___15
+570. ast_anti11___16
+571. ast_anti11___17
+572. ast_anti11___18
+573. ast_anti11___19
+574. ast_anti11___20
+575. ast_anti11___21
+576. ast_anti11___22
+577. ast_anti11___23
+578. ast_anti11___24
+579. ast_anti11___25
+580. ast_anti11___26
+581. ast_anti11___27
+582. ast_anti11___28
+583. ast_anti11___29
+584. ast_anti11___30
+585. ast_anti11___31
+586. ast_anti11___32
+587. ast_anti11___33
+588. ast_anti11___34
+589. ast_anti11___35
+590. ast_anti11___36
+591. ast_anti11___37
+592. ast_anti11___38
+593. ast_anti11___39
+594. ast_anti11___40
+595. ast_anti11___41
+596. ast_anti11___42
+597. firsrep_amikacin
+598. firsrep_amoxicillin
+599. firsrep_amoxiclav
+600. firsrep_ampicillin
+601. firsrep_amp_sulbactam
+602. firsrep_azithromycin
+603. firsrep_aztreonam
+604. firsrep_cefepime
+605. firsrep_cefixime
+606. firsrep_cefotaxime
+607. firsrep_cefoxitin
+608. firsrep_ceftazidime
+609. firsrep_ceftriaxone
+610. firsrep_cefsalbactam
+611. firsrep_cefuroxime
+612. firsrep_chloramphenicol
+613. firsrep_ciprofloxacin
+614. firsrep_clindamycin
+615. firsrep_cofotaxime
+616. firsrep_doripenem
+617. firsrep_doxycycline
+618. firsrep_ertapenem
+619. firsrep_erythromycin
+620. firsrep_gentamicin
+621. firsrep_imipenem
+622. firsrep_levofloxacin
+623. firsrep_linezolid
+624. firsrep_meropenem
+625. firsrep_nalidixicacid
+626. firsrep_nitrofurantoin
+627. firsrep_oxacillin
+628. firsrep_pen_g
+629. firsrep_piperacillin
+630. firsrep_pip_tazobactam
+631. firsrep_rifampin
+632. firsrep_streptomycin
+633. firsrep_tetracycline
+634. firsrep_tigecycline
+635. firsrep_sxt
+636. firsrep_vancomycin
+637. firsrep_othe
+638. firsrep_oth_ast
+639. firsrep_oth2_name
+640. firsrep_oth2_ast
+641. sec_rep_organis
+642. ast_anti22___1
+643. ast_anti22___2
+644. ast_anti22___3
+645. ast_anti22___4
+646. ast_anti22___5
+647. ast_anti22___6
+648. ast_anti22___7
+649. ast_anti22___8
+650. ast_anti22___9
+651. ast_anti22___10
+652. ast_anti22___11
+653. ast_anti22___12
+654. ast_anti22___13
+655. ast_anti22___14
+656. ast_anti22___15
+657. ast_anti22___16
+658. ast_anti22___17
+659. ast_anti22___18
+660. ast_anti22___19
+661. ast_anti22___20
+662. ast_anti22___21
+663. ast_anti22___22
+664. ast_anti22___23
+665. ast_anti22___24
+666. ast_anti22___25
+667. ast_anti22___26
+668. ast_anti22___27
+669. ast_anti22___28
+670. ast_anti22___29
+671. ast_anti22___30
+672. ast_anti22___31
+673. ast_anti22___32
+674. ast_anti22___33
+675. ast_anti22___34
+676. ast_anti22___35
+677. ast_anti22___36
+678. ast_anti22___37
+679. ast_anti22___38
+680. ast_anti22___39
+681. ast_anti22___40
+682. ast_anti22___41
+683. ast_anti22___42
+684. secrep_amikacin
+685. secrep_amoxicillin
+686. secrep_amoxiclav
+687. secrep_ampicillin
+688. secrep_amp_sulbactam
+689. secrep_azithromycin
+690. secrep_aztreonam
+691. secrep_cefepime
+692. secrep_cefixime
+693. secrep_cefotaxime
+694. secrep_cefoxitin
+695. secrep_ceftazidime
+696. secrep_ceftriaxone
+697. secrep_cefsalbactam
+698. secrep_cefuroxime
+699. secrep_chloramphenicol
+700. secrep_ciprofloxacin
+701. secrep_clindamycin
+702. secrep_cofotaxime
+703. secrep_doripenem
+704. secrep_doxycycline
+705. secrep_ertapenem
+706. secrep_erythromycin
+707. secrep_gentamicin
+708. secrep_imipenem
+709. secrep_levofloxacin
+710. secrep_linezolid
+711. secrep_meropenem
+712. secrep_nalidixicacid
+713. secrep_nitrofurantoin
+714. secrep_oxacillin
+715. secrep_pen_g
+716. secrep_piperacillin
+717. secrep_pip_tazobactam
+718. secrep_rifampin
+719. secrep_streptomycin
+720. secrep_tetracycline
+721. secrep_tigecycline
+722. secrep_sxt
+723. secrep_vancomycin
+724. secrep_othe
+725. secrep_oth_ast
+726. secrep_oth2_name
+727. secrep_oth2_ast
+728. third_rep_organis
+729. ast_anti33___1
+730. ast_anti33___2
+731. ast_anti33___3
+732. ast_anti33___4
+733. ast_anti33___5
+734. ast_anti33___6
+735. ast_anti33___7
+736. ast_anti33___8
+737. ast_anti33___9
+738. ast_anti33___10
+739. ast_anti33___11
+740. ast_anti33___12
+741. ast_anti33___13
+742. ast_anti33___14
+743. ast_anti33___15
+744. ast_anti33___16
+745. ast_anti33___17
+746. ast_anti33___18
+747. ast_anti33___19
+748. ast_anti33___20
+749. ast_anti33___21
+750. ast_anti33___22
+751. ast_anti33___23
+752. ast_anti33___24
+753. ast_anti33___25
+754. ast_anti33___26
+755. ast_anti33___27
+756. ast_anti33___28
+757. ast_anti33___29
+758. ast_anti33___30
+759. ast_anti33___31
+760. ast_anti33___32
+761. ast_anti33___33
+762. ast_anti33___34
+763. ast_anti33___35
+764. ast_anti33___36
+765. ast_anti33___37
+766. ast_anti33___38
+767. ast_anti33___39
+768. ast_anti33___40
+769. ast_anti33___41
+770. ast_anti33___42
+771. thirdrep_amikacin
+772. thirdrep_amoxicillin
+773. thirdrep_amoxiclav
+774. thirdrep_ampicillin
+775. thirdrep_amp_sulbactam
+776. thirdrep_azithromycin
+777. thirdrep_aztreonam
+778. thirdrep_cefepime
+779. thirdrep_cefixime
+780. thirdrep_cefotaxime
+781. thirdrep_cefoxitin
+782. thirdrep_ceftazidime
+783. thirdrep_ceftriaxone
+784. thirdrep_cefsalbactam
+785. thirdrep_cefuroxime
+786. thirdrep_chloramphenicol
+787. thirdrep_ciprofloxacin
+788. thirdrep_clindamycin
+789. thirdrep_cofotaxime
+790. thirdrep_doripenem
+791. thirdrep_doxycycline
+792. thirdrep_ertapenem
+793. thirdrep_erythromycin
+794. thirdrep_gentamicin
+795. thirdrep_imipenem
+796. thirdrep_levofloxacin
+797. thirdrep_linezolid
+798. thirdrep_meropenem
+799. thirdrep_nalidixicacid
+800. thirdrep_nitrofurantoin
+801. thirdrep_oxacillin
+802. thirdrep_pen_g
+803. thirdrep_piperacillin
+804. thirdrep_pip_tazobactam
+805. thirdrep_rifampin
+806. thirdrep_streptomycin
+807. thirdrep_tetracycline
+808. thirdrep_tigecycline
+809. thirdrep_sxt
+810. thirdrep_vancomycin
+811. thirdrep_othe
+812. thirdrep_oth_ast
+813. thirdrep_oth2_name
+814. thirdrep_oth2_ast
+815. complications
+816. comp_system___1
+817. comp_system___2
+818. comp_system___3
+819. comp_system___4
+820. comp_system___5
+821. comp_system___6
+822. comp_system___7
+823. comp_system___8
+824. comp_cns
+825. comp_git
+826. comp_resp
+827. comp_genital
+828. comp_musculo
+829. comp_cardio
+830. comp_integ
+831. treatment_outcome
+832. diag_death_file
+833. cause_death
+834. date_death
+835. diag_disch_syst___1
+836. diag_disch_syst___2
+837. diag_disch_syst___3
+838. diag_disch_syst___4
+839. diag_disch_syst___5
+840. diag_disch_syst___6
+841. diag_disch_syst___7
+842. diag_disch_syst___8
+843. disch_diag_cns
+844. disch_diag_git
+845. disch_diag_resp
+846. disch_diag_genital
+847. disch_diag_musculo
+848. disch_diag_cardio
+849. disch_diag_interg
+850. disch_diag_reprod
+851. date_at_discharge
+852. date_referral
+853. data_abstraction_form_complete
+
+
+DATASET SUMMARY:
+Total patients: 1075
+Total variables: 853
+
+MISSING DATA (TOP 10 HIGHEST):
+presc_cul_streptomycin                  : 100.0%
+thirdrep_azithromycin                   : 100.0%
+firsrep_nitrofurantoin                  : 100.0%
+sec_oth2_ast                            : 100.0%
+sec_oth2_name                           : 100.0%
+thirdrep_cefotaxime                     : 100.0%
+thirdrep_cefixime                       : 100.0%
+thirdrep_cefepime                       : 100.0%
+thirdrep_aztreonam                      : 100.0%
+thirdrep_amp_sulbactam                  : 100.0%
+
+POTENTIAL OUTCOME VARIABLES:
+- hiv_status
+  Values: {'Unknown': 793, 'Negative': 151, 'Positive': 130}
+- pulse_discharge
+- temp_discharge
+  Values: {36.5: 2, 37.2: 2, 36.8: 2, 36.4: 2, 37.3: 1, 37.8: 1, 39.2: 1, 38.1: 1, 36.9: 1, 36.6: 1, 37.4: 1, 35.4: 1, 37.1: 1, 37.0: 1, 38.3: 1, 38.5: 1}
+- rr_discharge
+  Values: {36.5: 1, 35.0: 1, 50.0: 1, 33.0: 1, 30.0: 1, 32.0: 1, 45.0: 1, 19.0: 1, 26.0: 1, 24.0: 1}
+- spo2_discharge
+  Values: {}
+- gcs_discharge
+  Values: {14.0: 2, 3.0: 2, 13.0: 1}
+- other_discharge
+  Values: {31.0: 1}
+- treatment_outcome
+  Values: {'Discharged': 783, 'Died': 124, 'Self discharged': 64, 'Recovered with complications': 63, 'Referred': 32, 'Clinical detorioration': 6}
+- diag_death_file
+- cause_death
+- date_death
+- date_at_discharge

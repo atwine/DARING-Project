@@ -1,0 +1,13 @@
+{
+  "overall_score": 0.8807638572621508,
+  "properties": [
+    {
+      "Property": "Column Shapes",
+      "Score": 0.921550554605232
+    },
+    {
+      "Property": "Column Pair Trends",
+      "Score": 0.8399771599190695
+    }
+  ]
+}

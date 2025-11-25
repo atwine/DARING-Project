@@ -1,0 +1,48 @@
+{
+  "analysis_date": "2025-11-04T14:05:44.263777",
+  "data_source": "Excel",
+  "dataset_comparison": {
+    "synthetic_sample_size": 1075,
+    "real_sample_size": 1075,
+    "size_match": true,
+    "real_variable_count": 853
+  },
+  "mortality_comparison": {
+    "synthetic_deaths": 128,
+    "synthetic_rate": 11.9,
+    "real_deaths": 124,
+    "real_rate": 11.534883720930232,
+    "suitable_for_modeling": true
+  },
+  "variable_mapping": {
+    "age": "age",
+    "sex": "sex",
+    "ward": "ward",
+    "hiv_status": "hiv_status",
+    "cormobid_condition": "cormobid_condition",
+    "referral": "referral",
+    "first_organism": "first_organism",
+    "treatment_outcome": "treatment_outcome",
+    "complications": "complications",
+    "temp_baseline": "temp_baseline",
+    "systolic_bp_baseline": "systolic_bp_baseline",
+    "pulse_baseline": "pulse_baseline",
+    "rr_baseline": "rr_baseline",
+    "spo2_baseline": "spo2_baseline",
+    "admission_date": "admission_date"
+  },
+  "missing_variables": [],
+  "missing_data_summary": {
+    "high_missing_count": 360,
+    "medium_missing_count": 7,
+    "low_missing_count": 486,
+    "avg_vital_missing": 70.51162790697676,
+    "hiv_unknown_pct": 73.76744186046513
+  },
+  "additional_opportunities": {
+    "vital_signs_additional": 11,
+    "microbiology_additional": 306,
+    "clinical_additional": 1,
+    "outcomes_additional": 5
+  }
+}

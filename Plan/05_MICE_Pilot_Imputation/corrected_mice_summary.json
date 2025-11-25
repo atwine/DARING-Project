@@ -1,0 +1,107 @@
+{
+  "analysis_date": "2025-11-04T16:35:12.744828",
+  "method": "Corrected MICE per ML Implementation Plan",
+  "pmm_used": false,
+  "iterations": 15,
+  "imputations_m": 30,
+  "outcome": "mortality",
+  "clinical_bounds_summary": {
+    "age": {
+      "bounds": "0-120 years",
+      "total_imputed": 30,
+      "violations": "0",
+      "violation_rate": 0.0
+    },
+    "systolic_bp_baseline": {
+      "bounds": "50-250 mmHg",
+      "total_imputed": 18630,
+      "violations": "0",
+      "violation_rate": 0.0
+    },
+    "pulse_baseline": {
+      "bounds": "20-250 bpm",
+      "total_imputed": 18450,
+      "violations": "0",
+      "violation_rate": 0.0
+    },
+    "temp_baseline": {
+      "bounds": "30-43 \u00b0C",
+      "total_imputed": 27300,
+      "violations": "0",
+      "violation_rate": 0.0
+    },
+    "rr_baseline": {
+      "bounds": "5-80 /min",
+      "total_imputed": 27810,
+      "violations": "0",
+      "violation_rate": 0.0
+    },
+    "spo2_baseline": {
+      "bounds": "50-100 %",
+      "total_imputed": 21510,
+      "violations": "0",
+      "violation_rate": 0.0
+    },
+    "gcs_baseline": {
+      "bounds": "3-15 points",
+      "total_imputed": 30660,
+      "violations": "0",
+      "violation_rate": 0.0
+    }
+  },
+  "distribution_results": {
+    "age": {
+      "ks_stat": 0.46741154562383613,
+      "smd": 0.01305895206665458,
+      "n_obs": 1074,
+      "n_imputed": 30
+    },
+    "systolic_bp_baseline": {
+      "ks_stat": 0.4541871501840856,
+      "smd": 0.001595592140802718,
+      "n_obs": 454,
+      "n_imputed": 18630
+    },
+    "pulse_baseline": {
+      "ks_stat": 0.4197066101095793,
+      "smd": 0.001271285666831107,
+      "n_obs": 460,
+      "n_imputed": 18450
+    },
+    "temp_baseline": {
+      "ks_stat": 0.4023110223110223,
+      "smd": 0.002118450399094268,
+      "n_obs": 165,
+      "n_imputed": 27300
+    },
+    "rr_baseline": {
+      "ks_stat": 0.49730312837108953,
+      "smd": 0.0005291890880997625,
+      "n_obs": 148,
+      "n_imputed": 27810
+    },
+    "spo2_baseline": {
+      "ks_stat": 0.6153544278482919,
+      "smd": 0.0016213256511050436,
+      "n_obs": 358,
+      "n_imputed": 21510
+    },
+    "gcs_baseline": {
+      "ks_stat": 0.6414768181762238,
+      "smd": 0.0001188129775721148,
+      "n_obs": 53,
+      "n_imputed": 30660
+    },
+    "admission_date": {
+      "ks_stat": 0.6256983240223464,
+      "smd": 0.04030348237012497,
+      "n_obs": 1074,
+      "n_imputed": 30
+    }
+  },
+  "samples_saved": [
+    "corrected_mice_sample_1.csv",
+    "corrected_mice_sample_2.csv",
+    "corrected_mice_sample_3.csv"
+  ]
+}

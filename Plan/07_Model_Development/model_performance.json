@@ -1,0 +1,42 @@
+{
+  "analysis_date": "2025-11-25T19:30:08.907304",
+  "n_imputations": 100,
+  "n_samples": 1075,
+  "n_features": 25,
+  "outcome": "mortality",
+  "methods": {
+    "pooling": "Rubin's rules (Rubin, 1987)",
+    "df_adjustment": "Barnard-Rubin (1999)",
+    "c_statistic_pooling": "Logit transformation (Debray et al., BMJ 2016)",
+    "variance_estimation": "Fisher information matrix"
+  },
+  "metrics": {
+    "c_statistic": 0.779046216991666,
+    "c_statistic_ci_lower": 0.7166676116465163,
+    "c_statistic_ci_upper": 0.8309313330522159,
+    "brier_score": 0.0867869549551606,
+    "calibration_slope": 1.313038837305276,
+    "calibration_intercept": 0.5363992223596925
+  },
+  "auc_per_imputation": {
+    "mean": 0.7787210406702623,
+    "std": 0.013853619327591517,
+    "min": 0.7472270275770837,
+    "max": 0.8256758590278485
+  },
+  "significant_predictors": [
+    "cormobid_condition",
+    "gcs_baseline",
+    "age",
+    "infect_site___2",
+    "complications"
+  ],
+  "bootstrap_validation": {
+    "n_bootstrap": 200,
+    "optimism_c_statistic": 0.04748236047236166,
+    "optimism_calibration": 0.21449737952555367,
+    "corrected_c_statistic": 0.7315638565193043,
+    "corrected_calibration_slope": 1.0985414577797223,
+    "shrinkage_factor": 1.0985414577797223
+  }
+}

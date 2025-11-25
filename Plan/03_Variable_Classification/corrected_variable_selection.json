@@ -1,0 +1,442 @@
+{
+  "analysis_date": "2025-11-04T15:14:36.286963",
+  "methodology": "van Buuren criteria from ML Implementation Plan",
+  "target_variables": "15-25 predictors",
+  "actual_selection": 25,
+  "mortality_outcome": {
+    "variable_name": "mortality",
+    "definition": "Binary outcome: 0=survived, 1=died",
+    "events": 124,
+    "event_rate": 0.11534883720930232,
+    "suitable_for_modeling": true
+  },
+  "selected_predictors": {
+    "age": {
+      "category": "Demographics",
+      "evidence": "Strong",
+      "priority": 1,
+      "type": "continuous",
+      "missing_rate": 0.09302325581395349,
+      "unique_values": 94,
+      "correlation": 0.07430755088578837,
+      "available": true
+    },
+    "sex": {
+      "category": "Demographics",
+      "evidence": "Strong",
+      "priority": 2,
+      "type": "binary",
+      "missing_rate": 0.0,
+      "unique_values": 2,
+      "correlation": 0.0,
+      "available": true
+    },
+    "ward": {
+      "category": "Clinical_Severity",
+      "evidence": "Strong",
+      "priority": 3,
+      "type": "categorical",
+      "missing_rate": 0.09302325581395349,
+      "unique_values": 11,
+      "correlation": 0.0,
+      "available": true
+    },
+    "systolic_bp_baseline": {
+      "category": "Vital_Signs",
+      "evidence": "Strong",
+      "priority": 4,
+      "type": "continuous",
+      "missing_rate": 57.76744186046512,
+      "unique_values": 105,
+      "correlation": 0.011741813371613785,
+      "available": true
+    },
+    "hiv_status": {
+      "category": "Comorbidities",
+      "evidence": "Strong",
+      "priority": 10,
+      "type": "categorical",
+      "missing_rate": 0.09302325581395349,
+      "unique_values": 3,
+      "correlation": 0.0,
+      "available": true
+    },
+    "cormobid_condition": {
+      "category": "Comorbidities",
+      "evidence": "Strong",
+      "priority": 11,
+      "type": "binary",
+      "missing_rate": 0.0,
+      "unique_values": 3,
+      "correlation": 0.0,
+      "available": true
+    },
+    "pulse_baseline": {
+      "category": "Vital_Signs",
+      "evidence": "Moderate",
+      "priority": 5,
+      "type": "continuous",
+      "missing_rate": 57.20930232558139,
+      "unique_values": 111,
+      "correlation": 0.09039847161660758,
+      "available": true
+    },
+    "temp_baseline": {
+      "category": "Vital_Signs",
+      "evidence": "Moderate",
+      "priority": 6,
+      "type": "continuous",
+      "missing_rate": 84.65116279069768,
+      "unique_values": 44,
+      "correlation": 0.002166285237110102,
+      "available": true
+    },
+    "rr_baseline": {
+      "category": "Vital_Signs",
+      "evidence": "Moderate",
+      "priority": 7,
+      "type": "continuous",
+      "missing_rate": 86.23255813953489,
+      "unique_values": 39,
+      "correlation": 0.08502962162149028,
+      "available": true
+    },
+    "spo2_baseline": {
+      "category": "Vital_Signs",
+      "evidence": "Moderate",
+      "priority": 8,
+      "type": "continuous",
+      "missing_rate": 66.69767441860465,
+      "unique_values": 33,
+      "correlation": 0.0,
+      "available": true
+    },
+    "gcs_baseline": {
+      "category": "Vital_Signs",
+      "evidence": "Moderate",
+      "priority": 9,
+      "type": "continuous",
+      "missing_rate": 95.06976744186046,
+      "unique_values": 15,
+      "correlation": 0.0,
+      "available": true
+    },
+    "first_organism": {
+      "category": "Infection",
+      "evidence": "Moderate",
+      "priority": 12,
+      "type": "categorical",
+      "missing_rate": 46.883720930232556,
+      "unique_values": 40,
+      "correlation": 0.0,
+      "available": true
+    },
+    "infect_site___1": {
+      "category": "Infection",
+      "evidence": "Moderate",
+      "priority": 13,
+      "type": "categorical",
+      "missing_rate": 0.0,
+      "unique_values": 2,
+      "correlation": 0.0,
+      "available": true
+    },
+    "referral": {
+      "category": "Clinical_Process",
+      "evidence": "Moderate",
+      "priority": 14,
+      "type": "binary",
+      "missing_rate": 0.18604651162790697,
+      "unique_values": 2,
+      "correlation": 0.0,
+      "available": true
+    },
+    "facility_category": {
+      "category": "System",
+      "evidence": "Moderate",
+      "priority": 15,
+      "type": "categorical",
+      "missing_rate": 80.0,
+      "unique_values": 4,
+      "correlation": 0.0,
+      "available": true
+    },
+    "name_of_rrh": {
+      "category": "System",
+      "evidence": "Moderate",
+      "priority": 16,
+      "type": "categorical",
+      "missing_rate": 0.0,
+      "unique_values": 9,
+      "correlation": 0.0,
+      "available": true
+    },
+    "complications": {
+      "category": "Clinical_Severity",
+      "evidence": "Moderate",
+      "priority": 17,
+      "type": "binary",
+      "missing_rate": 0.0,
+      "unique_values": 2,
+      "correlation": 0.0,
+      "available": true
+    },
+    "admission_date": {
+      "category": "Clinical_Process",
+      "evidence": "Weak",
+      "priority": 18,
+      "type": "datetime",
+      "missing_rate": 0.09302325581395349,
+      "unique_values": 627,
+      "correlation": 0.0,
+      "available": true
+    },
+    "res_district": {
+      "category": "Demographics",
+      "evidence": "Weak",
+      "priority": 19,
+      "type": "categorical",
+      "missing_rate": 5.3023255813953485,
+      "unique_values": 138,
+      "correlation": 0.0,
+      "available": true
+    },
+    "occupation": {
+      "category": "Demographics",
+      "evidence": "Weak",
+      "priority": 20,
+      "type": "categorical",
+      "missing_rate": 78.23255813953487,
+      "unique_values": 26,
+      "correlation": 0.0,
+      "available": true
+    },
+    "allergies": {
+      "category": "Clinical_History",
+      "evidence": "Weak",
+      "priority": 21,
+      "type": "categorical",
+      "missing_rate": 0.0,
+      "unique_values": 2,
+      "correlation": 0.0,
+      "available": true
+    },
+    "antib_prior_admi": {
+      "category": "Clinical_History",
+      "evidence": "Weak",
+      "priority": 22,
+      "type": "binary",
+      "missing_rate": 0.09302325581395349,
+      "unique_values": 3,
+      "correlation": 0.0,
+      "available": true
+    },
+    "infect_site___2": {
+      "category": "Infection",
+      "evidence": "Weak",
+      "priority": 23,
+      "type": "categorical",
+      "missing_rate": 0.0,
+      "unique_values": 2,
+      "correlation": 0.0,
+      "available": true
+    },
+    "infect_site___3": {
+      "category": "Infection",
+      "evidence": "Weak",
+      "priority": 24,
+      "type": "categorical",
+      "missing_rate": 0.0,
+      "unique_values": 2,
+      "correlation": 0.0,
+      "available": true
+    },
+    "site_based_sample___1": {
+      "category": "Infection",
+      "evidence": "Weak",
+      "priority": 25,
+      "type": "categorical",
+      "missing_rate": 0.0,
+      "unique_values": 2,
+      "correlation": 0.0,
+      "available": true
+    }
+  },
+  "mice_configuration": {
+    "age": {
+      "type": "continuous",
+      "mice_method": "pmm",
+      "missing_rate": 0.09302325581395349,
+      "evidence_level": "Strong",
+      "category": "Demographics"
+    },
+    "sex": {
+      "type": "binary",
+      "mice_method": "logreg",
+      "missing_rate": 0.0,
+      "evidence_level": "Strong",
+      "category": "Demographics"
+    },
+    "ward": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate": 0.09302325581395349,
+      "evidence_level": "Strong",
+      "category": "Clinical_Severity"
+    },
+    "systolic_bp_baseline": {
+      "type": "continuous",
+      "mice_method": "pmm",
+      "missing_rate": 57.76744186046512,
+      "evidence_level": "Strong",
+      "category": "Vital_Signs"
+    },
+    "hiv_status": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate": 0.09302325581395349,
+      "evidence_level": "Strong",
+      "category": "Comorbidities"
+    },
+    "cormobid_condition": {
+      "type": "binary",
+      "mice_method": "logreg",
+      "missing_rate": 0.0,
+      "evidence_level": "Strong",
+      "category": "Comorbidities"
+    },
+    "pulse_baseline": {
+      "type": "continuous",
+      "mice_method": "pmm",
+      "missing_rate": 57.20930232558139,
+      "evidence_level": "Moderate",
+      "category": "Vital_Signs"
+    },
+    "temp_baseline": {
+      "type": "continuous",
+      "mice_method": "pmm",
+      "missing_rate": 84.65116279069768,
+      "evidence_level": "Moderate",
+      "category": "Vital_Signs"
+    },
+    "rr_baseline": {
+      "type": "continuous",
+      "mice_method": "pmm",
+      "missing_rate": 86.23255813953489,
+      "evidence_level": "Moderate",
+      "category": "Vital_Signs"
+    },
+    "spo2_baseline": {
+      "type": "continuous",
+      "mice_method": "pmm",
+      "missing_rate": 66.69767441860465,
+      "evidence_level": "Moderate",
+      "category": "Vital_Signs"
+    },
+    "gcs_baseline": {
+      "type": "continuous",
+      "mice_method": "pmm",
+      "missing_rate": 95.06976744186046,
+      "evidence_level": "Moderate",
+      "category": "Vital_Signs"
+    },
+    "first_organism": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate": 46.883720930232556,
+      "evidence_level": "Moderate",
+      "category": "Infection"
+    },
+    "infect_site___1": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate": 0.0,
+      "evidence_level": "Moderate",
+      "category": "Infection"
+    },
+    "referral": {
+      "type": "binary",
+      "mice_method": "logreg",
+      "missing_rate": 0.18604651162790697,
+      "evidence_level": "Moderate",
+      "category": "Clinical_Process"
+    },
+    "facility_category": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate": 80.0,
+      "evidence_level": "Moderate",
+      "category": "System"
+    },
+    "name_of_rrh": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate": 0.0,
+      "evidence_level": "Moderate",
+      "category": "System"
+    },
+    "complications": {
+      "type": "binary",
+      "mice_method": "logreg",
+      "missing_rate": 0.0,
+      "evidence_level": "Moderate",
+      "category": "Clinical_Severity"
+    },
+    "admission_date": {
+      "type": "datetime",
+      "mice_method": "pmm",
+      "missing_rate": 0.09302325581395349,
+      "evidence_level": "Weak",
+      "category": "Clinical_Process"
+    },
+    "res_district": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate": 5.3023255813953485,
+      "evidence_level": "Weak",
+      "category": "Demographics"
+    },
+    "occupation": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate": 78.23255813953487,
+      "evidence_level": "Weak",
+      "category": "Demographics"
+    },
+    "allergies": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate": 0.0,
+      "evidence_level": "Weak",
+      "category": "Clinical_History"
+    },
+    "antib_prior_admi": {
+      "type": "binary",
+      "mice_method": "logreg",
+      "missing_rate": 0.09302325581395349,
+      "evidence_level": "Weak",
+      "category": "Clinical_History"
+    },
+    "infect_site___2": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate": 0.0,
+      "evidence_level": "Weak",
+      "category": "Infection"
+    },
+    "infect_site___3": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate": 0.0,
+      "evidence_level": "Weak",
+      "category": "Infection"
+    },
+    "site_based_sample___1": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate": 0.0,
+      "evidence_level": "Weak",
+      "category": "Infection"
+    }
+  }
+}

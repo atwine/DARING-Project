@@ -1,0 +1,141 @@
+{
+  "analysis_date": "2025-11-04T15:22:22.848119",
+  "methodology": "ML Implementation Plan Step 1.2 and Step 2.1\u20132.3 (van Buuren, White rule)",
+  "outcome_variable": "mortality",
+  "predictors_selected_count": 25,
+  "predictors_missing_in_data": [],
+  "variables_to_impute_count": 16,
+  "percent_incomplete_cases": 100.0,
+  "imputations": {
+    "minimum_white_rule": 100,
+    "pilot": 100,
+    "final": 100
+  },
+  "variable_methods": {
+    "age": {
+      "type": "continuous",
+      "mice_method": "pmm",
+      "missing_rate_percent": 0.09302325581395349
+    },
+    "sex": {
+      "type": "binary",
+      "mice_method": "logreg",
+      "missing_rate_percent": 0.0
+    },
+    "ward": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate_percent": 0.09302325581395349
+    },
+    "systolic_bp_baseline": {
+      "type": "continuous",
+      "mice_method": "pmm",
+      "missing_rate_percent": 57.76744186046512
+    },
+    "hiv_status": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate_percent": 0.09302325581395349
+    },
+    "cormobid_condition": {
+      "type": "binary",
+      "mice_method": "logreg",
+      "missing_rate_percent": 0.0
+    },
+    "pulse_baseline": {
+      "type": "continuous",
+      "mice_method": "pmm",
+      "missing_rate_percent": 57.20930232558139
+    },
+    "temp_baseline": {
+      "type": "continuous",
+      "mice_method": "pmm",
+      "missing_rate_percent": 84.65116279069768
+    },
+    "rr_baseline": {
+      "type": "continuous",
+      "mice_method": "pmm",
+      "missing_rate_percent": 86.23255813953489
+    },
+    "spo2_baseline": {
+      "type": "continuous",
+      "mice_method": "pmm",
+      "missing_rate_percent": 66.69767441860465
+    },
+    "gcs_baseline": {
+      "type": "continuous",
+      "mice_method": "pmm",
+      "missing_rate_percent": 95.06976744186046
+    },
+    "first_organism": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate_percent": 46.883720930232556
+    },
+    "infect_site___1": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate_percent": 0.0
+    },
+    "referral": {
+      "type": "binary",
+      "mice_method": "logreg",
+      "missing_rate_percent": 0.18604651162790697
+    },
+    "facility_category": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate_percent": 80.0
+    },
+    "name_of_rrh": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate_percent": 0.0
+    },
+    "complications": {
+      "type": "binary",
+      "mice_method": "logreg",
+      "missing_rate_percent": 0.0
+    },
+    "admission_date": {
+      "type": "datetime",
+      "mice_method": "pmm",
+      "missing_rate_percent": 0.09302325581395349
+    },
+    "res_district": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate_percent": 5.3023255813953485
+    },
+    "occupation": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate_percent": 78.23255813953487
+    },
+    "allergies": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate_percent": 0.0
+    },
+    "antib_prior_admi": {
+      "type": "binary",
+      "mice_method": "logreg",
+      "missing_rate_percent": 0.09302325581395349
+    },
+    "infect_site___2": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate_percent": 0.0
+    },
+    "infect_site___3": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate_percent": 0.0
+    },
+    "site_based_sample___1": {
+      "type": "categorical",
+      "mice_method": "polyreg",
+      "missing_rate_percent": 0.0
+    }
+  }
+}

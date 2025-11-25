@@ -1,0 +1,52 @@
+{
+  "analysis_date": "2025-11-04T14:14:55.923596",
+  "dataset_summary": {
+    "total_patients": 1075,
+    "total_variables": 854,
+    "mortality_events": 124,
+    "mortality_rate_pct": 11.534883720930232
+  },
+  "missing_data_overview": {
+    "extremely_high_missing": 324,
+    "very_high_missing": 36,
+    "moderate_missing": 7,
+    "low_missing": 24,
+    "complete_variables": 463
+  },
+  "vital_signs_analysis": {
+    "Temperature": 84.65116279069768,
+    "Systolic BP": 57.76744186046512,
+    "Diastolic BP": 96.46511627906976,
+    "Pulse": 57.20930232558139,
+    "Respiratory Rate": 86.23255813953489,
+    "Oxygen Saturation": 66.69767441860465,
+    "Glasgow Coma Scale": 95.06976744186046
+  },
+  "complete_cases": {
+    "all_variables": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "core_predictors": {
+      "count": 570,
+      "percentage": 53.02325581395348
+    }
+  },
+  "missing_mechanism_assessment": "MAR/MNAR",
+  "recommendations": {
+    "suitable_for_mice": true,
+    "max_predictors": 12,
+    "high_missing_exclusion_candidates": [
+      "presc_cul_tetracycline",
+      "thirdrep_ampicillin",
+      "thirdrep_amoxicillin",
+      "thirdrep_amikacin",
+      "firsrep_cefixime",
+      "firsrep_cefoxitin",
+      "firsrep_cefsalbactam",
+      "firsrep_cofotaxime",
+      "firsrep_doripenem",
+      "firsrep_ertapenem"
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "analysis_date": "2025-11-04T16:35:25.450933",
+  "n_samples_evaluated": 3,
+  "overall_score": 0.6666666666666666,
+  "quality_rating": "\u26a0\ufe0f  GOOD",
+  "recommendation": "Minor improvements recommended before final imputation",
+  "bounds_compliance": 1.0,
+  "distributional_quality": 0.0,
+  "variability_stability": 1.0,
+  "outcome_preserved": true,
+  "detailed_results": {
+    "bounds": {
+      "age": {
+        "bounds": "0-120 years",
+        "violations": "0",
+        "total": 3,
+        "rate": 0.0,
+        "status": "\u2705 PASS"
+      },
+      "systolic_bp_baseline": {
+        "bounds": "50-250 mmHg",
+        "violations": "0",
+        "total": 1863,
+        "rate": 0.0,
+        "status": "\u2705 PASS"
+      },
+      "pulse_baseline": {
+        "bounds": "20-250 bpm",
+        "violations": "0",
+        "total": 1845,
+        "rate": 0.0,
+        "status": "\u2705 PASS"
+      },
+      "temp_baseline": {
+        "bounds": "30-43 \u00b0C",
+        "violations": "0",
+        "total": 2730,
+        "rate": 0.0,
+        "status": "\u2705 PASS"
+      },
+      "rr_baseline": {
+        "bounds": "5-80 /min",
+        "violations": "0",
+        "total": 2781,
+        "rate": 0.0,
+        "status": "\u2705 PASS"
+      },
+      "spo2_baseline": {
+        "bounds": "50-100 %",
+        "violations": "0",
+        "total": 2151,
+        "rate": 0.0,
+        "status": "\u2705 PASS"
+      },
+      "gcs_baseline": {
+        "bounds": "3-15 points",
+        "violations": "0",
+        "total": 3066,
+        "rate": 0.0,
+        "status": "\u2705 PASS"
+      }
+    },
+    "distributions": {
+      "age": {
+        "ks_stat": 0.542830540037244,
+        "smd": 0.07920883376778089,
+        "n_obs": 1074,
+        "n_imputed": 3,
+        "quality": "\u26a0\ufe0f  FAIR"
+      },
+      "systolic_bp_baseline": {
+        "ks_stat": 0.4589643911932107,
+        "smd": 0.003578161588462636,
+        "n_obs": 454,
+        "n_imputed": 1863,
+        "quality": "\u26a0\ufe0f  FAIR"
+      },
+      "pulse_baseline": {
+        "ks_stat": 0.41753858842936253,
+        "smd": 0.0006229158747184036,
+        "n_obs": 460,
+        "n_imputed": 1845,
+        "quality": "\u26a0\ufe0f  FAIR"
+      },
+      "temp_baseline": {
+        "ks_stat": 0.4017982017982018,
+        "smd": 0.0036979592403338668,
+        "n_obs": 165,
+        "n_imputed": 2730,
+        "quality": "\u26a0\ufe0f  FAIR"
+      },
+      "rr_baseline": {
+        "ks_stat": 0.49784250269687164,
+        "smd": 0.0010135426951084715,
+        "n_obs": 148,
+        "n_imputed": 2781,
+        "quality": "\u26a0\ufe0f  FAIR"
+      },
+      "spo2_baseline": {
+        "ks_stat": 0.6154339001988522,
+        "smd": 0.00047963760476331407,
+        "n_obs": 357,
+        "n_imputed": 2151,
+        "quality": "\u26a0\ufe0f  FAIR"
+      },
+      "gcs_baseline": {
+        "ks_stat": 0.4583333333333333,
+        "smd": 0.43539359305378095,
+        "n_obs": 24,
+        "n_imputed": 3066,
+        "quality": "\u274c POOR"
+      }
+    },
+    "variability": {
+      "age": {
+        "mean_cv": 2.9225187614760874e-05,
+        "sd_cv": 3.0402480154027438e-06,
+        "stability": "\u2705 STABLE"
+      },
+      "systolic_bp_baseline": {
+        "mean_cv": 0.00014406989415846052,
+        "sd_cv": 0.0003223856952942928,
+        "stability": "\u2705 STABLE"
+      },
+      "pulse_baseline": {
+        "mean_cv": 0.0008572734450173145,
+        "sd_cv": 0.0010099559988998804,
+        "stability": "\u2705 STABLE"
+      },
+      "temp_baseline": {
+        "mean_cv": 0.00036622913424047933,
+        "sd_cv": 0.0035477323614126416,
+        "stability": "\u2705 STABLE"
+      },
+      "rr_baseline": {
+        "mean_cv": 0.0010289700909914528,
+        "sd_cv": 0.0016978969512833572,
+        "stability": "\u2705 STABLE"
+      },
+      "spo2_baseline": {
+        "mean_cv": 0.0003244890491052258,
+        "sd_cv": 0.0015689767775501253,
+        "stability": "\u2705 STABLE"
+      },
+      "gcs_baseline": {
+        "mean_cv": 0.0005822535057927455,
+        "sd_cv": 0.0034678496346564345,
+        "stability": "\u2705 STABLE"
+      }
+    }
+  }
+}

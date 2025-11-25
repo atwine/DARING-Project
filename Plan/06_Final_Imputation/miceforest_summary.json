@@ -1,0 +1,95 @@
+{
+  "analysis_date": "2025-11-25T18:21:38.920315",
+  "method": "miceforest (LightGBM with PMM)",
+  "mean_match_candidates": 5,
+  "iterations": 10,
+  "final_m": 20,
+  "outcome": "mortality",
+  "n_patients": 1075,
+  "n_predictors": 25,
+  "n_continuous": 8,
+  "n_categorical": 17,
+  "clinical_bounds_enforced": true,
+  "total_violations": 275,
+  "validation_results": {
+    "age": {
+      "bounds": "0-120 years",
+      "imputed_cells": "20",
+      "violations": "0",
+      "violation_rate": "0.0",
+      "status": "\u2705 EXCELLENT"
+    },
+    "systolic_bp_baseline": {
+      "bounds": "50-250 mmHg",
+      "imputed_cells": "12420",
+      "violations": "0",
+      "violation_rate": "0.0",
+      "status": "\u2705 EXCELLENT"
+    },
+    "pulse_baseline": {
+      "bounds": "20-250 bpm",
+      "imputed_cells": "12300",
+      "violations": "46",
+      "violation_rate": "0.0037398373983739837",
+      "status": "\u26a0\ufe0f ACCEPTABLE"
+    },
+    "temp_baseline": {
+      "bounds": "30-43 \u00b0C",
+      "imputed_cells": "18200",
+      "violations": "33",
+      "violation_rate": "0.0018131868131868133",
+      "status": "\u26a0\ufe0f ACCEPTABLE"
+    },
+    "rr_baseline": {
+      "bounds": "5-80 /min",
+      "imputed_cells": "18540",
+      "violations": "0",
+      "violation_rate": "0.0",
+      "status": "\u2705 EXCELLENT"
+    },
+    "spo2_baseline": {
+      "bounds": "50-100 %",
+      "imputed_cells": "14340",
+      "violations": "196",
+      "violation_rate": "0.013668061366806136",
+      "status": "\u274c HIGH"
+    },
+    "gcs_baseline": {
+      "bounds": "3-15 points",
+      "imputed_cells": "20440",
+      "violations": "0",
+      "violation_rate": "0.0",
+      "status": "\u2705 EXCELLENT"
+    },
+    "admission_date": {
+      "bounds": "12784-22279 days",
+      "imputed_cells": "20",
+      "violations": "0",
+      "violation_rate": "0.0",
+      "status": "\u2705 EXCELLENT"
+    }
+  },
+  "outcome_preserved": true,
+  "samples_saved": [
+    "imputed_dataset_81.csv",
+    "imputed_dataset_82.csv",
+    "imputed_dataset_83.csv",
+    "imputed_dataset_84.csv",
+    "imputed_dataset_85.csv",
+    "imputed_dataset_86.csv",
+    "imputed_dataset_87.csv",
+    "imputed_dataset_88.csv",
+    "imputed_dataset_89.csv",
+    "imputed_dataset_90.csv",
+    "imputed_dataset_91.csv",
+    "imputed_dataset_92.csv",
+    "imputed_dataset_93.csv",
+    "imputed_dataset_94.csv",
+    "imputed_dataset_95.csv",
+    "imputed_dataset_96.csv",
+    "imputed_dataset_97.csv",
+    "imputed_dataset_98.csv",
+    "imputed_dataset_99.csv",
+    "imputed_dataset_100.csv"
+  ]
+}
