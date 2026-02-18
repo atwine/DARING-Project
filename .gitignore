@@ -35,3 +35,7 @@ desktop.ini
 *.tmp
 *.temp
 ~$*
+
+# Real Data
+RealData/
+Data
